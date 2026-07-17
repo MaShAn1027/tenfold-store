@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Shop — TENFOLD</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/css/main.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>◍</text></svg>" />
+</head>
+<body class="page-shop">
+  <div id="progress"></div>
+  <div id="cursor"></div>
+  <header class="site-header">
+    <a class="brand" href="index.html">TENFOLD</a>
+    <nav class="nav micro">
+      <a href="shop.html" class="active">Shop All</a>
+      <a href="shop.html?c=Premium">Premium</a>
+      <a href="shop.html?c=Street">Street</a>
+      <a href="shop.html?c=Graphic">Graphic</a>
+      <a href="shop.html?c=Statement">Statement</a>
+    </nav>
+    <button class="cart-btn micro" id="cart-open">Bag <span class="cart-count" id="cart-count">0</span></button>
+  </header>
+
+  <main class="section">
+    <div class="section-head">
+      <h2>The <em class="serif-i">catalog</em></h2>
+      <span class="micro result-count" id="result-count">—</span>
+    </div>
+
+    <div class="shop-layout">
+      <aside class="filters">
+        <div class="filter-group">
+          <h4 class="micro">Collection</h4>
+          <div id="f-collections"></div>
+        </div>
+        <div class="filter-group">
+          <h4 class="micro">Price</h4>
+          <div id="f-price">
+            <label><input type="radio" name="price" value="all" checked> All</label>
+            <label><input type="radio" name="price" value="0-25"> Under $25</label>
+            <label><input type="radio" name="price" value="25-40"> $25 – $40</label>
+            <label><input type="radio" name="price" value="40-60"> $40 – $60</label>
+            <label><input type="radio" name="price" value="60-999"> $60+</label>
+          </div>
+        </div>
+      </aside>
+
+      <div>
+        <div class="shop-toolbar">
+          <input type="search" id="search" placeholder="Search styles, themes…" />
+          <select id="sort">
+            <option value="featured">Featured</option>
+            <option value="price-asc">Price: low → high</option>
+            <option value="price-desc">Price: high → low</option>
+            <option value="name">Name A–Z</option>
+          </select>
+        </div>
+        <div class="grid" id="grid"></div>
+        <div class="load-more" id="load-more" style="display:none">
+          <button class="btn" id="load-more-btn">Load more</button>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-base" style="border-top:0;margin-top:0"><span>© 2026 TENFOLD Studio</span><span>Designed &amp; built in-house</span></div>
+  </footer>
+
+  <div class="overlay" id="overlay"></div>
+  <aside class="drawer" id="drawer" aria-label="Shopping bag">
+    <div class="drawer-head"><span class="micro">Your bag</span><button id="drawer-close">✕</button></div>
+    <div class="drawer-items" id="drawer-items"></div>
+    <div class="drawer-foot">
+      <div class="drawer-total"><span>Total</span><span id="cart-total">$0.00</span></div>
+      <button class="btn solid" id="checkout" style="justify-content:center">Checkout</button>
+      <div class="drawer-note">Payments launch soon — Stripe integration is the next milestone.</div>
+    </div>
+  </aside>
+
+  <div class="modal" id="modal"></div>
+
+  <script type="module" src="assets/js/shop.js"></script>
+</body>
+</html>

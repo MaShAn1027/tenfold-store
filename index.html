@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>TENFOLD — The T-shirt, Taken Seriously</title>
+  <meta name="description" content="TENFOLD is a study in the perfect T-shirt: heavyweight organic cotton, considered graphics, and a catalog built from what the world actually wears." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400;1,9..144,500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/css/main.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>◍</text></svg>" />
+</head>
+<body class="page-home">
+  <div id="progress"></div>
+  <div id="cursor"></div>
+
+  <header class="site-header on-dark" id="header">
+    <a class="brand" href="index.html">TENFOLD</a>
+    <nav class="nav micro">
+      <a href="shop.html">Shop All</a>
+      <a href="shop.html?c=Premium">Premium</a>
+      <a href="shop.html?c=Street">Street</a>
+      <a href="shop.html?c=Graphic">Graphic</a>
+      <a href="shop.html?c=Statement">Statement</a>
+    </nav>
+    <button class="cart-btn micro" id="cart-open">Bag <span class="cart-count" id="cart-count">0</span></button>
+  </header>
+
+  <section class="hero">
+    <svg class="hero-ring" viewBox="0 0 200 200" aria-hidden="true">
+      <defs><path id="ring" d="M100,100 m-78,0 a78,78 0 1,1 156,0 a78,78 0 1,1 -156,0"/></defs>
+      <text fill="#4c4a41" font-size="10.5" letter-spacing="3.5">
+        <textPath href="#ring">EVIDENCE-BASED DESIGN · HEAVYWEIGHT ORGANIC COTTON · 299 STYLES ·&#160;</textPath>
+      </text>
+    </svg>
+    <div class="hero-tee" id="hero-tee" aria-hidden="true"></div>
+
+    <div class="hero-content">
+      <p class="hero-kicker micro">SS26 · The catalog of what people actually wear</p>
+      <h1>
+        <span class="line-mask"><span style="--d:.05s">The T-shirt,</span></span>
+        <span class="line-mask"><span style="--d:.18s">taken <em class="accent">seriously</em>.</span></span>
+      </h1>
+      <p class="lede">Hundreds of styles, none of them accidental. Every piece earned its place through demand signals from the world's largest marketplaces — then we rebuilt it in heavyweight organic cotton.</p>
+      <div class="hero-cta">
+        <a class="btn solid" href="shop.html">Browse the catalog</a>
+        <a class="btn ghost" href="#collections">Collections ↓</a>
+      </div>
+    </div>
+
+    <div class="scroll-hint">Scroll</div>
+
+    <div class="marquee" aria-hidden="true">
+      <div class="marquee-track" id="marquee-a"></div>
+      <div class="marquee-track" id="marquee-b"></div>
+    </div>
+  </section>
+
+  <section class="section full" id="collections">
+    <div class="section-head reveal">
+      <h2>Four studies <em class="serif-i">in cotton</em></h2>
+      <span class="micro">Drag to explore →</span>
+    </div>
+    <div class="rail" id="rail"><!-- rendered from data --></div>
+  </section>
+
+  <section class="strip">
+    <div class="strip-inner">
+      <div class="reveal">
+        <p class="micro" style="color:var(--accent)">Method</p>
+        <h2 style="margin-top:14px">Curation <em class="serif-i">is</em> research.</h2>
+        <p>We don't guess at taste. Every style begins as a demand signal — bestseller lists, marketplace trends, what keeps selling out — and ends as an original design cut from 220&nbsp;gsm combed organic cotton. The result is a catalog with no filler.</p>
+        <a class="btn ghost" href="shop.html" style="margin-top:34px;color:var(--cream)">See the proof</a>
+      </div>
+      <div class="stats">
+        <div class="stat reveal" style="--d:.0s"><b><span data-count id="stat-count">0</span></b><span>styles in the catalog</span></div>
+        <div class="stat reveal" style="--d:.08s"><b><span data-count>5</span></b><span>marketplaces analyzed</span></div>
+        <div class="stat reveal" style="--d:.16s"><b><span data-count>220</span><i>gsm</i></b><span>heavyweight cotton</span></div>
+        <div class="stat reveal" style="--d:.24s"><b><span data-count>0</span></b><span>designs without a reason</span></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="viz">
+    <div class="viz-inner">
+      <div class="section-head reveal">
+        <h2>The catalog, <em class="serif-i">quantified</em></h2>
+        <span class="micro">Live from the product data</span>
+      </div>
+      <div class="viz-grid">
+        <div class="chart-card reveal" style="--d:.05s">
+          <h3>Price architecture</h3>
+          <p class="chart-sub">Styles per price band, USD — accessible entry to elevated essentials</p>
+          <div class="chart" id="chart-price"></div>
+          <button class="viz-table-toggle" data-table="price">View as table</button>
+          <table class="viz-table" id="table-price"></table>
+        </div>
+        <div class="chart-card reveal" style="--d:.15s">
+          <h3>Collection split</h3>
+          <p class="chart-sub">Styles per collection across the full catalog</p>
+          <div class="chart" id="chart-collection"></div>
+          <button class="viz-table-toggle" data-table="collection">View as table</button>
+          <table class="viz-table" id="table-collection"></table>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="marquee on-paper" aria-hidden="true">
+    <div class="marquee-track" id="marquee2-a"></div>
+    <div class="marquee-track" id="marquee2-b"></div>
+  </div>
+
+  <section class="section">
+    <div class="section-head reveal">
+      <h2>New in <em class="serif-i">the catalog</em></h2>
+      <a class="micro" href="shop.html" style="border-bottom:1px solid var(--ink)">View all 299</a>
+    </div>
+    <div class="grid" id="featured"><!-- rendered from data --></div>
+  </section>
+
+  <section class="footer-cta">
+    <h2 class="reveal">Wear the <em class="serif-i">evidence</em>.</h2>
+    <a class="btn reveal" href="shop.html" style="--d:.15s">Enter the catalog</a>
+  </section>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div>
+        <div class="brand">TENFOLD</div>
+        <p>An independent label for people who think a T-shirt can be both evidence-based and beautiful.</p>
+      </div>
+      <div class="footer-col"><h5 class="micro">Shop</h5>
+        <a href="shop.html?c=Premium">Premium Essentials</a>
+        <a href="shop.html?c=Street">Street</a>
+        <a href="shop.html?c=Graphic">Graphic</a>
+        <a href="shop.html?c=Statement">Statement</a>
+      </div>
+      <div class="footer-col"><h5 class="micro">House</h5>
+        <a href="#">Our method</a><a href="#">Fabric &amp; fit</a><a href="#">Sustainability</a>
+      </div>
+      <div class="footer-col"><h5 class="micro">Support</h5>
+        <a href="#">Shipping</a><a href="#">Returns</a><a href="#">Contact</a>
+      </div>
+    </div>
+    <div class="footer-base"><span>© 2026 TENFOLD Studio</span><span>Designed &amp; built in-house</span></div>
+  </footer>
+
+  <div class="overlay" id="overlay"></div>
+  <aside class="drawer" id="drawer" aria-label="Shopping bag">
+    <div class="drawer-head"><span class="micro">Your bag</span><button id="drawer-close">✕</button></div>
+    <div class="drawer-items" id="drawer-items"></div>
+    <div class="drawer-foot">
+      <div class="drawer-total"><span>Total</span><span id="cart-total">$0.00</span></div>
+      <button class="btn solid" id="checkout" style="justify-content:center">Checkout</button>
+      <div class="drawer-note">Payments launch soon — Stripe integration is the next milestone.</div>
+    </div>
+  </aside>
+  <div class="modal" id="modal"></div>
+
+  <script type="module" src="assets/js/home.js"></script>
+</body>
+</html>

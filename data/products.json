@@ -1,0 +1,6282 @@
+[
+ {
+  "id": "tf-deodorant-logic-tee",
+  "name": "Deodorant Logic Tee",
+  "collection": "Graphic",
+  "category": "humor",
+  "theme": "没常识的人往往意识不到自己缺常识",
+  "style": [
+   "sarcastic",
+   "bold-typography",
+   "minimal"
+  ],
+  "price_usd": 19,
+  "evidence": "Amazon Feelin Good Tees 与 Novelty 榜常年热卖 'Common Sense is Like Deodorant' 类讽刺文字款；文字优先设计仍是高走量主力",
+  "source": "amazon",
+  "design": {
+   "base_color": "#1a1a1a",
+   "print_color": "#f5f5f0",
+   "graphic_desc": "Centered stacked bold text with a small dripping deodorant-stick doodle underneath",
+   "typography": "'COMMON SENSE IS LIKE DEODORANT — THE PEOPLE WHO NEED IT MOST NEVER USE IT' in condensed grotesque all-caps"
+  }
+ },
+ {
+  "id": "tf-paused-my-game-tee",
+  "name": "Paused My Game Tee",
+  "collection": "Graphic",
+  "category": "humor",
+  "theme": "我暂停了游戏专程来这儿",
+  "style": [
+   "gamer",
+   "sarcastic",
+   "retro-pixel"
+  ],
+  "price_usd": 18,
+  "evidence": "'I Paused My Game to Be Here' 是 Novelty 男士榜与 Etsy 长青游戏梗款",
+  "source": "amazon",
+  "design": {
+   "base_color": "#1a1a1a",
+   "print_color": "#39ff88",
+   "graphic_desc": "A pixel-art pause icon glitching apart with retro 8-bit scanlines",
+   "typography": "'I PAUSED MY GAME TO BE HERE' in pixel/arcade font"
+  }
+ },
+ {
+  "id": "tf-difficult-and-expensive-cat-tee",
+  "name": "Difficult And Expensive Cat Tee",
+  "collection": "Graphic",
+  "category": "humor",
+  "theme": "又贵又难搞（但值得）",
+  "style": [
+   "meme",
+   "animal",
+   "comfort-colors"
+  ],
+  "price_usd": 23,
+  "evidence": "Etsy 榜 'Expensive And Difficult' 动物梗款热卖；Comfort Colors 溢价格式",
+  "source": "amazon",
+  "design": {
+   "base_color": "#e8e0cf",
+   "print_color": "#3a3a3a",
+   "graphic_desc": "A smug fluffy cat sitting on a tiny throne with a price-tag collar",
+   "typography": "'EXPENSIVE & DIFFICULT' hand-lettered serif with slight distress"
+  }
+ },
+ {
+  "id": "tf-flight-was-an-option-penguin-tee",
+  "name": "Flight Was An Option Penguin Tee",
+  "collection": "Graphic",
+  "category": "humor",
+  "theme": "企鹅：飞行从来不是我的选项",
+  "style": [
+   "meme",
+   "dark-humor",
+   "animal"
+  ],
+  "price_usd": 20,
+  "evidence": "'Flight Was Never An Option' 企鹅梗为 Etsy 病毒动物款，混乱动物+黑色幽默是2026核心",
+  "source": "amazon",
+  "design": {
+   "base_color": "#f5f5f0",
+   "print_color": "#1f2a3c",
+   "graphic_desc": "A deadpan cartoon penguin holding a tiny butter knife, standing on cracked ice",
+   "typography": "'FLIGHT WAS NEVER AN OPTION' in rounded bold caps"
+  }
+ },
+ {
+  "id": "tf-credit-for-not-saying-tee",
+  "name": "Credit For Not Saying Tee",
+  "collection": "Graphic",
+  "category": "humor",
+  "theme": "我忍住没说的那些话该给我记功",
+  "style": [
+   "sarcastic",
+   "text-first",
+   "minimal"
+  ],
+  "price_usd": 19,
+  "evidence": "'I don't get enough credit for the things I manage not to say' 讽刺文字款 Etsy 长青",
+  "source": "amazon",
+  "design": {
+   "base_color": "#b0b0b0",
+   "print_color": "#1a1a1a",
+   "graphic_desc": "Plain centered multi-line text with a small zipped-lips doodle",
+   "typography": "'I DON'T GET ENOUGH CREDIT FOR THE THINGS I MANAGE NOT TO SAY' in typewriter mono"
+  }
+ },
+ {
+  "id": "tf-undiagnosed-but-off-tee",
+  "name": "Undiagnosed But Off Tee",
+  "collection": "Graphic",
+  "category": "humor",
+  "theme": "没确诊但确实哪儿不太对",
+  "style": [
+   "gen-z",
+   "sarcastic",
+   "meme"
+  ],
+  "price_usd": 19,
+  "evidence": "'undiagnosed but something ain't right' 为 Etsy Gen-Z 讽刺爆款",
+  "source": "amazon",
+  "design": {
+   "base_color": "#1a1a1a",
+   "print_color": "#e2a8b0",
+   "graphic_desc": "A wobbly hand-drawn smiley with crossed-out eyes",
+   "typography": "'UNDIAGNOSED BUT SOMETHING AIN'T RIGHT' in shaky marker script"
+  }
+ },
+ {
+  "id": "tf-sorry-for-my-face-tee",
+  "name": "Sorry For My Face Tee",
+  "collection": "Graphic",
+  "category": "humor",
+  "theme": "我的脸替我说的话我不负责",
+  "style": [
+   "sarcastic",
+   "comfort-colors",
+   "resting-face"
+  ],
+  "price_usd": 23,
+  "evidence": "'Sorry for What My Face Said' Comfort Colors 讽刺表情款 Etsy 热卖",
+  "source": "amazon",
+  "design": {
+   "base_color": "#4a4a48",
+   "print_color": "#e8e0cf",
+   "graphic_desc": "A flat unimpressed face line-drawing with one raised eyebrow",
+   "typography": "'SORRY FOR WHAT MY FACE SAID BEFORE IT KNEW YOU' in clean sans"
+  }
+ },
+ {
+  "id": "tf-require-snacks-raccoon-tee",
+  "name": "Require Snacks Raccoon Tee",
+  "collection": "Graphic",
+  "category": "humor",
+  "theme": "我需要零食（浣熊本熊）",
+  "style": [
+   "goblincore",
+   "meme",
+   "embroidered-look"
+  ],
+  "price_usd": 24,
+  "evidence": "浣熊 goblincore 梗（'I Require Snacks'）2026暴涨，Comfort Colors 刺绣风溢价",
+  "source": "amazon",
+  "design": {
+   "base_color": "#8a8555",
+   "print_color": "#2e2a20",
+   "graphic_desc": "A chunky raccoon clutching a bag of chips, faux-embroidery patch style on left chest",
+   "typography": "'I REQUIRE SNACKS' small serif under the raccoon"
+  }
+ },
+ {
+  "id": "tf-golden-hour-beer-dog-tee",
+  "name": "Golden Hour Beer Dog Tee",
+  "collection": "Graphic",
+  "category": "humor",
+  "theme": "金毛喝啤酒的悠闲午后",
+  "style": [
+   "meme",
+   "animal",
+   "retro"
+  ],
+  "price_usd": 22,
+  "evidence": "Funny Golden Retriever Drinking Beer Shirt 为 Etsy 动物梗畅销款",
+  "source": "amazon",
+  "design": {
+   "base_color": "#d9a441",
+   "print_color": "#6b3a1a",
+   "graphic_desc": "A relaxed golden retriever in a lawn chair holding a frosty can, retro sunburst behind",
+   "typography": "'LIVING THE GOLDEN LIFE' in 70s groovy script"
+  }
+ },
+ {
+  "id": "tf-not-a-big-fan-tee",
+  "name": "Not A Big Fan Tee",
+  "collection": "Graphic",
+  "category": "humor",
+  "theme": "关于我，大家不太买账",
+  "style": [
+   "sarcastic",
+   "text-first",
+   "minimal"
+  ],
+  "price_usd": 18,
+  "evidence": "'People Not A Big Fan About Me' 类自嘲文字款 Feelin Good Tees 热卖",
+  "source": "amazon",
+  "design": {
+   "base_color": "#f5f5f0",
+   "print_color": "#1a1a1a",
+   "graphic_desc": "A tiny ceiling-fan doodle next to the word FAN as a visual pun",
+   "typography": "'PEOPLE ARE NOT A BIG FAN OF ME (BUT THE CEILING IS)' bold caps + pun icon"
+  }
+ },
+ {
+  "id": "tf-ow-stick-figure-tee",
+  "name": "Ow Stick Figure Tee",
+  "collection": "Graphic",
+  "category": "humor",
+  "theme": "生活的小疼痛，一个字：疼",
+  "style": [
+   "gen-z",
+   "minimal",
+   "meme"
+  ],
+  "price_usd": 17,
+  "evidence": "funny stick figure 'Ow' 讽刺疼痛梗 Etsy 走量款",
+  "source": "amazon",
+  "design": {
+   "base_color": "#f0e6d2",
+   "print_color": "#1a1a1a",
+   "graphic_desc": "A single stick figure lying flat on the ground, tiny motion lines",
+   "typography": "'ow.' lowercase, small, bottom-centered"
+  }
+ },
+ {
+  "id": "tf-duck-of-fate-tee",
+  "name": "Duck Of Fate Tee",
+  "collection": "Graphic",
+  "category": "humor",
+  "theme": "生活扔来的一切，鸭子都接着",
+  "style": [
+   "meme",
+   "animal",
+   "comfort-colors"
+  ],
+  "price_usd": 22,
+  "evidence": "'Whatever Life Throws At You' 鸭子款 Comfort Colors Etsy 热卖",
+  "source": "amazon",
+  "design": {
+   "base_color": "#6a7f9c",
+   "print_color": "#f5f5f0",
+   "graphic_desc": "A calm cartoon duck standing in rain catching random flying objects",
+   "typography": "'WHATEVER LIFE THROWS AT YOU, STAY A DUCK ABOUT IT' rounded caps"
+  }
+ },
+ {
+  "id": "tf-emotional-support-water-tee",
+  "name": "Emotional Support Water Tee",
+  "collection": "Graphic",
+  "category": "humor",
+  "theme": "我的情绪支持水杯",
+  "style": [
+   "gen-z",
+   "meme",
+   "cute"
+  ],
+  "price_usd": 19,
+  "evidence": "Gen-Z 情绪梗+日常物件拟人是2026 brain-rot 幽默主线",
+  "source": "amazon",
+  "design": {
+   "base_color": "#c98b8b",
+   "print_color": "#3a2a2a",
+   "graphic_desc": "A giant tumbler cup with a little face and stubby arms hugging itself",
+   "typography": "'EMOTIONAL SUPPORT WATER BOTTLE' in bubbly marker"
+  }
+ },
+ {
+  "id": "tf-awesome-like-my-kid-tee",
+  "name": "Awesome Like My Kid Tee",
+  "collection": "Graphic",
+  "category": "humor",
+  "theme": "我很棒——遗传给了孩子",
+  "style": [
+   "dad-joke",
+   "gift",
+   "bold-typography"
+  ],
+  "price_usd": 19,
+  "evidence": "'Awesome Like My Daughter' 讽刺爸爸款登 Amazon Novelty 榜",
+  "source": "amazon",
+  "design": {
+   "base_color": "#1f2a3c",
+   "print_color": "#f5f5f0",
+   "graphic_desc": "A bold arched varsity banner with a small crown",
+   "typography": "'AWESOME LIKE MY KIDS — YES THAT'S WHERE THEY GOT IT' collegiate block"
+  }
+ },
+ {
+  "id": "tf-faded-sunset-highway-tee",
+  "name": "Faded Sunset Highway Tee",
+  "collection": "Graphic",
+  "category": "vintage",
+  "theme": "70年代公路旅行的褪色黄昏",
+  "style": [
+   "retro",
+   "distressed",
+   "faded-palette"
+  ],
+  "price_usd": 24,
+  "evidence": "复古旅行/公路图形+褪色调是2026低风险稳销主线（Printful/Kittl）",
+  "source": "amazon",
+  "design": {
+   "base_color": "#e8e0cf",
+   "print_color": "#b5613a",
+   "graphic_desc": "A distressed retro sunset with horizontal stripe bands over a lone desert highway",
+   "typography": "'ENDLESS MILES' in 70s rounded serif, faded cracked print"
+  }
+ },
+ {
+  "id": "tf-bootleg-roadtrip-bear-tee",
+  "name": "Bootleg Roadtrip Bear Tee",
+  "collection": "Graphic",
+  "category": "vintage",
+  "theme": "仿盗版乐队海报风的公路熊",
+  "style": [
+   "bootleg",
+   "distressed",
+   "90s"
+  ],
+  "price_usd": 25,
+  "evidence": "pet/复古 bootleg layout 被点名为2026 Etsy 精细化最优机会",
+  "source": "amazon",
+  "design": {
+   "base_color": "#1a1a1a",
+   "print_color": "#d9a441",
+   "graphic_desc": "A grizzly bear photo-halftone framed by bootleg-rap-tee starbursts and small back-print blocks",
+   "typography": "'THE GREAT OUTDOORS TOUR '26' in worn bootleg display type"
+  }
+ },
+ {
+  "id": "tf-retrofuture-chrome-sky-tee",
+  "name": "Retrofuture Chrome Sky Tee",
+  "collection": "Graphic",
+  "category": "vintage",
+  "theme": "80年代想象的未来天际线",
+  "style": [
+   "retrofuturism",
+   "grainy",
+   "chrome"
+  ],
+  "price_usd": 23,
+  "evidence": "Retrofuturism（80s+未来）被 swag42/Printful 列为2026上升风格",
+  "source": "amazon",
+  "design": {
+   "base_color": "#1f2a3c",
+   "print_color": "#e2a8b0",
+   "graphic_desc": "A grainy chrome-gradient grid horizon with a setting geometric sun and palm silhouettes",
+   "typography": "'FUTURE NOSTALGIA' in chrome outrun italic"
+  }
+ },
+ {
+  "id": "tf-washed-motel-sign-tee",
+  "name": "Washed Motel Sign Tee",
+  "collection": "Graphic",
+  "category": "vintage",
+  "theme": "复古汽车旅馆霓虹招牌",
+  "style": [
+   "retro-travel",
+   "distressed",
+   "kitsch"
+  ],
+  "price_usd": 24,
+  "evidence": "复古 motel logo / 路牌图形被 Kittl 列为2026热门旅行图形",
+  "source": "amazon",
+  "design": {
+   "base_color": "#f0e6d2",
+   "print_color": "#b5613a",
+   "graphic_desc": "A distressed retro motel sign with a starburst 'VACANCY' arrow and palm",
+   "typography": "'THE STARLITE MOTEL — POOL • COLOR TV • VACANCY' mid-century script + block"
+  }
+ },
+ {
+  "id": "tf-sun-faded-varsity-88-tee",
+  "name": "Sun Faded Varsity 88 Tee",
+  "collection": "Graphic",
+  "category": "vintage",
+  "theme": "褪色大学城运动衫",
+  "style": [
+   "varsity",
+   "faded",
+   "collegiate"
+  ],
+  "price_usd": 22,
+  "evidence": "varsity/大学风褪色图形被列为可靠低风险常青款",
+  "source": "amazon",
+  "design": {
+   "base_color": "#6b2c39",
+   "print_color": "#e8e0cf",
+   "graphic_desc": "A cracked collegiate arch with a large number and small laurel",
+   "typography": "'EASTPORT ATHLETICS 88' in distressed varsity serif"
+  }
+ },
+ {
+  "id": "tf-groovy-mushroom-meadow-tee",
+  "name": "Groovy Mushroom Meadow Tee",
+  "collection": "Graphic",
+  "category": "vintage",
+  "theme": "70年代蘑菇草甸",
+  "style": [
+   "70s",
+   "psychedelic",
+   "earthy"
+  ],
+  "price_usd": 23,
+  "evidence": "70年代大地色+psychedelic 复古回潮（Printful 2026）",
+  "source": "amazon",
+  "design": {
+   "base_color": "#8a8555",
+   "print_color": "#d9a441",
+   "graphic_desc": "A cluster of stylized 70s mushrooms with wavy sun rays in earthy tones",
+   "typography": "'STAY GROOVY' in melting 70s bubble script"
+  }
+ },
+ {
+  "id": "tf-cracked-cassette-mixtape-tee",
+  "name": "Cracked Cassette Mixtape Tee",
+  "collection": "Graphic",
+  "category": "vintage",
+  "theme": "90年代磁带混音带情怀",
+  "style": [
+   "90s",
+   "distressed",
+   "kitsch"
+  ],
+  "price_usd": 22,
+  "evidence": "90s kitsch 与磁带怀旧是2026 nostalgia 主轴（Printful）",
+  "source": "amazon",
+  "design": {
+   "base_color": "#1a1a1a",
+   "print_color": "#39c5c5",
+   "graphic_desc": "A distressed cassette tape with hand-written 'SUMMER MIX' label and doodle hearts",
+   "typography": "'SIDE A / SIDE B' small mono under the cassette"
+  }
+ },
+ {
+  "id": "tf-y2k-butterfly-chrome-tee",
+  "name": "Y2K Butterfly Chrome Tee",
+  "collection": "Graphic",
+  "category": "vintage",
+  "theme": "Y2K金属蝴蝶",
+  "style": [
+   "y2k",
+   "chrome",
+   "bold-color"
+  ],
+  "price_usd": 21,
+  "evidence": "Y2K 复兴被 Printful 列为2026定义性趋势，金属蝴蝶为标志元素",
+  "source": "amazon",
+  "design": {
+   "base_color": "#f5f5f0",
+   "print_color": "#6a5acd",
+   "graphic_desc": "A chrome-gradient butterfly with tribal-style wing swirls and sparkle accents",
+   "typography": "'2000 BABY' in Y2K bubble chrome"
+  }
+ },
+ {
+  "id": "tf-vintage-wave-break-tee",
+  "name": "Vintage Wave Break Tee",
+  "collection": "Graphic",
+  "category": "vintage",
+  "theme": "复古冲浪海浪版画",
+  "style": [
+   "surf",
+   "retro",
+   "faded"
+  ],
+  "price_usd": 23,
+  "evidence": "复古冲浪/海滩目的地图形是稳定重复购款",
+  "source": "amazon",
+  "design": {
+   "base_color": "#6a7f9c",
+   "print_color": "#f0e6d2",
+   "graphic_desc": "A retro block-print cresting wave inside a rounded rectangle badge",
+   "typography": "'PACIFIC SURF CO. — EST. HERE & NOW' in surf script"
+  }
+ },
+ {
+  "id": "tf-distressed-eagle-freedom-tee",
+  "name": "Distressed Eagle Freedom Tee",
+  "collection": "Graphic",
+  "category": "vintage",
+  "theme": "褪色美式雄鹰",
+  "style": [
+   "americana",
+   "distressed",
+   "patriotic"
+  ],
+  "price_usd": 22,
+  "evidence": "patriotic 图形季节性登 Amazon Novelty 榜，褪色美式常青",
+  "source": "amazon",
+  "design": {
+   "base_color": "#e8e0cf",
+   "print_color": "#1f2a3c",
+   "graphic_desc": "A distressed spread-wing eagle over a faded striped banner",
+   "typography": "'HOME OF THE FREE' in worn slab serif"
+  }
+ },
+ {
+  "id": "tf-retro-camera-roll-tee",
+  "name": "Retro Camera Roll Tee",
+  "collection": "Graphic",
+  "category": "vintage",
+  "theme": "胶片相机与快照怀旧",
+  "style": [
+   "retro",
+   "hand-drawn",
+   "earthy"
+  ],
+  "price_usd": 21,
+  "evidence": "手绘/人味图形在AI时代反向走高（Printful 2026）",
+  "source": "amazon",
+  "design": {
+   "base_color": "#d9a441",
+   "print_color": "#3a2a1a",
+   "graphic_desc": "A hand-drawn vintage film camera with a strip of photo frames curling out",
+   "typography": "'CAPTURE THE GOOD DAYS' in hand-drawn serif"
+  }
+ },
+ {
+  "id": "tf-grumpy-toad-lily-pad-tee",
+  "name": "Grumpy Toad Lily Pad Tee",
+  "collection": "Graphic",
+  "category": "animal",
+  "theme": "苔藓系厌世小蟾蜍",
+  "style": [
+   "cottagecore",
+   "kawaii",
+   "meme"
+  ],
+  "price_usd": 22,
+  "evidence": "日式厌世蛙（Matsumoto Hoji 风）为 Redbubble/Etsy cottagecore 长青爆款",
+  "source": "amazon",
+  "design": {
+   "base_color": "#35503f",
+   "print_color": "#e8e0cf",
+   "graphic_desc": "A grumpy squat toad sitting on a lily pad among tiny mushrooms, soft line art",
+   "typography": "'LEAVE ME ALONE' tiny lowercase beneath the toad"
+  }
+ },
+ {
+  "id": "tf-man-i-love-frogs-tee",
+  "name": "Man I Love Frogs Tee",
+  "collection": "Graphic",
+  "category": "animal",
+  "theme": "我真的爱青蛙",
+  "style": [
+   "gen-z",
+   "meme",
+   "cottagecore"
+  ],
+  "price_usd": 20,
+  "evidence": "'Man I Love Frogs' Gen-Z meme frog 款 Etsy 热卖",
+  "source": "amazon",
+  "design": {
+   "base_color": "#f0e6d2",
+   "print_color": "#2e4a3a",
+   "graphic_desc": "A wide-eyed cartoon frog mid-leap surrounded by tiny hearts",
+   "typography": "'MAN, I LOVE FROGS' in chunky rounded caps"
+  }
+ },
+ {
+  "id": "tf-90s-cottage-kitten-tee",
+  "name": "90s Cottage Kitten Tee",
+  "collection": "Graphic",
+  "category": "animal",
+  "theme": "90年代田园小猫",
+  "style": [
+   "cottagecore",
+   "90s",
+   "comfort-colors"
+  ],
+  "price_usd": 23,
+  "evidence": "Vintage 90s Cats Comfort Colors 田园猫款 Etsy 热卖",
+  "source": "amazon",
+  "design": {
+   "base_color": "#e2a8b0",
+   "print_color": "#4a3a3a",
+   "graphic_desc": "A fluffy kitten peeking from a basket of wildflowers, faded 90s print",
+   "typography": "'JUST A GIRL WHO LOVES CATS' in soft 90s script"
+  }
+ },
+ {
+  "id": "tf-smoke-break-cat-tee",
+  "name": "Smoke Break Cat Tee",
+  "collection": "Graphic",
+  "category": "animal",
+  "theme": "叼草的臭脸猫梗",
+  "style": [
+   "meme",
+   "comfort-colors",
+   "dark-humor"
+  ],
+  "price_usd": 23,
+  "evidence": "Comfort Colors Smoke Cat 动物梗款 Etsy 畅销",
+  "source": "amazon",
+  "design": {
+   "base_color": "#4a4a48",
+   "print_color": "#e8e0cf",
+   "graphic_desc": "A deadpan cat with a blade of grass in its mouth, film-noir shading",
+   "typography": "'NOT IN THE MOOD' small caps under the cat"
+  }
+ },
+ {
+  "id": "tf-howling-moon-chihuahua-tee",
+  "name": "Howling Moon Chihuahua Tee",
+  "collection": "Graphic",
+  "category": "animal",
+  "theme": "对月长嚎的吉娃娃",
+  "style": [
+   "90s",
+   "celestial",
+   "retro"
+  ],
+  "price_usd": 22,
+  "evidence": "Chihuahua Howling to The Moon 90s 复古动物款 Etsy 热卖",
+  "source": "amazon",
+  "design": {
+   "base_color": "#1f2a3c",
+   "print_color": "#c9c2e0",
+   "graphic_desc": "A tiny chihuahua howling at a full moon on a rocky ledge, 90s wolf-tee parody",
+   "typography": "'SPIRIT OF THE NIGHT' in mystical serif"
+  }
+ },
+ {
+  "id": "tf-cosmic-wolf-spirit-tee",
+  "name": "Cosmic Wolf Spirit Tee",
+  "collection": "Graphic",
+  "category": "animal",
+  "theme": "90年代星空狼图腾（正经致敬）",
+  "style": [
+   "90s",
+   "celestial",
+   "faded"
+  ],
+  "price_usd": 23,
+  "evidence": "Comfort Colors Howling Moon Wolf 90s 星空动物款持续热卖",
+  "source": "amazon",
+  "design": {
+   "base_color": "#4a4a48",
+   "print_color": "#9db4c9",
+   "graphic_desc": "A howling wolf head in front of a full moon and pine silhouette, faded three-color print",
+   "typography": "'RUN WILD' in weathered serif"
+  }
+ },
+ {
+  "id": "tf-iced-coffee-raccoon-tee",
+  "name": "Iced Coffee Raccoon Tee",
+  "collection": "Graphic",
+  "category": "animal",
+  "theme": "举着冰咖啡的浣熊",
+  "style": [
+   "goblincore",
+   "meme",
+   "cute"
+  ],
+  "price_usd": 21,
+  "evidence": "浣熊举冰咖啡 goblincore 梗2026暴涨",
+  "source": "amazon",
+  "design": {
+   "base_color": "#8a8555",
+   "print_color": "#3a2a20",
+   "graphic_desc": "A wide-eyed raccoon clutching an oversized iced coffee with both paws",
+   "typography": "'RUNNING ON TRASH & CAFFEINE' small hand-lettering"
+  }
+ },
+ {
+  "id": "tf-floral-highland-cow-tee",
+  "name": "Floral Highland Cow Tee",
+  "collection": "Graphic",
+  "category": "animal",
+  "theme": "花丛里的高地牛",
+  "style": [
+   "cottagecore",
+   "boho",
+   "hand-drawn"
+  ],
+  "price_usd": 22,
+  "evidence": "复古花卉动物（Opal & June retro-floral-animals）是 cottagecore 稳销线",
+  "source": "amazon",
+  "design": {
+   "base_color": "#f0e6d2",
+   "print_color": "#b5613a",
+   "graphic_desc": "A shaggy highland cow with wildflowers tucked behind its horns, warm earthy palette",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-retro-shark-bite-tee",
+  "name": "Retro Shark Bite Tee",
+  "collection": "Graphic",
+  "category": "animal",
+  "theme": "复古版画大白鲨",
+  "style": [
+   "retro",
+   "block-print",
+   "bold"
+  ],
+  "price_usd": 21,
+  "evidence": "鲨鱼 vintage faded Comfort Colors 动物款持续畅销",
+  "source": "amazon",
+  "design": {
+   "base_color": "#1f2a3c",
+   "print_color": "#e8e0cf",
+   "graphic_desc": "A stylized retro shark mid-breach inside a circular wave badge",
+   "typography": "'BITE FIRST' in bold surf block"
+  }
+ },
+ {
+  "id": "tf-dolphin-sunset-y2k-tee",
+  "name": "Dolphin Sunset Y2K Tee",
+  "collection": "Graphic",
+  "category": "animal",
+  "theme": "Y2K海豚跃日",
+  "style": [
+   "y2k",
+   "whimsical",
+   "chrome"
+  ],
+  "price_usd": 21,
+  "evidence": "whimsical dolphins 被列为 Y2K/怪奶奶美学 retro-animal 热门",
+  "source": "amazon",
+  "design": {
+   "base_color": "#6a7f9c",
+   "print_color": "#f5f5f0",
+   "graphic_desc": "Two chrome dolphins leaping over a gradient sunset ring, sparkle accents",
+   "typography": "'OCEAN DREAMS' in Y2K chrome bubble"
+  }
+ },
+ {
+  "id": "tf-floral-dino-stomp-tee",
+  "name": "Floral Dino Stomp Tee",
+  "collection": "Graphic",
+  "category": "animal",
+  "theme": "花纹小恐龙",
+  "style": [
+   "whimsical",
+   "cottagecore",
+   "hand-drawn"
+  ],
+  "price_usd": 20,
+  "evidence": "floral dinosaurs 被点名为 retro-animal 怪奶奶美学热门",
+  "source": "amazon",
+  "design": {
+   "base_color": "#35503f",
+   "print_color": "#e2a8b0",
+   "graphic_desc": "A cheerful stegosaurus with flowers growing along its back plates",
+   "typography": "'STOMP GENTLY' tiny script under the dino"
+  }
+ },
+ {
+  "id": "tf-jaguar-jungle-fade-tee",
+  "name": "Jaguar Jungle Fade Tee",
+  "collection": "Graphic",
+  "category": "animal",
+  "theme": "褪色丛林美洲豹",
+  "style": [
+   "retro",
+   "faded",
+   "earthy"
+  ],
+  "price_usd": 23,
+  "evidence": "jaguar vintage faded Comfort Colors 动物款走热",
+  "source": "amazon",
+  "design": {
+   "base_color": "#8a8555",
+   "print_color": "#3a2a1a",
+   "graphic_desc": "A prowling jaguar framed by tropical leaves, three-color faded jungle palette",
+   "typography": "'STAY WILD' in worn serif"
+  }
+ },
+ {
+  "id": "tf-cozy-hedgehog-tea-tee",
+  "name": "Cozy Hedgehog Tea Tee",
+  "collection": "Graphic",
+  "category": "animal",
+  "theme": "喝茶的小刺猬",
+  "style": [
+   "cottagecore",
+   "cute",
+   "hand-drawn"
+  ],
+  "price_usd": 20,
+  "evidence": "cottagecore 可爱动物+田园日常是稳定礼赠款",
+  "source": "amazon",
+  "design": {
+   "base_color": "#f0e6d2",
+   "print_color": "#6b3a2a",
+   "graphic_desc": "A tiny hedgehog wrapped in a scarf holding a steaming mug among toadstools",
+   "typography": "'COZY SEASON' in soft rounded script"
+  }
+ },
+ {
+  "id": "tf-all-parks-bear-roster-tee",
+  "name": "All Parks Bear Roster Tee",
+  "collection": "Graphic",
+  "category": "outdoor",
+  "theme": "熊剪影里列满国家公园名",
+  "style": [
+   "national-park",
+   "list-design",
+   "gift"
+  ],
+  "price_usd": 24,
+  "evidence": "'All 59 National Parks' 熊剪影列表款为 Amazon 长青礼赠爆款",
+  "source": "amazon",
+  "design": {
+   "base_color": "#2e4a3a",
+   "print_color": "#e8e0cf",
+   "graphic_desc": "A large bear silhouette filled with the names of US national parks in tiny type",
+   "typography": "'THE PARKS PROJECT — 63 WAYS TO GET LOST' park names filling silhouette"
+  }
+ },
+ {
+  "id": "tf-retro-bison-range-tee",
+  "name": "Retro Bison Range Tee",
+  "collection": "Graphic",
+  "category": "outdoor",
+  "theme": "复古草原野牛落日",
+  "style": [
+   "national-park",
+   "retro",
+   "distressed"
+  ],
+  "price_usd": 23,
+  "evidence": "Yellowstone Vintage Bison 复古风景款 Amazon 新上热卖",
+  "source": "amazon",
+  "design": {
+   "base_color": "#b5613a",
+   "print_color": "#f0e6d2",
+   "graphic_desc": "A distressed bison standing before layered mountains and a retro striped sun",
+   "typography": "'ROAM FREE — GREAT PLAINS' in vintage park serif"
+  }
+ },
+ {
+  "id": "tf-old-faithful-retro-bear-tee",
+  "name": "Old Faithful Retro Bear Tee",
+  "collection": "Graphic",
+  "category": "outdoor",
+  "theme": "复古熊与间歇泉",
+  "style": [
+   "national-park",
+   "retro",
+   "earthy"
+  ],
+  "price_usd": 23,
+  "evidence": "Vintage National Park 复古熊/Old Faithful 图形 Amazon 热卖",
+  "source": "amazon",
+  "design": {
+   "base_color": "#e8e0cf",
+   "print_color": "#2e4a3a",
+   "graphic_desc": "A retro standing bear beside an erupting geyser, layered pine hills, badge frame",
+   "typography": "'GEYSER COUNTRY EST. 1872' in national-park block serif"
+  }
+ },
+ {
+  "id": "tf-mountain-river-fly-tee",
+  "name": "Mountain River Fly Tee",
+  "collection": "Graphic",
+  "category": "outdoor",
+  "theme": "山溪飞钓",
+  "style": [
+   "outdoor",
+   "vintage",
+   "comfort-colors"
+  ],
+  "price_usd": 25,
+  "evidence": "National Parks Comfort Colors 山河飞钓款 Amazon 2026新上",
+  "source": "amazon",
+  "design": {
+   "base_color": "#4a4a48",
+   "print_color": "#d9a441",
+   "graphic_desc": "A detailed mountain-and-river scene with a leaping trout and fly-rod arc",
+   "typography": "'RIVERS KNOW THE WAY' in outdoorsy serif"
+  }
+ },
+ {
+  "id": "tf-sun-peak-hiker-tee",
+  "name": "Sun Peak Hiker Tee",
+  "collection": "Graphic",
+  "category": "outdoor",
+  "theme": "山巅日出徒步",
+  "style": [
+   "outdoor",
+   "oversized",
+   "retro"
+  ],
+  "price_usd": 22,
+  "evidence": "Hiking Shirt for Women Sun Mountain 户外自然款 Amazon 热卖",
+  "source": "amazon",
+  "design": {
+   "base_color": "#f0e6d2",
+   "print_color": "#b5613a",
+   "graphic_desc": "A minimal line-art mountain range with a rising sun ring and tiny hiker",
+   "typography": "'GO WHERE YOU FEEL MOST ALIVE' in clean uppercase"
+  }
+ },
+ {
+  "id": "tf-colorado-peaks-oversized-tee",
+  "name": "Colorado Peaks Oversized Tee",
+  "collection": "Graphic",
+  "category": "outdoor",
+  "theme": "科罗拉多山脉超大版复古",
+  "style": [
+   "outdoor",
+   "oversized",
+   "vintage"
+  ],
+  "price_usd": 24,
+  "evidence": "Colorado Mountain Oversized Retro Tee for Women 热卖款",
+  "source": "amazon",
+  "design": {
+   "base_color": "#1f2a3c",
+   "print_color": "#e2a8b0",
+   "graphic_desc": "A retro-striped mountain range spanning chest-wide with a faded sun band",
+   "typography": "'COLORADO — HIGH & WILD' in oversized retro serif"
+  }
+ },
+ {
+  "id": "tf-trailhead-compass-tee",
+  "name": "Trailhead Compass Tee",
+  "collection": "Graphic",
+  "category": "outdoor",
+  "theme": "越野指南针徽章",
+  "style": [
+   "outdoor",
+   "badge",
+   "minimal"
+  ],
+  "price_usd": 21,
+  "evidence": "户外徽章/探索图形是稳定户外礼赠款",
+  "source": "amazon",
+  "design": {
+   "base_color": "#35503f",
+   "print_color": "#e8e0cf",
+   "graphic_desc": "A circular compass badge with crossed hiking poles and pine trees",
+   "typography": "'ADVENTURE AWAITS — TRUE NORTH' arcing around the badge"
+  }
+ },
+ {
+  "id": "tf-lake-life-canoe-tee",
+  "name": "Lake Life Canoe Tee",
+  "collection": "Graphic",
+  "category": "outdoor",
+  "theme": "湖畔独木舟慢时光",
+  "style": [
+   "outdoor",
+   "retro",
+   "earthy"
+  ],
+  "price_usd": 22,
+  "evidence": "湖泊/露营复古图形是户外类目高重复购款",
+  "source": "amazon",
+  "design": {
+   "base_color": "#6a7f9c",
+   "print_color": "#f0e6d2",
+   "graphic_desc": "A retro canoe on a still lake with pine reflection and a duck, striped sunset",
+   "typography": "'LAKE DAYS' in relaxed retro script"
+  }
+ },
+ {
+  "id": "tf-desert-cactus-route-tee",
+  "name": "Desert Cactus Route Tee",
+  "collection": "Graphic",
+  "category": "outdoor",
+  "theme": "沙漠仙人掌公路",
+  "style": [
+   "southwest",
+   "retro",
+   "earthy"
+  ],
+  "price_usd": 22,
+  "evidence": "西南沙漠复古图形随复古旅行趋势走热",
+  "source": "amazon",
+  "design": {
+   "base_color": "#d9a441",
+   "print_color": "#6b3a2a",
+   "graphic_desc": "A saguaro cactus against layered desert mesas and a retro sun, road sign badge",
+   "typography": "'DESERT ROUTE 66 MILES OF NOTHING' in southwest block"
+  }
+ },
+ {
+  "id": "tf-faded-concert-crowd-tee",
+  "name": "Faded Concert Crowd Tee",
+  "collection": "Graphic",
+  "category": "music",
+  "theme": "仿旧巡演海报（虚构乐队）",
+  "style": [
+   "vintage-rock",
+   "distressed",
+   "oversized"
+  ],
+  "price_usd": 25,
+  "evidence": "faded worn-in vintage band tee 审美2026长青，oversized 软印热销",
+  "source": "amazon",
+  "design": {
+   "base_color": "#1a1a1a",
+   "print_color": "#e8e0cf",
+   "graphic_desc": "A cracked vintage tour poster with a photo-halftone crowd and back-print tour dates",
+   "typography": "'MIDNIGHT ECHO — SUMMER TOUR' in distressed rock display, fictional band"
+  }
+ },
+ {
+  "id": "tf-lyric-line-country-tee",
+  "name": "Lyric Line Country Tee",
+  "collection": "Graphic",
+  "category": "music",
+  "theme": "手写歌词感的乡村音乐款",
+  "style": [
+   "western",
+   "lyric",
+   "comfort-colors"
+  ],
+  "price_usd": 23,
+  "evidence": "2026节庆款转向 lyric-inspired 歌词/巡演氛围而非通用西部图形",
+  "source": "amazon",
+  "design": {
+   "base_color": "#e8e0cf",
+   "print_color": "#6b2c39",
+   "graphic_desc": "A single hand-scripted lyric phrase over a faded desert horizon line",
+   "typography": "'DUST ON THE BOOTS, STARS IN THE ROOF' in flowing western script"
+  }
+ },
+ {
+  "id": "tf-embroidered-boot-western-tee",
+  "name": "Embroidered Boot Western Tee",
+  "collection": "Graphic",
+  "category": "music",
+  "theme": "刺绣风牛仔靴西部款",
+  "style": [
+   "western",
+   "embroidered-look",
+   "festival"
+  ],
+  "price_usd": 24,
+  "evidence": "西部刺绣牛仔靴/流苏细节是2026节庆季暴涨风格",
+  "source": "amazon",
+  "design": {
+   "base_color": "#4a4a48",
+   "print_color": "#d9a441",
+   "graphic_desc": "A pair of stitched cowboy boots with fringe and a small horseshoe, faux-embroidery patch",
+   "typography": "'RAISED ON DIRT ROADS' small serif beneath boots"
+  }
+ },
+ {
+  "id": "tf-grunge-static-sound-tee",
+  "name": "Grunge Static Sound Tee",
+  "collection": "Graphic",
+  "category": "music",
+  "theme": "90年代垃圾摇滚噪点",
+  "style": [
+   "grunge",
+   "90s",
+   "distressed"
+  ],
+  "price_usd": 22,
+  "evidence": "alternative grunge band tee/90s vintage band 风格热销",
+  "source": "amazon",
+  "design": {
+   "base_color": "#1a1a1a",
+   "print_color": "#8a8555",
+   "graphic_desc": "A distressed smiley with X eyes over static-noise texture, grunge splatter",
+   "typography": "'STATIC YOUTH' in ransom-note grunge type, fictional band feel"
+  }
+ },
+ {
+  "id": "tf-festival-sunburst-amp-tee",
+  "name": "Festival Sunburst Amp Tee",
+  "collection": "Graphic",
+  "category": "music",
+  "theme": "音乐节日出与音箱",
+  "style": [
+   "festival",
+   "retro",
+   "70s"
+  ],
+  "price_usd": 22,
+  "evidence": "festival graphic tee + 70s 复古音乐图形随节庆季走热",
+  "source": "amazon",
+  "design": {
+   "base_color": "#b5613a",
+   "print_color": "#f0e6d2",
+   "graphic_desc": "A wall of retro amps under a 70s sunburst with tiny palm silhouettes",
+   "typography": "'TURN IT UP — DESERT SOUND FEST' in groovy display"
+  }
+ },
+ {
+  "id": "tf-vinyl-spin-retro-tee",
+  "name": "Vinyl Spin Retro Tee",
+  "collection": "Graphic",
+  "category": "music",
+  "theme": "复古黑胶唱片",
+  "style": [
+   "retro",
+   "music",
+   "minimal"
+  ],
+  "price_usd": 21,
+  "evidence": "复古音乐图形/黑胶怀旧是稳定音乐类走量款",
+  "source": "amazon",
+  "design": {
+   "base_color": "#f5f5f0",
+   "print_color": "#1a1a1a",
+   "graphic_desc": "A spinning vinyl record with motion swirl and a few floating notes",
+   "typography": "'SIDE A FOREVER' in retro record-label serif"
+  }
+ },
+ {
+  "id": "tf-fringe-horse-ride-tee",
+  "name": "Fringe Horse Ride Tee",
+  "collection": "Graphic",
+  "category": "music",
+  "theme": "流苏西部野马巡回",
+  "style": [
+   "western",
+   "vintage",
+   "festival"
+  ],
+  "price_usd": 23,
+  "evidence": "vintage horse graphic 仍受欢迎，西部风2026节庆季强势",
+  "source": "amazon",
+  "design": {
+   "base_color": "#e8e0cf",
+   "print_color": "#3a2a1a",
+   "graphic_desc": "A galloping wild horse with a distressed sunburst and fringe-line border",
+   "typography": "'WILD & FREE RODEO CLUB' in weathered western block"
+  }
+ },
+ {
+  "id": "tf-tape-deck-radio-tee",
+  "name": "Tape Deck Radio Tee",
+  "collection": "Graphic",
+  "category": "music",
+  "theme": "复古车载收音机电台",
+  "style": [
+   "retro",
+   "80s",
+   "kitsch"
+  ],
+  "price_usd": 21,
+  "evidence": "80s/90s 音乐怀旧 kitsch 是2026 nostalgia 主线",
+  "source": "amazon",
+  "design": {
+   "base_color": "#1f2a3c",
+   "print_color": "#39c5c5",
+   "graphic_desc": "A retro car stereo face with glowing dial tuned to a fictional station",
+   "typography": "'88.6 THE WAVE — ALL NIGHT LONG' in 80s digital font"
+  }
+ },
+ {
+  "id": "tf-retro-ghost-boo-crew-tee",
+  "name": "Retro Ghost Boo Crew Tee",
+  "collection": "Graphic",
+  "category": "holiday",
+  "theme": "复古可爱幽灵小队",
+  "style": [
+   "halloween",
+   "retro",
+   "cute"
+  ],
+  "price_usd": 20,
+  "evidence": "cute-ghost + vintage Halloween 图形被列为2026万圣主线",
+  "source": "amazon",
+  "design": {
+   "base_color": "#4a4a48",
+   "print_color": "#e8e0cf",
+   "graphic_desc": "Three chubby retro ghosts floating in a row with tiny hats, faded print",
+   "typography": "'BOO CREW EST. SPOOKY SEASON' in vintage Halloween serif"
+  }
+ },
+ {
+  "id": "tf-vintage-pumpkin-patch-tee",
+  "name": "Vintage Pumpkin Patch Tee",
+  "collection": "Graphic",
+  "category": "holiday",
+  "theme": "复古南瓜地黄昏",
+  "style": [
+   "halloween",
+   "vintage",
+   "earthy"
+  ],
+  "price_usd": 21,
+  "evidence": "vintage Halloween 南瓜图形替代通用 spooky 图形2026走强",
+  "source": "amazon",
+  "design": {
+   "base_color": "#b5613a",
+   "print_color": "#3a2a1a",
+   "graphic_desc": "A distressed pumpkin patch with a crooked fence and full moon, retro stripe sky",
+   "typography": "'PUMPKIN PATCH CO. — FALL '26' in worn autumn serif"
+  }
+ },
+ {
+  "id": "tf-holly-jawly-shark-tee",
+  "name": "Holly Jawly Shark Tee",
+  "collection": "Graphic",
+  "category": "holiday",
+  "theme": "圣诞节双关鲨鱼",
+  "style": [
+   "christmas",
+   "pun",
+   "novelty"
+  ],
+  "price_usd": 20,
+  "evidence": "'Have A Holly Jawly Christmas' 双关鲨鱼款为节日 novelty 畅销",
+  "source": "amazon",
+  "design": {
+   "base_color": "#1f2a3c",
+   "print_color": "#e8e0cf",
+   "graphic_desc": "A cartoon shark wearing a Santa hat with a candy-cane in its jaws",
+   "typography": "'HAVE A HOLLY JAWLY CHRISTMAS' in playful holiday caps"
+  }
+ },
+ {
+  "id": "tf-most-likely-to-nap-christmas-tee",
+  "name": "Most Likely To Nap Christmas Tee",
+  "collection": "Graphic",
+  "category": "holiday",
+  "theme": "家庭'最可能'系列圣诞款",
+  "style": [
+   "christmas",
+   "matching-family",
+   "funny"
+  ],
+  "price_usd": 19,
+  "evidence": "Funny 'Most Likely' Christmas 家庭套系 Etsy 热卖",
+  "source": "amazon",
+  "design": {
+   "base_color": "#6b2c39",
+   "print_color": "#f0e6d2",
+   "graphic_desc": "A simple wreath frame around a fill-in phrase, matching-set friendly",
+   "typography": "'MOST LIKELY TO NAP THROUGH CHRISTMAS' in cozy serif"
+  }
+ },
+ {
+  "id": "tf-peace-love-snowfall-tee",
+  "name": "Peace Love Snowfall Tee",
+  "collection": "Graphic",
+  "category": "holiday",
+  "theme": "平和暖冬雪花",
+  "style": [
+   "christmas",
+   "cute",
+   "cozy"
+  ],
+  "price_usd": 19,
+  "evidence": "'Peace Love Christmas' 类可爱冬季款为节日常青",
+  "source": "amazon",
+  "design": {
+   "base_color": "#2e4a3a",
+   "print_color": "#e8e0cf",
+   "graphic_desc": "Stacked line-art of a snowflake, heart and peace sign with falling snow dots",
+   "typography": "'PEACE • LOVE • SNOW DAYS' in soft holiday script"
+  }
+ },
+ {
+  "id": "tf-retro-turkey-day-feast-tee",
+  "name": "Retro Turkey Day Feast Tee",
+  "collection": "Graphic",
+  "category": "holiday",
+  "theme": "复古感恩节大餐",
+  "style": [
+   "thanksgiving",
+   "retro",
+   "funny"
+  ],
+  "price_usd": 19,
+  "evidence": "节日 novelty 幽默款覆盖感恩节季节缺口，puns 长青",
+  "source": "amazon",
+  "design": {
+   "base_color": "#d9a441",
+   "print_color": "#6b3a2a",
+   "graphic_desc": "A cartoon turkey lounging with a fork, retro striped autumn background",
+   "typography": "'HERE FOR THE PIE' in vintage diner script"
+  }
+ },
+ {
+  "id": "tf-spooky-cat-moon-tee",
+  "name": "Spooky Cat Moon Tee",
+  "collection": "Graphic",
+  "category": "holiday",
+  "theme": "万圣黑猫与满月",
+  "style": [
+   "halloween",
+   "cute",
+   "retro"
+  ],
+  "price_usd": 20,
+  "evidence": "black cat 为万圣核心视觉，cute+vintage 组合2026热",
+  "source": "amazon",
+  "design": {
+   "base_color": "#1a1a1a",
+   "print_color": "#d9a441",
+   "graphic_desc": "An arched black cat on a fence before a big harvest moon, faded orange print",
+   "typography": "'STAY SPOOKY' in dripping retro caps"
+  }
+ },
+ {
+  "id": "tf-family-bear-trio-holiday-tee",
+  "name": "Family Bear Trio Holiday Tee",
+  "collection": "Graphic",
+  "category": "holiday",
+  "theme": "熊家族配套节日款",
+  "style": [
+   "christmas",
+   "matching-family",
+   "cute"
+  ],
+  "price_usd": 19,
+  "evidence": "'Mama/Papa/Baby Bear' 家庭配套季节款被点名为节日热销",
+  "source": "amazon",
+  "design": {
+   "base_color": "#35503f",
+   "print_color": "#f0e6d2",
+   "graphic_desc": "A cozy bear in a knit scarf and Santa hat inside a snowy circle badge",
+   "typography": "'MAMA BEAR — HOLIDAY '26' role word swappable for matching set"
+  }
+ },
+ {
+  "id": "tf-sparkle-snow-globe-tee",
+  "name": "Sparkle Snow Globe Tee",
+  "collection": "Graphic",
+  "category": "holiday",
+  "theme": "闪片质感雪景球",
+  "style": [
+   "christmas",
+   "premium",
+   "embellished"
+  ],
+  "price_usd": 25,
+  "evidence": "sequins/chenille 亮片质感升级为2026高端节日款趋势",
+  "source": "amazon",
+  "design": {
+   "base_color": "#1f2a3c",
+   "print_color": "#e2c86a",
+   "graphic_desc": "A snow globe with a tiny pine scene, faux-sequin sparkle scatter around it",
+   "typography": "'LET IT SNOW' in shimmer script"
+  }
+ },
+ {
+  "id": "tf-frog-and-toadstool-picnic-tee",
+  "name": "Frog And Toadstool Picnic Tee",
+  "collection": "Graphic",
+  "category": "animal",
+  "theme": "蘑菇下野餐的青蛙",
+  "style": [
+   "cottagecore",
+   "hand-drawn",
+   "whimsical"
+  ],
+  "price_usd": 21,
+  "evidence": "frog+mushroom/toadstool 组合为 cottagecore 稳销组合",
+  "source": "amazon",
+  "design": {
+   "base_color": "#f0e6d2",
+   "print_color": "#2e4a3a",
+   "graphic_desc": "A little frog sitting under a red toadstool with a berry basket, soft line art",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-not-a-morning-person-cat-tee",
+  "name": "Not A Morning Person Cat Tee",
+  "collection": "Graphic",
+  "category": "humor",
+  "theme": "猫和我都不是早起的人",
+  "style": [
+   "relatable",
+   "cute",
+   "text-first"
+  ],
+  "price_usd": 19,
+  "evidence": "relatable 日常自嘲+动物组合是幽默类稳定走量",
+  "source": "amazon",
+  "design": {
+   "base_color": "#b0b0b0",
+   "print_color": "#1a1a1a",
+   "graphic_desc": "A grumpy cat slumped over a coffee mug with steam curls",
+   "typography": "'NOT A MORNING PERSON, ASK MY CAT' in rounded caps"
+  }
+ },
+ {
+  "id": "tf-just-one-more-chapter-tee",
+  "name": "Just One More Chapter Tee",
+  "collection": "Statement",
+  "category": "niche-identity",
+  "theme": "书虫深夜阅读的自嘲身份标签",
+  "style": [
+   "bookish",
+   "vintage",
+   "hand-lettered"
+  ],
+  "price_usd": 24,
+  "evidence": "BookTok/书虫身份是2026 Etsy公认常青大类，书虫+身份标签持续热卖（mydesigns、Printify 趋势报告）",
+  "source": "etsy",
+  "design": {
+   "base_color": "#f4ecd9",
+   "print_color": "#6e5a3e",
+   "graphic_desc": "A small stack of three worn hardcover books with a lit candle on top, tiny moon and stars floating above, arched hand-lettered text below",
+   "typography": "'Just One More Chapter' in warm hand-lettered serif with slight vintage distress"
+  }
+ },
+ {
+  "id": "tf-certified-cat-mom-club",
+  "name": "Certified Cat Mom Club",
+  "collection": "Statement",
+  "category": "niche-identity",
+  "theme": "猫妈身份俱乐部式徽章",
+  "style": [
+   "retro-badge",
+   "playful",
+   "earthy"
+  ],
+  "price_usd": 23,
+  "evidence": "Cat Mom 是 Etsy bestseller 明确品类，猫+身份叠加标题（Cat Mom/introvert/book）反复出现",
+  "source": "etsy",
+  "design": {
+   "base_color": "#dccba6",
+   "print_color": "#33342f",
+   "graphic_desc": "A simple rounded emblem: a sitting cat silhouette centered inside a circular rope border with tiny paw prints, retro varsity feel",
+   "typography": "'Certified Cat Mom Club' curved around the emblem in condensed vintage sans"
+  }
+ },
+ {
+  "id": "tf-talk-herbs-to-me",
+  "name": "Talk Herbs To Me",
+  "collection": "Statement",
+  "category": "niche-identity",
+  "theme": "园艺爱好者双关俏皮语",
+  "style": [
+   "cottagecore",
+   "botanical",
+   "pun"
+  ],
+  "price_usd": 24,
+  "evidence": "Plant/Gardener 常青+季节性双热，'cottagecore gardener tee' 为 bestseller 范式",
+  "source": "etsy",
+  "design": {
+   "base_color": "#9ca992",
+   "print_color": "#33342f",
+   "graphic_desc": "Three hand-drawn potted herbs (basil, rosemary, mint) in terracotta pots lined up, loose ink-sketch style",
+   "typography": "'Talk Herbs To Me' in relaxed hand-lettered script beneath the pots"
+  }
+ },
+ {
+  "id": "tf-rescue-dog-mom-est-whenever",
+  "name": "Rescue Dog Mom Est. Whenever",
+  "collection": "Statement",
+  "category": "niche-identity",
+  "theme": "领养狗妈的高特异性身份",
+  "style": [
+   "specific-niche",
+   "heartfelt",
+   "line-art"
+  ],
+  "price_usd": 25,
+  "evidence": "2026 报告核心原则：越具体越赢——'rescue dog mom' 优于泛用 dog lover",
+  "source": "etsy",
+  "design": {
+   "base_color": "#f4ecd9",
+   "print_color": "#c56a48",
+   "graphic_desc": "A single continuous-line drawing of a mixed-breed dog head with an adoption heart tag on its collar",
+   "typography": "'Rescue Dog Mom' bold hand-lettered, small 'adopt • love • repeat' underline"
+  }
+ },
+ {
+  "id": "tf-sewing-past-midnight",
+  "name": "Sewing Past Midnight",
+  "collection": "Statement",
+  "category": "niche-identity",
+  "theme": "缝纫/被子手作深夜赶工的窄众自嘲",
+  "style": [
+   "specific-niche",
+   "cozy",
+   "vintage"
+  ],
+  "price_usd": 24,
+  "evidence": "报告直接举例'quilters who stay up past midnight'为高转化窄众文案",
+  "source": "etsy",
+  "design": {
+   "base_color": "#26303f",
+   "print_color": "#ebd9a0",
+   "graphic_desc": "A hand-drawn sewing machine with a thread trailing into a crescent moon, tiny stars scattered",
+   "typography": "'Sewing Past Midnight' in soft retro script glowing against dark shirt"
+  }
+ },
+ {
+  "id": "tf-professional-homebody",
+  "name": "Professional Homebody",
+  "collection": "Statement",
+  "category": "niche-identity",
+  "theme": "内向宅家人设幽默",
+  "style": [
+   "introvert-humor",
+   "minimal",
+   "cozy"
+  ],
+  "price_usd": 22,
+  "evidence": "内向/宅家幽默交叉款（Catrovert 等）为持续热卖，Gen Z 自我表达",
+  "source": "etsy",
+  "design": {
+   "base_color": "#a9b29f",
+   "print_color": "#33342f",
+   "graphic_desc": "A tiny cozy house outline with a wisp of chimney smoke and a steaming mug beside it, minimal linework",
+   "typography": "'Professional Homebody' in clean lowercase hand-lettered sans"
+  }
+ },
+ {
+  "id": "tf-teacher-of-tiny-humans",
+  "name": "Teacher Of Tiny Humans",
+  "collection": "Statement",
+  "category": "niche-identity",
+  "theme": "教师身份温情幽默",
+  "style": [
+   "heartfelt",
+   "hand-lettered",
+   "gift"
+  ],
+  "price_usd": 23,
+  "evidence": "教师礼是 Etsy 常青礼赠窄众，身份+温情文案表现稳定",
+  "source": "etsy",
+  "design": {
+   "base_color": "#e7c4c0",
+   "print_color": "#6e5a3e",
+   "graphic_desc": "A row of tiny mismatched pencils and a small apple, playful uneven hand-drawn line",
+   "typography": "'Teacher Of Tiny Humans' in cheerful bouncy hand-lettering"
+  }
+ },
+ {
+  "id": "tf-running-on-coffee-and-compassion",
+  "name": "Running On Coffee And Compassion",
+  "collection": "Statement",
+  "category": "niche-identity",
+  "theme": "护士/照护者身份共鸣",
+  "style": [
+   "heartfelt",
+   "typography",
+   "warm"
+  ],
+  "price_usd": 24,
+  "evidence": "护理/照护身份礼赠窄众稳定，咖啡+身份叠加常见",
+  "source": "etsy",
+  "design": {
+   "base_color": "#f4ecd9",
+   "print_color": "#c56a48",
+   "graphic_desc": "A takeaway coffee cup with a small heart-rate line crossing it like an EKG, minimal single-color print",
+   "typography": "'Running On Coffee & Compassion' stacked in mixed serif and script"
+  }
+ },
+ {
+  "id": "tf-but-first-coffee-a-nap",
+  "name": "But First, Coffee & A Nap",
+  "collection": "Statement",
+  "category": "niche-identity",
+  "theme": "咖啡+疲惫日常幽默身份",
+  "style": [
+   "cozy",
+   "retro",
+   "typography"
+  ],
+  "price_usd": 22,
+  "evidence": "咖啡爱好者为常青幽默大类，日常自嘲文案高转化",
+  "source": "etsy",
+  "design": {
+   "base_color": "#dccba6",
+   "print_color": "#33342f",
+   "graphic_desc": "A retro steaming coffee mug with wavy 70s-style steam lines forming loops",
+   "typography": "'But First, Coffee & A Nap' in groovy 70s bubble serif"
+  }
+ },
+ {
+  "id": "tf-hooked-on-crochet",
+  "name": "Hooked On Crochet",
+  "collection": "Statement",
+  "category": "niche-identity",
+  "theme": "钩织/毛线手作双关身份",
+  "style": [
+   "pun",
+   "cozy",
+   "hand-drawn"
+  ],
+  "price_usd": 23,
+  "evidence": "手作(crochet/yarn)窄众稳定增长，双关+手作物件为标准范式",
+  "source": "etsy",
+  "design": {
+   "base_color": "#ebd9a0",
+   "print_color": "#6e7a54",
+   "graphic_desc": "A ball of yarn with a crochet hook and a loose looping thread spelling a tiny heart",
+   "typography": "'Hooked On Crochet' in cozy rounded hand-lettering"
+  }
+ },
+ {
+  "id": "tf-take-me-to-the-mountains",
+  "name": "Take Me To The Mountains",
+  "collection": "Statement",
+  "category": "niche-identity",
+  "theme": "露营徒步户外身份",
+  "style": [
+   "outdoorsy",
+   "line-art",
+   "earthy"
+  ],
+  "price_usd": 24,
+  "evidence": "户外/露营身份季节性热卖，Comfort Colors 复古户外为范式",
+  "source": "etsy",
+  "design": {
+   "base_color": "#6e7a54",
+   "print_color": "#f4ecd9",
+   "graphic_desc": "A minimal layered mountain range with a small pine tree and a sun arc behind, single-color line print",
+   "typography": "'Take Me To The Mountains' curved along the sun arc in vintage sans"
+  }
+ },
+ {
+  "id": "tf-sourdough-state-of-mind",
+  "name": "Sourdough State Of Mind",
+  "collection": "Statement",
+  "category": "niche-identity",
+  "theme": "烘焙/酸面团手作身份",
+  "style": [
+   "cottagecore",
+   "hand-drawn",
+   "warm"
+  ],
+  "price_usd": 24,
+  "evidence": "居家烘焙(sourdough)为疫情后持续窄众，cottagecore 交叉",
+  "source": "etsy",
+  "design": {
+   "base_color": "#f4ecd9",
+   "print_color": "#c99a3b",
+   "graphic_desc": "A round crusty sourdough loaf with a scored wheat-stalk pattern and a few floating flour specks",
+   "typography": "'Sourdough State Of Mind' in rustic hand-lettered serif"
+  }
+ },
+ {
+  "id": "tf-just-here-for-the-birds",
+  "name": "Just Here For The Birds",
+  "collection": "Statement",
+  "category": "niche-identity",
+  "theme": "观鸟爱好者窄众身份",
+  "style": [
+   "specific-niche",
+   "line-art",
+   "playful"
+  ],
+  "price_usd": 23,
+  "evidence": "观鸟/自然窄众上升，具体窄众身份为 2026 高转化方向",
+  "source": "etsy",
+  "design": {
+   "base_color": "#a7b7c4",
+   "print_color": "#33342f",
+   "graphic_desc": "Three small different songbirds perched on a single horizontal branch, delicate ink line style",
+   "typography": "'Just Here For The Birds' in light hand-lettered italic under the branch"
+  }
+ },
+ {
+  "id": "tf-grateful-in-lowercase",
+  "name": "Grateful In Lowercase",
+  "collection": "Statement",
+  "category": "minimal-text",
+  "theme": "感恩/正念极简文字",
+  "style": [
+   "minimal",
+   "hand-lettered",
+   "mindful"
+  ],
+  "price_usd": 21,
+  "evidence": "2026 预测:手写'grateful'正念文字常年表现好，neutral 底+极简",
+  "source": "etsy",
+  "design": {
+   "base_color": "#f4ecd9",
+   "print_color": "#6e5a3e",
+   "graphic_desc": "Single small centered word with a tiny hand-drawn sprig underline, lots of negative space",
+   "typography": "'grateful' in elegant flowing lowercase hand-lettered script"
+  }
+ },
+ {
+  "id": "tf-stay-soft",
+  "name": "Stay Soft",
+  "collection": "Statement",
+  "category": "minimal-text",
+  "theme": "温柔坚韧的极简语句",
+  "style": [
+   "minimal",
+   "empowerment",
+   "clean"
+  ],
+  "price_usd": 20,
+  "evidence": "励志/温柔文字极简 tee 为稳定大类，Bella Canvas 极简范式",
+  "source": "etsy",
+  "design": {
+   "base_color": "#e7c4c0",
+   "print_color": "#33342f",
+   "graphic_desc": "Two words centered small on chest with a single fine horizontal line beneath, ultra-minimal",
+   "typography": "'stay soft' in clean modern lowercase sans-serif"
+  }
+ },
+ {
+  "id": "tf-be-here-now",
+  "name": "Be Here Now",
+  "collection": "Statement",
+  "category": "minimal-text",
+  "theme": "当下正念极简",
+  "style": [
+   "mindful",
+   "minimal",
+   "typography"
+  ],
+  "price_usd": 21,
+  "evidence": "正念/当下语句契合 mindfulness movement，2026 预测点名",
+  "source": "etsy",
+  "design": {
+   "base_color": "#9ca992",
+   "print_color": "#f4ecd9",
+   "graphic_desc": "Three words stacked left-aligned with a tiny dot after each, quiet and understated",
+   "typography": "'be / here / now' stacked in minimal geometric sans, tonal print"
+  }
+ },
+ {
+  "id": "tf-touch-grass-literally",
+  "name": "Touch Grass (Literally)",
+  "collection": "Statement",
+  "category": "minimal-text",
+  "theme": "网络梗+户外的极简幽默",
+  "style": [
+   "gen-z-humor",
+   "minimal",
+   "pun"
+  ],
+  "price_usd": 22,
+  "evidence": "Gen Z 网络梗+极简文字高转化，'touch grass' 为流行语",
+  "source": "etsy",
+  "design": {
+   "base_color": "#f4ecd9",
+   "print_color": "#6e7a54",
+   "graphic_desc": "The phrase with a few small hand-drawn grass blades sprouting from the baseline of the text",
+   "typography": "'touch grass' bold lowercase sans, '(literally)' tiny italic below"
+  }
+ },
+ {
+  "id": "tf-in-my-slow-living-era",
+  "name": "In My Slow Living Era",
+  "collection": "Statement",
+  "category": "minimal-text",
+  "theme": "'___ era' 流行句式+慢生活",
+  "style": [
+   "trend-phrase",
+   "minimal",
+   "cozy"
+  ],
+  "price_usd": 22,
+  "evidence": "'in my ___ era' 为持续病毒式句式，慢生活契合 cottagecore 情绪",
+  "source": "etsy",
+  "design": {
+   "base_color": "#dccba6",
+   "print_color": "#33342f",
+   "graphic_desc": "Centered phrase with a small hand-drawn crescent moon dotting the letter i, minimal",
+   "typography": "'in my slow living era' in delicate mixed serif-italic"
+  }
+ },
+ {
+  "id": "tf-make-it-happen",
+  "name": "Make It Happen",
+  "collection": "Statement",
+  "category": "minimal-text",
+  "theme": "行动力赋能语句",
+  "style": [
+   "empowerment",
+   "bold",
+   "minimal"
+  ],
+  "price_usd": 21,
+  "evidence": "2026 预测:赋能语句配简单几何/箭头元素表现好",
+  "source": "etsy",
+  "design": {
+   "base_color": "#1a1a1a",
+   "print_color": "#ebd9a0",
+   "graphic_desc": "Bold two-line text with a single upward diagonal arrow slicing through, geometric",
+   "typography": "'MAKE IT / HAPPEN' in heavy condensed uppercase sans"
+  }
+ },
+ {
+  "id": "tf-not-today-thanks",
+  "name": "Not Today, Thanks",
+  "collection": "Statement",
+  "category": "minimal-text",
+  "theme": "低电量/拒绝社交的极简幽默",
+  "style": [
+   "sarcastic",
+   "minimal",
+   "introvert"
+  ],
+  "price_usd": 21,
+  "evidence": "内向/低能量幽默('leave me alone'类)为热卖，极简排版",
+  "source": "etsy",
+  "design": {
+   "base_color": "#33342f",
+   "print_color": "#f4ecd9",
+   "graphic_desc": "Phrase centered with a tiny drawn battery icon at near-empty beside it",
+   "typography": "'not today, thanks' in relaxed lowercase hand-sans"
+  }
+ },
+ {
+  "id": "tf-one-line-cat-nap",
+  "name": "One-Line Cat Nap",
+  "collection": "Graphic",
+  "category": "illustration",
+  "theme": "单线条睡猫极简线画",
+  "style": [
+   "one-line-art",
+   "minimal",
+   "abstract"
+  ],
+  "price_usd": 23,
+  "evidence": "连续单线艺术(cat/face/floral)为搜索到的主导美学与 bestseller",
+  "source": "etsy",
+  "design": {
+   "base_color": "#f4ecd9",
+   "print_color": "#1a1a1a",
+   "graphic_desc": "A single continuous unbroken line forming a curled sleeping cat, drawn without lifting pen",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-continuous-muse",
+  "name": "Continuous Muse",
+  "collection": "Graphic",
+  "category": "illustration",
+  "theme": "单线条女性侧脸抽象艺术",
+  "style": [
+   "one-line-art",
+   "matisse-inspired",
+   "modern"
+  ],
+  "price_usd": 24,
+  "evidence": "Picasso/单线人脸线画为反复 bestseller，现代艺术审美",
+  "source": "etsy",
+  "design": {
+   "base_color": "#dccba6",
+   "print_color": "#c56a48",
+   "graphic_desc": "A single-line abstract woman's face in profile with hair flowing into a small leaf, one continuous stroke",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-bloom-in-hand",
+  "name": "Bloom In Hand",
+  "collection": "Graphic",
+  "category": "illustration",
+  "theme": "手捧花线画",
+  "style": [
+   "line-art",
+   "botanical",
+   "minimal"
+  ],
+  "price_usd": 24,
+  "evidence": "hand+flower 线画为热门主题，line art 花卉热卖",
+  "source": "etsy",
+  "design": {
+   "base_color": "#f4ecd9",
+   "print_color": "#6e7a54",
+   "graphic_desc": "A minimal open hand cradling three loose wildflower stems, delicate fine-line ink",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-matisse-afternoon",
+  "name": "Matisse Afternoon",
+  "collection": "Graphic",
+  "category": "illustration",
+  "theme": "野兽派抽象面孔剪影",
+  "style": [
+   "matisse-inspired",
+   "abstract",
+   "artsy"
+  ],
+  "price_usd": 25,
+  "evidence": "Matisse 风抽象面孔/线画为现代艺术 tee 强势审美",
+  "source": "etsy",
+  "design": {
+   "base_color": "#ebd9a0",
+   "print_color": "#26303f",
+   "graphic_desc": "An abstract two-color face made of simple organic shapes and a single leaf eye, gallery-poster feel",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-sketch-pup",
+  "name": "Sketch Pup",
+  "collection": "Graphic",
+  "category": "illustration",
+  "theme": "手绘涂鸦小狗",
+  "style": [
+   "hand-drawn",
+   "playful",
+   "line-art"
+  ],
+  "price_usd": 23,
+  "evidence": "scribble/sketch 动物线画为搜索到的热门子类",
+  "source": "etsy",
+  "design": {
+   "base_color": "#f4ecd9",
+   "print_color": "#1a1a1a",
+   "graphic_desc": "A loose scribbly hand-drawn terrier sitting, imperfect wobbly outline for charm",
+   "typography": "small 'good dog' handwritten under paws, optional"
+  }
+ },
+ {
+  "id": "tf-ridge-lines",
+  "name": "Ridge Lines",
+  "collection": "Graphic",
+  "category": "illustration",
+  "theme": "极简山脊线条风景",
+  "style": [
+   "line-art",
+   "minimal",
+   "outdoorsy"
+  ],
+  "price_usd": 23,
+  "evidence": "line art mountains 为极简户外线画热门，中性底色范式",
+  "source": "etsy",
+  "design": {
+   "base_color": "#a7b7c4",
+   "print_color": "#26303f",
+   "graphic_desc": "Overlapping single-stroke mountain ridge lines with a thin circle sun on the horizon",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-gathered-wildflowers",
+  "name": "Gathered Wildflowers",
+  "collection": "Graphic",
+  "category": "illustration",
+  "theme": "手绘野花束速写",
+  "style": [
+   "botanical",
+   "hand-drawn",
+   "cottagecore"
+  ],
+  "price_usd": 24,
+  "evidence": "wildflower 速写为 cottagecore+line art 交叉热卖",
+  "source": "etsy",
+  "design": {
+   "base_color": "#f4ecd9",
+   "print_color": "#6e7a54",
+   "graphic_desc": "A loosely tied bouquet of mixed wildflowers (daisy, poppy, fern) in fine botanical line sketch",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-hands-coffee",
+  "name": "Hands & Coffee",
+  "collection": "Graphic",
+  "category": "illustration",
+  "theme": "双手捧咖啡线画",
+  "style": [
+   "line-art",
+   "cozy",
+   "minimal"
+  ],
+  "price_usd": 23,
+  "evidence": "hands holding coffee 线画为温暖极简热门主题",
+  "source": "etsy",
+  "design": {
+   "base_color": "#dccba6",
+   "print_color": "#6e5a3e",
+   "graphic_desc": "Two hands wrapped around a steaming mug drawn in one continuous fine line, small steam curls",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-phases-of-me",
+  "name": "Phases Of Me",
+  "collection": "Graphic",
+  "category": "celestial",
+  "theme": "月相循环天体图",
+  "style": [
+   "celestial",
+   "boho",
+   "mystical"
+  ],
+  "price_usd": 25,
+  "evidence": "月相/moon phases 为 celestial bestseller 核心，Comfort Colors boho",
+  "source": "etsy",
+  "design": {
+   "base_color": "#26303f",
+   "print_color": "#ebd9a0",
+   "graphic_desc": "A horizontal row of eight moon phases from new to full, subtle texture stippling, small stars between",
+   "typography": "none, or tiny 'phases' hand-lettered under center moon"
+  }
+ },
+ {
+  "id": "tf-sun-moon-in-balance",
+  "name": "Sun & Moon In Balance",
+  "collection": "Graphic",
+  "category": "celestial",
+  "theme": "日月合一神秘图腾",
+  "style": [
+   "celestial",
+   "mystical",
+   "symmetrical"
+  ],
+  "price_usd": 25,
+  "evidence": "sun and moon 组合为 celestial 强势 bestseller 图腾",
+  "source": "etsy",
+  "design": {
+   "base_color": "#1a1a1a",
+   "print_color": "#c99a3b",
+   "graphic_desc": "A circle split into a rayed sun half and a crescent moon-with-stars half, mirrored engraving style",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-written-in-the-stars",
+  "name": "Written In The Stars",
+  "collection": "Graphic",
+  "category": "celestial",
+  "theme": "可定制星座天体款",
+  "style": [
+   "astrology",
+   "celestial",
+   "personalized"
+  ],
+  "price_usd": 26,
+  "evidence": "zodiac/star sign 可定制款为 astrology tshirt 主力，礼赠向",
+  "source": "etsy",
+  "design": {
+   "base_color": "#dccba6",
+   "print_color": "#26303f",
+   "graphic_desc": "A blank constellation frame of connected dots inside a thin circle, designed so any zodiac lines drop in",
+   "typography": "'written in the stars' in fine vintage italic below the circle"
+  }
+ },
+ {
+  "id": "tf-hand-of-the-moon",
+  "name": "Hand Of The Moon",
+  "collection": "Graphic",
+  "category": "celestial",
+  "theme": "神秘之手托月",
+  "style": [
+   "mystical",
+   "celestial",
+   "line-art"
+  ],
+  "price_usd": 25,
+  "evidence": "celestial hand+moon 为 witchy/mystic 热门线画组合",
+  "source": "etsy",
+  "design": {
+   "base_color": "#33342f",
+   "print_color": "#c9bedd",
+   "graphic_desc": "An open hand with an all-seeing eye in the palm holding up a crescent moon, radiating dotted lines",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-made-of-stardust",
+  "name": "Made Of Stardust",
+  "collection": "Graphic",
+  "category": "celestial",
+  "theme": "星尘诗意天体文字",
+  "style": [
+   "celestial",
+   "boho",
+   "typography"
+  ],
+  "price_usd": 24,
+  "evidence": "space/stars 诗意文字+图形为 celestial boho tee 热卖",
+  "source": "etsy",
+  "design": {
+   "base_color": "#26303f",
+   "print_color": "#ebd9a0",
+   "graphic_desc": "A scatter of small stars and a shooting star arcing above the phrase, dreamy loose layout",
+   "typography": "'made of stardust' in flowing celestial script"
+  }
+ },
+ {
+  "id": "tf-stay-wild-moon-child",
+  "name": "Stay Wild, Moon Child",
+  "collection": "Graphic",
+  "category": "celestial",
+  "theme": "自由月之子boho语句",
+  "style": [
+   "boho",
+   "celestial",
+   "hand-lettered"
+  ],
+  "price_usd": 24,
+  "evidence": "'stay wild moon child' 为 celestial boho 常青热句",
+  "source": "etsy",
+  "design": {
+   "base_color": "#dccba6",
+   "print_color": "#6e5a3e",
+   "graphic_desc": "A crescent moon face in profile framed by two small sprigs of wildflowers, boho engraving",
+   "typography": "'stay wild moon child' curved around the moon in bohemian serif"
+  }
+ },
+ {
+  "id": "tf-the-sun-card",
+  "name": "The Sun Card",
+  "collection": "Graphic",
+  "category": "celestial",
+  "theme": "塔罗太阳牌复古图",
+  "style": [
+   "tarot",
+   "mystical",
+   "vintage"
+  ],
+  "price_usd": 26,
+  "evidence": "tarot/mystic celestial 复古款为 bestseller 风格，太阳牌图腾",
+  "source": "etsy",
+  "design": {
+   "base_color": "#1a1a1a",
+   "print_color": "#c99a3b",
+   "graphic_desc": "A vintage tarot-style rayed sun with a serene face inside a rectangular border, aged linework",
+   "typography": "'THE SUN' in small serif caps at the card's base"
+  }
+ },
+ {
+  "id": "tf-little-mushroom-colony",
+  "name": "Little Mushroom Colony",
+  "collection": "Graphic",
+  "category": "cottagecore",
+  "theme": "丛生蘑菇森系图",
+  "style": [
+   "cottagecore",
+   "whimsical",
+   "botanical"
+  ],
+  "price_usd": 24,
+  "evidence": "mushroom+cottagecore 为 2026 whimsical 明确大类，Comfort Colors 范式",
+  "source": "etsy",
+  "design": {
+   "base_color": "#f4ecd9",
+   "print_color": "#c56a48",
+   "graphic_desc": "A small cluster of assorted toadstools and mushrooms with moss and a tiny fern at the base, storybook style",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-frog-on-a-mushroom",
+  "name": "Frog On A Mushroom",
+  "collection": "Graphic",
+  "category": "cottagecore",
+  "theme": "青蛙坐蘑菇的森系可爱款",
+  "style": [
+   "cottagecore",
+   "whimsical",
+   "cute"
+  ],
+  "price_usd": 24,
+  "evidence": "frog+mushroom+cottagecore 为搜索到的三重交叉热门，Gen Z whimsical",
+  "source": "etsy",
+  "design": {
+   "base_color": "#9ca992",
+   "print_color": "#33342f",
+   "graphic_desc": "A content little frog sitting cross-legged on a spotted toadstool cap holding a tiny leaf umbrella",
+   "typography": "optional tiny 'stay cozy' hand-lettered below"
+  }
+ },
+ {
+  "id": "tf-field-of-wildflowers",
+  "name": "Field Of Wildflowers",
+  "collection": "Graphic",
+  "category": "cottagecore",
+  "theme": "野花田横幅森系",
+  "style": [
+   "cottagecore",
+   "botanical",
+   "vintage"
+  ],
+  "price_usd": 24,
+  "evidence": "wildflower shirt 为 cottagecore/mama 交叉 bestseller",
+  "source": "etsy",
+  "design": {
+   "base_color": "#f4ecd9",
+   "print_color": "#6e7a54",
+   "graphic_desc": "A wide low band of mixed wildflowers stretching chest-width like a meadow horizon, delicate ink",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-grow-through-it",
+  "name": "Grow Through It",
+  "collection": "Graphic",
+  "category": "cottagecore",
+  "theme": "植物励志双关森系",
+  "style": [
+   "cottagecore",
+   "botanical",
+   "pun"
+  ],
+  "price_usd": 23,
+  "evidence": "botanical+成长双关文字为 cottagecore 励志热卖范式",
+  "source": "etsy",
+  "design": {
+   "base_color": "#dccba6",
+   "print_color": "#6e7a54",
+   "graphic_desc": "A tall flowering stem growing up through the words, a few leaves overlapping the letters",
+   "typography": "'grow through it' in soft hand-lettered serif, stem intertwined"
+  }
+ },
+ {
+  "id": "tf-snail-s-pace",
+  "name": "Snail's Pace",
+  "collection": "Graphic",
+  "category": "cottagecore",
+  "theme": "蜗牛慢生活森系可爱",
+  "style": [
+   "cottagecore",
+   "whimsical",
+   "cute"
+  ],
+  "price_usd": 23,
+  "evidence": "whimsical 小动物(snail)+慢生活为 2026 quirky 上升款",
+  "source": "etsy",
+  "design": {
+   "base_color": "#ebd9a0",
+   "print_color": "#6e5a3e",
+   "graphic_desc": "A gentle smiling snail with a mushroom-cap shell leaving a tiny trail of flowers behind it",
+   "typography": "'snail's pace' in wobbly cozy hand-lettering"
+  }
+ },
+ {
+  "id": "tf-midnight-moth",
+  "name": "Midnight Moth",
+  "collection": "Graphic",
+  "category": "cottagecore",
+  "theme": "月夜飞蛾暗森系",
+  "style": [
+   "dark-cottagecore",
+   "celestial",
+   "moody"
+  ],
+  "price_usd": 25,
+  "evidence": "goth-cottagecore witchy moth 为搜索到的暗黑森系交叉热门",
+  "source": "etsy",
+  "design": {
+   "base_color": "#26303f",
+   "print_color": "#c9bedd",
+   "graphic_desc": "A symmetrical luna moth with a small crescent moon centered on its body, tiny stars at wingtips",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-bee-kind-always",
+  "name": "Bee Kind, Always",
+  "collection": "Graphic",
+  "category": "cottagecore",
+  "theme": "蜜蜂善意双关森系",
+  "style": [
+   "cottagecore",
+   "pun",
+   "wholesome"
+  ],
+  "price_usd": 23,
+  "evidence": "bee/honey 森系+善意双关为常青 wholesome 热卖",
+  "source": "etsy",
+  "design": {
+   "base_color": "#f4ecd9",
+   "print_color": "#c99a3b",
+   "graphic_desc": "A plump fuzzy bumblebee with a dotted flight path looping into a small heart, honeycomb accents",
+   "typography": "'bee kind, always' in friendly rounded hand-lettering"
+  }
+ },
+ {
+  "id": "tf-strawberry-girl-summer",
+  "name": "Strawberry Girl Summer",
+  "collection": "Graphic",
+  "category": "cottagecore",
+  "theme": "草莓夏日森系可爱",
+  "style": [
+   "cottagecore",
+   "coquette",
+   "cute"
+  ],
+  "price_usd": 23,
+  "evidence": "strawberry/coquette+cottagecore 为 2026 whimsical 甜美上升款",
+  "source": "etsy",
+  "design": {
+   "base_color": "#e7c4c0",
+   "print_color": "#c56a48",
+   "graphic_desc": "A cluster of ripe strawberries with tiny blossoms and a small bow tied at the stems",
+   "typography": "'strawberry girl' in coquette bouncy script, small heart dot"
+  }
+ },
+ {
+  "id": "tf-gone-foraging",
+  "name": "Gone Foraging",
+  "collection": "Graphic",
+  "category": "cottagecore",
+  "theme": "采集森系户外身份",
+  "style": [
+   "cottagecore",
+   "woodland",
+   "vintage"
+  ],
+  "price_usd": 24,
+  "evidence": "foraging/woodland 主题为 cottagecore forest 热门范式",
+  "source": "etsy",
+  "design": {
+   "base_color": "#6e7a54",
+   "print_color": "#f4ecd9",
+   "graphic_desc": "A woven basket overflowing with mushrooms, ferns and berries, vintage botanical engraving",
+   "typography": "'gone foraging' in rustic serif arched over the basket"
+  }
+ },
+ {
+  "id": "tf-toad-toadstool-ball",
+  "name": "Toad & Toadstool Ball",
+  "collection": "Graphic",
+  "category": "cottagecore",
+  "theme": "蟾蜍舞会奇趣森系",
+  "style": [
+   "cottagecore",
+   "whimsical",
+   "storybook"
+  ],
+  "price_usd": 24,
+  "evidence": "frog/toad meme+cottagecore 为 Gen Z whimsical 交叉热卖",
+  "source": "etsy",
+  "design": {
+   "base_color": "#9ca992",
+   "print_color": "#33342f",
+   "graphic_desc": "A dapper toad in a tiny bow tie dancing among giant toadstools under fairy lights, storybook ink",
+   "typography": "'you're invited' in small fairytale script, optional"
+  }
+ },
+ {
+  "id": "tf-butterfly-baby-tee",
+  "name": "Butterfly Baby Tee",
+  "collection": "Graphic",
+  "category": "y2k",
+  "theme": "Y2K蝴蝶贴身短tee",
+  "style": [
+   "y2k",
+   "baby-tee",
+   "retro"
+  ],
+  "price_usd": 22,
+  "evidence": "Y2K baby tee butterfly 为搜索到的 y2k 主导 fit+印花",
+  "source": "etsy",
+  "design": {
+   "base_color": "#fafafa",
+   "print_color": "#a7b7c4",
+   "graphic_desc": "A single glossy 2000s-style butterfly with a subtle chrome gradient centered small on a fitted baby tee",
+   "typography": "none, optional tiny 'butterfly' in y2k pixel font"
+  }
+ },
+ {
+  "id": "tf-cherry-baby",
+  "name": "Cherry Baby",
+  "collection": "Graphic",
+  "category": "y2k",
+  "theme": "Y2K樱桃复古少女款",
+  "style": [
+   "y2k",
+   "coquette",
+   "retro"
+  ],
+  "price_usd": 22,
+  "evidence": "cherry+coquette+y2k 为 baby tee 热门印花组合",
+  "source": "etsy",
+  "design": {
+   "base_color": "#fafafa",
+   "print_color": "#c56a48",
+   "graphic_desc": "A pair of glossy red cherries with a small sparkle, faded vintage print texture, baby tee fit",
+   "typography": "'cherry baby' in y2k bubble script with tiny star"
+  }
+ },
+ {
+  "id": "tf-groovy-checker-smiley",
+  "name": "Groovy Checker Smiley",
+  "collection": "Graphic",
+  "category": "y2k",
+  "theme": "复古笑脸棋盘格",
+  "style": [
+   "y2k",
+   "groovy",
+   "retro"
+  ],
+  "price_usd": 23,
+  "evidence": "checkerboard+smiley+70s groovy 为 y2k/retro 强势印花",
+  "source": "etsy",
+  "design": {
+   "base_color": "#ebd9a0",
+   "print_color": "#33342f",
+   "graphic_desc": "A melting groovy smiley face sitting on a wavy checkerboard strip, warped 70s style",
+   "typography": "'stay groovy' in dripping bubble font below"
+  }
+ },
+ {
+  "id": "tf-fast-lane-racer",
+  "name": "Fast Lane Racer",
+  "collection": "Graphic",
+  "category": "y2k",
+  "theme": "赛车火焰复古机车风",
+  "style": [
+   "y2k",
+   "moto-racer",
+   "bootleg"
+  ],
+  "price_usd": 24,
+  "evidence": "retro flames/racing bootleg 为 y2k/90s vintage 热门风格",
+  "source": "etsy",
+  "design": {
+   "base_color": "#1a1a1a",
+   "print_color": "#c56a48",
+   "graphic_desc": "A vintage moto-racing crest with flames and a checkered ribbon banner, distressed bootleg print",
+   "typography": "'No. 27 Racing Club' in worn athletic block letters"
+  }
+ },
+ {
+  "id": "tf-wish-upon-a-star-tee",
+  "name": "Wish Upon A Star Tee",
+  "collection": "Graphic",
+  "category": "y2k",
+  "theme": "Y2K渐变星星梦幻款",
+  "style": [
+   "y2k",
+   "gradient",
+   "dreamy"
+  ],
+  "price_usd": 22,
+  "evidence": "gradient star y2k 为 baby tee 梦幻印花热门",
+  "source": "etsy",
+  "design": {
+   "base_color": "#c9bedd",
+   "print_color": "#fafafa",
+   "graphic_desc": "A cluster of chrome-gradient stars of different sizes with tiny sparkle glints, baby tee fit",
+   "typography": "none, optional 'make a wish' in y2k script"
+  }
+ },
+ {
+  "id": "tf-certified-angel",
+  "name": "Certified Angel",
+  "collection": "Graphic",
+  "category": "y2k",
+  "theme": "Y2K天使翅膀gen-z款",
+  "style": [
+   "y2k",
+   "angelcore",
+   "coquette"
+  ],
+  "price_usd": 23,
+  "evidence": "angel/wings baby tee 为 y2k/coquette 热门自我表达印花",
+  "source": "etsy",
+  "design": {
+   "base_color": "#fafafa",
+   "print_color": "#a7b7c4",
+   "graphic_desc": "A pair of small feathered angel wings with a thin floating halo above, soft airbrush y2k style",
+   "typography": "'certified angel' in glossy y2k italic"
+  }
+ },
+ {
+  "id": "tf-custom-bubble-name",
+  "name": "Custom Bubble Name",
+  "collection": "Graphic",
+  "category": "y2k",
+  "theme": "可定制Y2K气泡名字款",
+  "style": [
+   "y2k",
+   "personalized",
+   "retro"
+  ],
+  "price_usd": 23,
+  "evidence": "retro bubble text 定制名字为 y2k/90s bootleg 定制热卖",
+  "source": "etsy",
+  "design": {
+   "base_color": "#1a1a1a",
+   "print_color": "#ebd9a0",
+   "graphic_desc": "A large customizable name in inflated 90s bubble letters with a drop shadow and tiny sparkles",
+   "typography": "personalized name in bold puffy y2k bubble font"
+  }
+ },
+ {
+  "id": "tf-raising-a-wildflower-mama",
+  "name": "Raising A Wildflower — Mama",
+  "collection": "Graphic",
+  "category": "matching",
+  "theme": "亲子野花妈妈款",
+  "style": [
+   "mama-mini",
+   "cottagecore",
+   "heartfelt"
+  ],
+  "price_usd": 26,
+  "evidence": "'Raising A Wildflower' mama+mini 为搜索到的 bestseller 亲子范式",
+  "source": "etsy",
+  "design": {
+   "base_color": "#dccba6",
+   "print_color": "#6e7a54",
+   "graphic_desc": "A single tall wildflower with the word arched above; mini version shows a small bud of same flower",
+   "typography": "'Raising A Wildflower' in soft hand-lettered serif (mini reads 'Wildflower')"
+  }
+ },
+ {
+  "id": "tf-silly-goose-silly-goose",
+  "name": "Silly Goose & Silly Goose",
+  "collection": "Graphic",
+  "category": "matching",
+  "theme": "情侣傻鹅幽默款",
+  "style": [
+   "couple",
+   "funny",
+   "comfort-colors"
+  ],
+  "price_usd": 25,
+  "evidence": "'Silly Goose' couple shirts in Comfort Colors 为搜索到的 bestseller 幽默情侣款",
+  "source": "etsy",
+  "design": {
+   "base_color": "#ebd9a0",
+   "print_color": "#33342f",
+   "graphic_desc": "A single cartoon goose mid-honk with a tiny party hat, playful loose line",
+   "typography": "'silly goose' in bouncy hand-lettering, matching pair"
+  }
+ },
+ {
+  "id": "tf-besties-since-forever",
+  "name": "Besties Since Forever",
+  "collection": "Graphic",
+  "category": "matching",
+  "theme": "闺蜜复古情谊款",
+  "style": [
+   "besties",
+   "retro",
+   "personalized"
+  ],
+  "price_usd": 24,
+  "evidence": "personalized besties+90s vintage bootleg 为 bestseller 闺蜜款",
+  "source": "etsy",
+  "design": {
+   "base_color": "#f4ecd9",
+   "print_color": "#c56a48",
+   "graphic_desc": "Two retro daisies linked by stems inside a groovy oval frame, 90s vintage bootleg vibe",
+   "typography": "'besties since ___' with fillable year in retro bubble serif"
+  }
+ },
+ {
+  "id": "tf-girls-trip-2026",
+  "name": "Girls Trip 2026",
+  "collection": "Graphic",
+  "category": "matching",
+  "theme": "闺蜜旅行团队定制款",
+  "style": [
+   "group",
+   "travel",
+   "personalized"
+  ],
+  "price_usd": 25,
+  "evidence": "Girls Trip 2026 personalized 为搜索到的 group travel bestseller",
+  "source": "etsy",
+  "design": {
+   "base_color": "#e7c4c0",
+   "print_color": "#33342f",
+   "graphic_desc": "A retro sunburst arc with a small cocktail and palm silhouette, room for custom names list",
+   "typography": "'Girls Trip 2026' in groovy retro font, small custom names below"
+  }
+ },
+ {
+  "id": "tf-cousin-crew",
+  "name": "Cousin Crew",
+  "collection": "Graphic",
+  "category": "matching",
+  "theme": "表亲团队复古聚会款",
+  "style": [
+   "group",
+   "retro",
+   "comfort-colors"
+  ],
+  "price_usd": 24,
+  "evidence": "Cousin Crew Comfort Colors reunion 为搜索到的 group bestseller",
+  "source": "etsy",
+  "design": {
+   "base_color": "#dccba6",
+   "print_color": "#26303f",
+   "graphic_desc": "A retro rainbow arc with 'crew' banner and numbered spot for each cousin, vintage varsity",
+   "typography": "'Cousin Crew' in chunky retro varsity, small numbers"
+  }
+ },
+ {
+  "id": "tf-mama-saurus-mini-saurus",
+  "name": "Mama Saurus & Mini Saurus",
+  "collection": "Graphic",
+  "category": "matching",
+  "theme": "恐龙亲子趣味款",
+  "style": [
+   "mama-mini",
+   "novelty",
+   "cute"
+  ],
+  "price_usd": 26,
+  "evidence": "Dinosaur Mama Mini 为搜索到的亲子 novelty bestseller",
+  "source": "etsy",
+  "design": {
+   "base_color": "#9ca992",
+   "print_color": "#33342f",
+   "graphic_desc": "A friendly T-rex with tiny arms; mama has a large one, mini has a small hatchling with an egg",
+   "typography": "'mamasaurus' / 'minisaurus' in playful hand-lettering"
+  }
+ },
+ {
+  "id": "tf-class-of-2026-grad-duo",
+  "name": "Class Of 2026 Grad Duo",
+  "collection": "Graphic",
+  "category": "matching",
+  "theme": "毕业闺蜜黑白团队款",
+  "style": [
+   "group",
+   "graduation",
+   "minimal"
+  ],
+  "price_usd": 24,
+  "evidence": "Matching Senior/Class of 2026 best friend grad set 为搜索到的 bestseller",
+  "source": "etsy",
+  "design": {
+   "base_color": "#1a1a1a",
+   "print_color": "#fafafa",
+   "graphic_desc": "A bold arched 'Class of 2026' with a small grad cap tassel and a thin underline, clean modern",
+   "typography": "'Class of 2026' in confident condensed sans, black-and-white set"
+  }
+ },
+ {
+  "id": "tf-making-memories-together",
+  "name": "Making Memories Together",
+  "collection": "Graphic",
+  "category": "matching",
+  "theme": "家庭出游纪念定制款",
+  "style": [
+   "group",
+   "travel",
+   "heartfelt"
+  ],
+  "price_usd": 25,
+  "evidence": "'Making Memories Together' personalized vacation tee 为 group travel bestseller",
+  "source": "etsy",
+  "design": {
+   "base_color": "#a7b7c4",
+   "print_color": "#26303f",
+   "graphic_desc": "A simple mountain-and-road horizon with a small sun, banner for custom destination and year",
+   "typography": "'Making Memories Together' in warm vintage serif, custom line below"
+  }
+ },
+ {
+  "id": "tf-meridian-supima-crew",
+  "name": "Meridian Supima Crew",
+  "collection": "Premium",
+  "category": "pima-cotton",
+  "theme": "加州长绒 Supima 单面平纹，轻盈顺滑有微光泽",
+  "style": [
+   "minimal",
+   "classic-fit",
+   "everyday"
+  ],
+  "price_usd": 78,
+  "evidence": "对标 Sunspel 英制 Supima 经典款与 Asket 120gsm 轻量 Supima($75-110区间)",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#f4f1ea",
+   "print_color": "#f4f1ea",
+   "graphic_desc": "Clean crewneck in fine 130gsm Supima single jersey, bound collar, slim classic fit, no graphic",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-q-twist-two-fold-tee",
+  "name": "Q-Twist Two-Fold Tee",
+  "collection": "Premium",
+  "category": "premium-basic",
+  "theme": "双股精纺 Q 纱，细腻挺括、越洗越顺",
+  "style": [
+   "heritage",
+   "refined",
+   "slim"
+  ],
+  "price_usd": 95,
+  "evidence": "对标 Sunspel Q82 two-fold Supima 工艺经典T,零售约$110-160",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#1a1a1e",
+   "print_color": "#1a1a1e",
+   "graphic_desc": "Two-fold combed cotton jersey tee with crisp hand and clean bound neck, tailored slim cut",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-sea-isle-featherweight",
+  "name": "Sea Isle Featherweight",
+  "collection": "Graphic",
+  "category": "sea-island",
+  "theme": "海岛棉极致柔滑，最轻盈的奢感手感",
+  "style": [
+   "luxury",
+   "lightweight",
+   "drapey"
+  ],
+  "price_usd": 108,
+  "evidence": "对标 Sunspel Sea Island Cotton 顶级线,售价高于常规款",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#ede7db",
+   "print_color": "#ede7db",
+   "graphic_desc": "Ultra-fine Sea Island cotton tee with liquid drape and subtle sheen, whisper-light 110gsm",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-coast-line-cotton-linen",
+  "name": "Coast Line Cotton-Linen",
+  "collection": "Graphic",
+  "category": "linen-blend",
+  "theme": "棉麻混纺，夏季透气带自然肌理",
+  "style": [
+   "summer",
+   "textured",
+   "relaxed"
+  ],
+  "price_usd": 82,
+  "evidence": "对标 Sunspel Pima cotton-linen 夏季T,棉柔+麻的透气",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#232e42",
+   "print_color": "#232e42",
+   "graphic_desc": "Cotton-linen slub jersey tee, breathable open weave, slim cut with bound neckline",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-craig-midweight-slim",
+  "name": "Craig Midweight Slim",
+  "collection": "Premium",
+  "category": "premium-basic",
+  "theme": "中磅棉修身贴合，剪影利落",
+  "style": [
+   "fitted",
+   "sharp",
+   "versatile"
+  ],
+  "price_usd": 85,
+  "evidence": "对标 Sunspel Midweight(为James Bond剪裁)修身版型",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#2e3138",
+   "print_color": "#2e3138",
+   "graphic_desc": "Midweight cotton jersey, fitted slim body and short sleeves, refined athletic silhouette",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-north-carolina-tubular",
+  "name": "North Carolina Tubular",
+  "collection": "Premium",
+  "category": "premium-basic",
+  "theme": "美产管状针织无侧缝，干爽中磅手感",
+  "style": [
+   "american-made",
+   "boxy",
+   "structured"
+  ],
+  "price_usd": 72,
+  "evidence": "对标 Lady White Co LW-101 6oz North Carolina 棉管状jersey",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#f5f3ee",
+   "print_color": "#f5f3ee",
+   "graphic_desc": "6oz tubular cotton jersey, no side seams, dry crisp hand, double-needle bound collar, standard fit",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-loopwheel-original",
+  "name": "Loopwheel Original",
+  "collection": "Premium",
+  "category": "organic",
+  "theme": "复古环编机 100% 有机棉，管状无缝",
+  "style": [
+   "heritage",
+   "organic",
+   "seamless"
+  ],
+  "price_usd": 90,
+  "evidence": "对标 Merz b. Schwanen loopwheeled 有机棉,TEE02/03 $85-90",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#f1ecde",
+   "print_color": "#f1ecde",
+   "graphic_desc": "Loopwheeled 100% organic cotton tee knit as a seamless tube on vintage machines, soft dense body",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-iron-loop-heavyweight",
+  "name": "Iron Loop Heavyweight",
+  "collection": "Street",
+  "category": "heavyweight",
+  "theme": "环编重磅有机棉，结构感强立体垂坠",
+  "style": [
+   "heavyweight",
+   "rugged",
+   "boxy"
+  ],
+  "price_usd": 98,
+  "evidence": "对标 Merz 2S18 重磅 loopwheel 与 CDLP 330gsm heavy cotton",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#16151a",
+   "print_color": "#16151a",
+   "graphic_desc": "10.7oz loopwheeled organic cotton, sturdy structured body with sculptural drape, boxy fit",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-field-spec-boxy-tee",
+  "name": "Field-Spec Boxy Tee",
+  "collection": "Street",
+  "category": "heavyweight",
+  "theme": "加州硬核平纹棉，越穿越有型",
+  "style": [
+   "american-classic",
+   "boxy",
+   "durable"
+  ],
+  "price_usd": 68,
+  "evidence": "对标 Buck Mason Field-Spec/Toughknit 重磅boxy款",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#3a3a3d",
+   "print_color": "#3a3a3d",
+   "graphic_desc": "Heavyweight field-spec cotton jersey, boxy curved-hem cut built to wear in over years",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-slub-curve-hem",
+  "name": "Slub Curve-Hem",
+  "collection": "Premium",
+  "category": "premium-basic",
+  "theme": "竹节棉不规则肌理，弧形下摆",
+  "style": [
+   "textured",
+   "casual",
+   "curved-hem"
+  ],
+  "price_usd": 62,
+  "evidence": "对标 Buck Mason Slub curved-hem tee",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#b8a88f",
+   "print_color": "#b8a88f",
+   "graphic_desc": "Slub cotton jersey with irregular texture, curved dropped hem, relaxed classic fit",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-garment-dyed-ecru",
+  "name": "Garment-Dyed Ecru",
+  "collection": "Premium",
+  "category": "organic",
+  "theme": "成衣染 100% 有机棉，水洗做旧色感",
+  "style": [
+   "garment-dyed",
+   "washed",
+   "vintage"
+  ],
+  "price_usd": 58,
+  "evidence": "对标 Colorful Standard 有机棉成衣染 180-240gsm",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#dcd3c0",
+   "print_color": "#dcd3c0",
+   "graphic_desc": "180gsm organic cotton, garment-dyed and pre-washed for lived-in color depth, classic fit",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-garment-dyed-olive",
+  "name": "Garment-Dyed Olive",
+  "collection": "Premium",
+  "category": "organic",
+  "theme": "成衣染大地色调，柔糯手感",
+  "style": [
+   "earthy",
+   "garment-dyed",
+   "relaxed"
+  ],
+  "price_usd": 58,
+  "evidence": "对标 Colorful Standard 48色成衣染有机棉线",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#6b7159",
+   "print_color": "#6b7159",
+   "graphic_desc": "Garment-dyed organic cotton in muted olive, soft washed hand, regular fit",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-tencel-cotton-lightweight",
+  "name": "Tencel-Cotton Lightweight",
+  "collection": "Premium",
+  "category": "premium-basic",
+  "theme": "莱赛尔+有机棉混纺，丝滑凉感",
+  "style": [
+   "silky",
+   "cooling",
+   "drapey"
+  ],
+  "price_usd": 80,
+  "evidence": "对标 CDLP 145gsm Tencel/organic cotton lightweight",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#55647a",
+   "print_color": "#55647a",
+   "graphic_desc": "145gsm Tencel lyocell and organic cotton blend, silk-like drape, relaxed crew neck",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-pima-tencel-midweight",
+  "name": "Pima-Tencel Midweight",
+  "collection": "Premium",
+  "category": "pima-cotton",
+  "theme": "皮马棉+莱赛尔中磅，垂坠有光泽",
+  "style": [
+   "refined",
+   "drapey",
+   "modern"
+  ],
+  "price_usd": 88,
+  "evidence": "对标 CDLP 220gsm Tencel/pima midweight",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#232323",
+   "print_color": "#232323",
+   "graphic_desc": "220gsm pima cotton and lyocell blend, smooth drape with subtle luster, regular fit",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-cotton-cashmere-luxe",
+  "name": "Cotton-Cashmere Luxe",
+  "collection": "Premium",
+  "category": "premium-basic",
+  "theme": "棉羊绒混纺，柔软保暖带微绒感",
+  "style": [
+   "luxury",
+   "soft",
+   "elevated"
+  ],
+  "price_usd": 110,
+  "evidence": "对标 Merz CASHTEE01 cotton-cashmere $140 定位",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#b7b4ae",
+   "print_color": "#b7b4ae",
+   "graphic_desc": "Cotton-cashmere jersey tee, plush soft hand with faint halo, refined classic cut",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-heather-grey-essential",
+  "name": "Heather Grey Essential",
+  "collection": "Premium",
+  "category": "premium-basic",
+  "theme": "经典麻灰基础款，日常百搭",
+  "style": [
+   "essential",
+   "versatile",
+   "classic"
+  ],
+  "price_usd": 55,
+  "evidence": "对标 Asket 极简elevated essentials 灰色主力款",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#a9a9a9",
+   "print_color": "#a9a9a9",
+   "graphic_desc": "Mid-weight combed cotton in heather grey melange, clean crew neck, classic three-length fit",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-long-staple-crew-black",
+  "name": "Long-Staple Crew Black",
+  "collection": "Premium",
+  "category": "premium-basic",
+  "theme": "长绒精梳棉重磅圆领,厚实挺括",
+  "style": [
+   "heavyweight",
+   "structured",
+   "clean"
+  ],
+  "price_usd": 70,
+  "evidence": "对标 Asket premium heavyweight long-staple crewneck",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#1a1a1a",
+   "print_color": "#1a1a1a",
+   "graphic_desc": "Premium 100% long-staple cotton heavyweight crewneck, substantial structured body",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-off-white-featherweight",
+  "name": "Off-White Featherweight",
+  "collection": "Premium",
+  "category": "pima-cotton",
+  "theme": "轻量 Supima 平纹，柔软微透",
+  "style": [
+   "lightweight",
+   "minimal",
+   "soft"
+  ],
+  "price_usd": 65,
+  "evidence": "对标 Asket 120gsm Supima lightweight off-white",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#ede7db",
+   "print_color": "#ede7db",
+   "graphic_desc": "120gsm Supima single jersey with soft drape and subtle sheen, classic fit",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-taupe-lightweight-tee",
+  "name": "Taupe Lightweight Tee",
+  "collection": "Premium",
+  "category": "pima-cotton",
+  "theme": "轻磅 Supima 大地灰褐色调",
+  "style": [
+   "earthy",
+   "lightweight",
+   "minimal"
+  ],
+  "price_usd": 65,
+  "evidence": "对标 Asket Supima lightweight taupe 大地色系",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#b8a88f",
+   "print_color": "#b8a88f",
+   "graphic_desc": "120gsm Supima jersey in warm taupe, fine drape, clean bound neckline",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-pocket-tee-natural",
+  "name": "Pocket Tee Natural",
+  "collection": "Premium",
+  "category": "pocket-tee",
+  "theme": "贴袋细节,中磅管状棉",
+  "style": [
+   "pocket",
+   "understated",
+   "boxy"
+  ],
+  "price_usd": 66,
+  "evidence": "对标 Lady White Co Pocket T-Shirt 系列",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#efe9d8",
+   "print_color": "#efe9d8",
+   "graphic_desc": "Midweight tubular cotton tee with clean patch chest pocket, standard fit, bound collar",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-pocket-tee-faded-black",
+  "name": "Pocket Tee Faded Black",
+  "collection": "Premium",
+  "category": "pocket-tee",
+  "theme": "水洗做旧黑贴袋款",
+  "style": [
+   "pocket",
+   "washed",
+   "casual"
+  ],
+  "price_usd": 66,
+  "evidence": "对标 Lady White Co 与 Buck Mason 贴袋重磅款",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#2b2a2e",
+   "print_color": "#2b2a2e",
+   "graphic_desc": "Garment-washed cotton pocket tee in faded black, patch pocket, relaxed classic cut",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-henley-three-button",
+  "name": "Henley Three-Button",
+  "collection": "Premium",
+  "category": "henley",
+  "theme": "三扣亨利领,重磅棉罗纹领口",
+  "style": [
+   "henley",
+   "rugged",
+   "layering"
+  ],
+  "price_usd": 78,
+  "evidence": "对标 Merz Seraphim Henley 与 Lady White Co henley 款",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#4a3c30",
+   "print_color": "#4a3c30",
+   "graphic_desc": "Heavyweight cotton henley with three-button placket and ribbed neck, regular fit",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-waffle-henley-cream",
+  "name": "Waffle Henley Cream",
+  "collection": "Premium",
+  "category": "henley",
+  "theme": "华夫格织纹亨利,层次保暖",
+  "style": [
+   "waffle",
+   "textured",
+   "henley"
+  ],
+  "price_usd": 74,
+  "evidence": "对标 Buck Mason waffle/thermal henley 品类",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#efe9d8",
+   "print_color": "#efe9d8",
+   "graphic_desc": "Waffle-knit cotton henley with two-button placket, textured thermal body, slim fit",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-loopwheel-longsleeve",
+  "name": "Loopwheel Longsleeve",
+  "collection": "Premium",
+  "category": "longsleeve",
+  "theme": "环编重磅有机棉长袖,无缝管身",
+  "style": [
+   "heavyweight",
+   "organic",
+   "seamless"
+  ],
+  "price_usd": 95,
+  "evidence": "对标 Merz 2S18 loopwheeled heavyweight longsleeve",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#f1ecde",
+   "print_color": "#f1ecde",
+   "graphic_desc": "10.7oz loopwheeled organic cotton long sleeve, seamless tubular body, relaxed fit",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-supima-longsleeve-navy",
+  "name": "Supima Longsleeve Navy",
+  "collection": "Premium",
+  "category": "longsleeve",
+  "theme": "长绒棉长袖基础款,顺滑贴合",
+  "style": [
+   "clean",
+   "layering",
+   "refined"
+  ],
+  "price_usd": 82,
+  "evidence": "对标 Sunspel/Asket Supima 长袖基础线",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#1e2a3a",
+   "print_color": "#1e2a3a",
+   "graphic_desc": "Supima cotton long sleeve crewneck, smooth fine jersey, tailored slim body",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-breton-stripe-longsleeve",
+  "name": "Breton Stripe Longsleeve",
+  "collection": "Premium",
+  "category": "longsleeve",
+  "theme": "经典布列塔尼横条长袖,有机棉",
+  "style": [
+   "breton",
+   "striped",
+   "nautical"
+  ],
+  "price_usd": 88,
+  "evidence": "对标 Merz mid-century stripe 与 Sunspel/Saint James breton",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#f1ecde",
+   "print_color": "#1e2a3a",
+   "graphic_desc": "Organic cotton long sleeve with classic Breton navy stripes on ecru ground, boat-neck relaxed fit",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-breton-stripe-tee",
+  "name": "Breton Stripe Tee",
+  "collection": "Graphic",
+  "category": "striped",
+  "theme": "横条纹短袖,复古航海感",
+  "style": [
+   "breton",
+   "striped",
+   "heritage"
+  ],
+  "price_usd": 72,
+  "evidence": "对标 Merz nut/natural stripe jersey T",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#ede7db",
+   "print_color": "#4b5320",
+   "graphic_desc": "Loopwheeled cotton tee with evenly spaced natural-and-olive stripes, classic crew, no logo",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-pima-pique-tee",
+  "name": "Pima Pique Tee",
+  "collection": "Premium",
+  "category": "premium-basic",
+  "theme": "珠地网眼棉,透气有结构",
+  "style": [
+   "pique",
+   "textured",
+   "refined"
+  ],
+  "price_usd": 76,
+  "evidence": "对标 Sunspel piqué polo 面料延伸到圆领T",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#55647a",
+   "print_color": "#55647a",
+   "graphic_desc": "Pima cotton pique jersey tee with subtle waffle texture, breathable structured body, slim fit",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-ribbed-slim-tee",
+  "name": "Ribbed Slim Tee",
+  "collection": "Premium",
+  "category": "premium-basic",
+  "theme": "细罗纹修身棉,贴身有弹性",
+  "style": [
+   "ribbed",
+   "fitted",
+   "minimal"
+  ],
+  "price_usd": 60,
+  "evidence": "对标 Colorful Standard/CDLP 罗纹修身线",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#5c2a2e",
+   "print_color": "#5c2a2e",
+   "graphic_desc": "Fine-rib organic cotton tee, body-skimming stretch fit, clean crew neck",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-oversized-organic-tee",
+  "name": "Oversized Organic Tee",
+  "collection": "Premium",
+  "category": "organic",
+  "theme": "落肩宽版有机棉,街头松弛感",
+  "style": [
+   "oversized",
+   "relaxed",
+   "street"
+  ],
+  "price_usd": 64,
+  "evidence": "对标 Colorful Standard oversized organic fit",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#c2bbaf",
+   "print_color": "#c2bbaf",
+   "graphic_desc": "240gsm organic cotton oversized tee, dropped shoulders, boxy relaxed silhouette",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-sun-faded-rust-tee",
+  "name": "Sun-Faded Rust Tee",
+  "collection": "Premium",
+  "category": "organic",
+  "theme": "成衣染陶土锈色,自然褪色感",
+  "style": [
+   "earthy",
+   "garment-dyed",
+   "warm"
+  ],
+  "price_usd": 58,
+  "evidence": "对标 Colorful Standard 大地色成衣染系",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#9e5b3e",
+   "print_color": "#9e5b3e",
+   "graphic_desc": "Garment-dyed organic cotton in sun-faded rust, soft washed hand, classic fit",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-sage-garment-dyed",
+  "name": "Sage Garment-Dyed",
+  "collection": "Premium",
+  "category": "organic",
+  "theme": "鼠尾草绿成衣染,柔和低饱和",
+  "style": [
+   "muted",
+   "garment-dyed",
+   "calm"
+  ],
+  "price_usd": 58,
+  "evidence": "对标 Colorful Standard 低饱和自然色板",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#8a8c6e",
+   "print_color": "#8a8c6e",
+   "graphic_desc": "Garment-dyed organic cotton in soft sage, pre-washed for lived-in feel, regular fit",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-clay-heavyweight-boxy",
+  "name": "Clay Heavyweight Boxy",
+  "collection": "Street",
+  "category": "heavyweight",
+  "theme": "陶土色重磅棉宽版,厚实立体",
+  "style": [
+   "heavyweight",
+   "boxy",
+   "earthy"
+  ],
+  "price_usd": 70,
+  "evidence": "对标 3sixteen/LA Apparel garment-dyed 重磅boxy",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#b07b5e",
+   "print_color": "#b07b5e",
+   "graphic_desc": "6.5oz garment-dyed heavyweight cotton, boxy cut with structured drape, ribbed collar",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-ecru-heavyweight-crew",
+  "name": "Ecru Heavyweight Crew",
+  "collection": "Street",
+  "category": "heavyweight",
+  "theme": "本白重磅圆领,挺括有份量",
+  "style": [
+   "heavyweight",
+   "clean",
+   "structured"
+  ],
+  "price_usd": 68,
+  "evidence": "对标 CDLP 330gsm heavy cotton 与 Asket heavyweight crew",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#ede7db",
+   "print_color": "#ede7db",
+   "graphic_desc": "330gsm heavy cotton crewneck, substantial body with rich drape, reinforced collar",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-charcoal-heavyweight-crew",
+  "name": "Charcoal Heavyweight Crew",
+  "collection": "Street",
+  "category": "heavyweight",
+  "theme": "炭灰重磅棉圆领,沉稳耐穿",
+  "style": [
+   "heavyweight",
+   "neutral",
+   "durable"
+  ],
+  "price_usd": 68,
+  "evidence": "对标 CDLP heavy cotton 330gsm 深色主力",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#3a3a3d",
+   "print_color": "#3a3a3d",
+   "graphic_desc": "330gsm heavy cotton crewneck in charcoal, dense structured jersey, clean bound neck",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-ivory-classic-crew",
+  "name": "Ivory Classic Crew",
+  "collection": "Premium",
+  "category": "premium-basic",
+  "theme": "象牙白经典圆领,精梳中磅",
+  "style": [
+   "classic",
+   "clean",
+   "everyday"
+  ],
+  "price_usd": 54,
+  "evidence": "对标 Asket/Sunspel 白T基础主力,elevated essentials",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#f1ebdd",
+   "print_color": "#f1ebdd",
+   "graphic_desc": "Combed cotton mid-weight crew in ivory, clean bound collar, timeless classic fit",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-deep-navy-classic-crew",
+  "name": "Deep Navy Classic Crew",
+  "collection": "Premium",
+  "category": "premium-basic",
+  "theme": "藏青经典圆领,百搭沉稳",
+  "style": [
+   "classic",
+   "versatile",
+   "clean"
+  ],
+  "price_usd": 54,
+  "evidence": "对标 Asket/Sunspel navy 基础色主力款",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#1e2a3a",
+   "print_color": "#1e2a3a",
+   "graphic_desc": "Combed cotton mid-weight crew in deep navy, refined bound neck, classic fit",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-espresso-slub-tee",
+  "name": "Espresso Slub Tee",
+  "collection": "Premium",
+  "category": "premium-basic",
+  "theme": "浓咖色竹节棉,肌理温润",
+  "style": [
+   "textured",
+   "warm",
+   "casual"
+  ],
+  "price_usd": 62,
+  "evidence": "对标 Buck Mason slub 大地色系",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#4a3c30",
+   "print_color": "#4a3c30",
+   "graphic_desc": "Slub cotton jersey in espresso brown, irregular texture, curved hem relaxed fit",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-stone-curve-hem-tee",
+  "name": "Stone Curve-Hem Tee",
+  "collection": "Premium",
+  "category": "premium-basic",
+  "theme": "灰石色弧摆基础款,松弛日常",
+  "style": [
+   "neutral",
+   "curved-hem",
+   "relaxed"
+  ],
+  "price_usd": 60,
+  "evidence": "对标 Buck Mason curved-hem 中性款",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#c2bbaf",
+   "print_color": "#c2bbaf",
+   "graphic_desc": "Mid-weight cotton tee in stone greige, curved dropped hem, easy classic fit",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-washed-indigo-tee",
+  "name": "Washed Indigo Tee",
+  "collection": "Premium",
+  "category": "organic",
+  "theme": "水洗靛蓝有机棉,牛仔感做旧",
+  "style": [
+   "washed",
+   "indigo",
+   "casual"
+  ],
+  "price_usd": 66,
+  "evidence": "对标 3sixteen/Merz 靛染有机棉工艺",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#4a5a72",
+   "print_color": "#4a5a72",
+   "graphic_desc": "Indigo-dyed organic cotton tee with faded wash, soft hand, regular fit",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-forest-loopwheel-tee",
+  "name": "Forest Loopwheel Tee",
+  "collection": "Premium",
+  "category": "organic",
+  "theme": "森林绿环编有机棉,深色沉静",
+  "style": [
+   "organic",
+   "heritage",
+   "deep-tone"
+  ],
+  "price_usd": 90,
+  "evidence": "对标 Merz loopwheeled 有机棉深色线",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#2e3d2f",
+   "print_color": "#2e3d2f",
+   "graphic_desc": "Loopwheeled 100% organic cotton in forest green, seamless tubular body, classic cut",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-oxblood-heavy-tee",
+  "name": "Oxblood Heavy Tee",
+  "collection": "Street",
+  "category": "heavyweight",
+  "theme": "暗红酒色重磅棉,浓郁复古",
+  "style": [
+   "heavyweight",
+   "rich",
+   "vintage"
+  ],
+  "price_usd": 68,
+  "evidence": "对标 CDLP/LA Apparel 深色重磅garment-dyed",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#5c2a2e",
+   "print_color": "#5c2a2e",
+   "graphic_desc": "Garment-dyed heavyweight cotton in oxblood, structured boxy body, ribbed collar",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-ochre-pocket-tee",
+  "name": "Ochre Pocket Tee",
+  "collection": "Premium",
+  "category": "pocket-tee",
+  "theme": "赭黄贴袋款,暖调复古",
+  "style": [
+   "pocket",
+   "warm",
+   "retro"
+  ],
+  "price_usd": 64,
+  "evidence": "对标 Lady White Co/Buck Mason 贴袋大地色款",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#c39b4e",
+   "print_color": "#c39b4e",
+   "graphic_desc": "Midweight cotton pocket tee in ochre, clean patch pocket, standard boxy fit",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-oatmeal-melange-tee",
+  "name": "Oatmeal Melange Tee",
+  "collection": "Premium",
+  "category": "premium-basic",
+  "theme": "燕麦混色棉,自然颗粒感",
+  "style": [
+   "melange",
+   "natural",
+   "soft"
+  ],
+  "price_usd": 56,
+  "evidence": "对标 Asket melange 与 Colorful Standard 混色线",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#dad2c0",
+   "print_color": "#dad2c0",
+   "graphic_desc": "Combed cotton melange tee in oatmeal, softly heathered surface, classic fit",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-pale-blue-supima-tee",
+  "name": "Pale Blue Supima Tee",
+  "collection": "Premium",
+  "category": "pima-cotton",
+  "theme": "浅蓝长绒棉,清爽微光泽",
+  "style": [
+   "fresh",
+   "lightweight",
+   "refined"
+  ],
+  "price_usd": 72,
+  "evidence": "对标 Sunspel slim-fit Supima light blue 款",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#b9c6d0",
+   "print_color": "#b9c6d0",
+   "graphic_desc": "Supima cotton slim-fit tee in pale blue, fine jersey with subtle sheen, bound neck",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-army-green-field-tee",
+  "name": "Army Green Field Tee",
+  "collection": "Street",
+  "category": "heavyweight",
+  "theme": "军绿硬核平纹棉,户外耐磨",
+  "style": [
+   "military",
+   "rugged",
+   "utility"
+  ],
+  "price_usd": 66,
+  "evidence": "对标 Buck Mason Field-Spec/Toughknit 军绿款",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#4b5320",
+   "print_color": "#4b5320",
+   "graphic_desc": "Heavyweight field-spec cotton in army green, durable boxy cut, reinforced collar",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-sand-boxy-organic",
+  "name": "Sand Boxy Organic",
+  "collection": "Premium",
+  "category": "organic",
+  "theme": "沙色宽版有机棉,松弛透气",
+  "style": [
+   "oversized",
+   "earthy",
+   "relaxed"
+  ],
+  "price_usd": 62,
+  "evidence": "对标 Colorful Standard oversized organic 大地色",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#c9bba0",
+   "print_color": "#c9bba0",
+   "graphic_desc": "Organic cotton oversized tee in sand, dropped shoulders, breathable boxy fit",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-cream-waffle-tee",
+  "name": "Cream Waffle Tee",
+  "collection": "Premium",
+  "category": "premium-basic",
+  "theme": "奶油华夫格短袖,肌理立体",
+  "style": [
+   "waffle",
+   "textured",
+   "soft"
+  ],
+  "price_usd": 64,
+  "evidence": "对标 Buck Mason waffle thermal 短袖延伸",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#efe9d8",
+   "print_color": "#efe9d8",
+   "graphic_desc": "Waffle-knit cotton tee in cream, textured breathable body, slim classic fit",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-mustard-longsleeve",
+  "name": "Mustard Longsleeve",
+  "collection": "Premium",
+  "category": "longsleeve",
+  "theme": "芥末黄长袖基础款,暖调百搭",
+  "style": [
+   "warm",
+   "layering",
+   "clean"
+  ],
+  "price_usd": 70,
+  "evidence": "对标 CDLP/Colorful Standard 长袖暖色线",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#c39b4e",
+   "print_color": "#c39b4e",
+   "graphic_desc": "Organic cotton long sleeve crew in mustard, midweight soft body, regular fit",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-slate-henley-longsleeve",
+  "name": "Slate Henley Longsleeve",
+  "collection": "Premium",
+  "category": "henley",
+  "theme": "石板蓝长袖亨利,层次利落",
+  "style": [
+   "henley",
+   "layering",
+   "refined"
+  ],
+  "price_usd": 80,
+  "evidence": "对标 Merz Seraphim henley 长袖款",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#55647a",
+   "print_color": "#55647a",
+   "graphic_desc": "Cotton long sleeve henley in slate blue, three-button placket, ribbed cuffs, slim fit",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-burgundy-supima-crew",
+  "name": "Burgundy Supima Crew",
+  "collection": "Premium",
+  "category": "pima-cotton",
+  "theme": "酒红长绒棉圆领,浓郁细腻",
+  "style": [
+   "rich",
+   "refined",
+   "classic"
+  ],
+  "price_usd": 74,
+  "evidence": "对标 Sunspel Supima 深色经典款",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#5c2a2e",
+   "print_color": "#5c2a2e",
+   "graphic_desc": "Supima cotton crewneck in burgundy, smooth fine jersey, tailored slim fit",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-terra-heavyweight-longsleeve",
+  "name": "Terra Heavyweight Longsleeve",
+  "collection": "Premium",
+  "category": "longsleeve",
+  "theme": "陶土色重磅长袖,厚实垂坠",
+  "style": [
+   "heavyweight",
+   "earthy",
+   "structured"
+  ],
+  "price_usd": 92,
+  "evidence": "对标 Merz 重磅 loopwheel longsleeve 大地色",
+  "source": "premium-dtc",
+  "design": {
+   "base_color": "#b07b5e",
+   "print_color": "#b07b5e",
+   "graphic_desc": "Heavyweight loopwheeled organic cotton long sleeve in terracotta, seamless body, relaxed fit",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-monolith-heavy-tee",
+  "name": "Monolith Heavy Tee",
+  "collection": "Street",
+  "category": "heavyweight-basic",
+  "theme": "280gsm 结构棉打造的极简单品基石",
+  "style": [
+   "heavyweight",
+   "structured",
+   "boxy",
+   "essential"
+  ],
+  "price_usd": 58,
+  "evidence": "2026 重磅棉 240-280gsm 为甜蜜区，结构感支撑 boxy 廓形（eassonapparel/printlyme）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#e8e2d5",
+   "print_color": "#2e2e2e",
+   "graphic_desc": "blank front with a single tonal woven hem tab on left seam",
+   "typography": "none, only a 4mm tonal hem label reading 'M.'"
+  }
+ },
+ {
+  "id": "tf-bone-structure-260",
+  "name": "Bone Structure 260",
+  "collection": "Street",
+  "category": "heavyweight-basic",
+  "theme": "骨色重磅棉的干净垂坠",
+  "style": [
+   "heavyweight",
+   "clean",
+   "minimal"
+  ],
+  "price_usd": 55,
+  "evidence": "零售端建议囤 bone/charcoal/olive 中性色重磅款（onlyteez）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#ede8dc",
+   "print_color": "#33322e",
+   "graphic_desc": "unmarked body with reinforced ribbed collar detail",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-charcoal-slab",
+  "name": "Charcoal Slab",
+  "collection": "Street",
+  "category": "heavyweight-basic",
+  "theme": "炭灰厚实基础款，靠面料说话",
+  "style": [
+   "heavyweight",
+   "quiet",
+   "premium"
+  ],
+  "price_usd": 56,
+  "evidence": "quiet streetwear 靠面料与剪裁而非图案传递品质（printify streetwear 2026）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#2e2e2e",
+   "print_color": "#4a4a46",
+   "graphic_desc": "tonal-on-tonal micro dot at center chest",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-olive-foundry-tee",
+  "name": "Olive Foundry Tee",
+  "collection": "Street",
+  "category": "heavyweight-basic",
+  "theme": "橄榄绿重磅日常主力",
+  "style": [
+   "heavyweight",
+   "earthy",
+   "utilitarian"
+  ],
+  "price_usd": 54,
+  "evidence": "olive/dusty olive 在 2026 近乎中性色，重磅基础款主色（refinery29/nodotstudios）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#575135",
+   "print_color": "#ede8dc",
+   "graphic_desc": "minimal off-white sleeve stitch accent",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-espresso-weight-tee",
+  "name": "Espresso Weight Tee",
+  "collection": "Street",
+  "category": "heavyweight-basic",
+  "theme": "浓缩咖啡棕的成熟厚重感",
+  "style": [
+   "heavyweight",
+   "warm",
+   "mature"
+  ],
+  "price_usd": 57,
+  "evidence": "棕/espresso/clay 成为 2026 街头主力色（fredjoclothing/refinery29）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#3b2e24",
+   "print_color": "#c9bfa8",
+   "graphic_desc": "single tonal chest seam pocket-less panel",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-stone-core-tee",
+  "name": "Stone Core Tee",
+  "collection": "Street",
+  "category": "heavyweight-basic",
+  "theme": "石灰色接地气的重磅底款",
+  "style": [
+   "heavyweight",
+   "neutral",
+   "grounded"
+  ],
+  "price_usd": 52,
+  "evidence": "sand/stone 让重磅款接地气（lovau/nodotstudios）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#bfb49a",
+   "print_color": "#3b2e24",
+   "graphic_desc": "clean body, tonal woven flag at bottom hem",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-sage-density-tee",
+  "name": "Sage Density Tee",
+  "collection": "Street",
+  "category": "heavyweight-basic",
+  "theme": "灰绿重磅款，近乎中性的高级感",
+  "style": [
+   "heavyweight",
+   "muted",
+   "sage"
+  ],
+  "price_usd": 56,
+  "evidence": "muted sage 2026 读作中性色的关键新色（whowhatwear/checkpointsystems）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#9ca894",
+   "print_color": "#33322e",
+   "graphic_desc": "unbranded front with tonal collar bind",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-wax-paper-blank",
+  "name": "Wax Paper Blank",
+  "collection": "Street",
+  "category": "heavyweight-basic",
+  "theme": "米白蜡纸色的极净重磅款",
+  "style": [
+   "heavyweight",
+   "off-white",
+   "clean"
+  ],
+  "price_usd": 53,
+  "evidence": "WGSN 'Wax Paper' 柔白为 2026 tee 理想主色（nodotstudios）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#f0ebde",
+   "print_color": "#5c4433",
+   "graphic_desc": "blank canvas, low-contrast tonal hem tag",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-ash-field-tee",
+  "name": "Ash Field Tee",
+  "collection": "Street",
+  "category": "heavyweight-basic",
+  "theme": "灰调重磅百搭底款",
+  "style": [
+   "heavyweight",
+   "grey",
+   "versatile"
+  ],
+  "price_usd": 50,
+  "evidence": "neutral 重磅款为品牌可规模化基础（inhousemade)",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#9a9a94",
+   "print_color": "#2e2e2e",
+   "graphic_desc": "clean body, reinforced double-needle hem",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-cocoa-anchor-tee",
+  "name": "Cocoa Anchor Tee",
+  "collection": "Street",
+  "category": "heavyweight-basic",
+  "theme": "可可棕的温润重磅锚点",
+  "style": [
+   "heavyweight",
+   "brown",
+   "cozy"
+  ],
+  "price_usd": 55,
+  "evidence": "'Cocoa Powder' 深棕为 2026 grounding 色（nodotstudios）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#5c4433",
+   "print_color": "#ede8dc",
+   "graphic_desc": "tonal micro-embroidered dot at left chest",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-boxcut-volume",
+  "name": "Boxcut Volume",
+  "collection": "Street",
+  "category": "oversized",
+  "theme": "Oversized 3.0 结构化宽短廓形",
+  "style": [
+   "boxy",
+   "structured",
+   "wide-short"
+  ],
+  "price_usd": 62,
+  "evidence": "2026 从 oversized 演进为 'wide & short' boxy 结构款（toohoocustom/stormvalor）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#e8e2d5",
+   "print_color": "#2e2e2e",
+   "graphic_desc": "small centered chest mark, square-cut body drapes off shoulder",
+   "typography": "tiny centered serif reading 'BOXCUT'"
+  }
+ },
+ {
+  "id": "tf-dropshoulder-drift",
+  "name": "Dropshoulder Drift",
+  "collection": "Street",
+  "category": "oversized",
+  "theme": "落肩宽体的从容街头感",
+  "style": [
+   "oversized",
+   "drop-shoulder",
+   "relaxed"
+  ],
+  "price_usd": 60,
+  "evidence": "落肩宽体仍是 2026 街头主流廓形（yiteclothing）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#575135",
+   "print_color": "#ede8dc",
+   "graphic_desc": "minimal small logo left chest, generous body volume",
+   "typography": "small off-white sans 'DRIFT'"
+  }
+ },
+ {
+  "id": "tf-square-frame-tee",
+  "name": "Square Frame Tee",
+  "collection": "Street",
+  "category": "oversized",
+  "theme": "方正剪裁的建筑感廓形",
+  "style": [
+   "boxy",
+   "architectural",
+   "clean"
+  ],
+  "price_usd": 64,
+  "evidence": "高密度面料支撑方正 boxy 廓形不塌（toohoocustom）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#2e2e2e",
+   "print_color": "#c9bfa8",
+   "graphic_desc": "blank front, sharp square silhouette holds shape when still",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-cropped-cube",
+  "name": "Cropped Cube",
+  "collection": "Street",
+  "category": "oversized",
+  "theme": "宽短立方体版型的现代比例",
+  "style": [
+   "boxy",
+   "cropped",
+   "modern"
+  ],
+  "price_usd": 61,
+  "evidence": "boxy=wide & short，缩短衣长带来当代比例（inhousemade quiet streetwear）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#f0ebde",
+   "print_color": "#3b2e24",
+   "graphic_desc": "small tonal wordmark on chest, cropped boxy hem",
+   "typography": "small brown mono 'CUBE'"
+  }
+ },
+ {
+  "id": "tf-wide-set-butter",
+  "name": "Wide Set Butter",
+  "collection": "Street",
+  "category": "oversized",
+  "theme": "黄油色宽体的轻盈表达",
+  "style": [
+   "oversized",
+   "butter",
+   "expressive"
+  ],
+  "price_usd": 63,
+  "evidence": "butter yellow 为 2026 街头引入更轻盈表达色（fredjoclothing）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#f2e2a6",
+   "print_color": "#3b2e24",
+   "graphic_desc": "minimal front, oversized relaxed drape",
+   "typography": "tiny brown serif 'S/26' at hem"
+  }
+ },
+ {
+  "id": "tf-sage-boxform",
+  "name": "Sage Boxform",
+  "collection": "Street",
+  "category": "oversized",
+  "theme": "鼠尾草绿方体廓形",
+  "style": [
+   "boxy",
+   "sage",
+   "structured"
+  ],
+  "price_usd": 62,
+  "evidence": "sage+结构 boxy 为 2026 编辑喜爱组合（whowhatwear）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#9ca894",
+   "print_color": "#33322e",
+   "graphic_desc": "small chest mark, wide square body",
+   "typography": "small charcoal sans 'BXF'"
+  }
+ },
+ {
+  "id": "tf-clay-volume-tee",
+  "name": "Clay Volume Tee",
+  "collection": "Street",
+  "category": "oversized",
+  "theme": "陶土色宽松版型",
+  "style": [
+   "oversized",
+   "clay",
+   "warm"
+  ],
+  "price_usd": 60,
+  "evidence": "clay 为 2026 温暖大廓形代表色（refinery29）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#a97b5d",
+   "print_color": "#ede8dc",
+   "graphic_desc": "off-white small logo left chest, roomy drop shoulder",
+   "typography": "small cream sans 'CLAY.'"
+  }
+ },
+ {
+  "id": "tf-stonecut-oversize",
+  "name": "Stonecut Oversize",
+  "collection": "Street",
+  "category": "oversized",
+  "theme": "石色大廓形基本盘",
+  "style": [
+   "oversized",
+   "stone",
+   "essential"
+  ],
+  "price_usd": 58,
+  "evidence": "neutral 大廓形是街头衣橱底盘（yiteclothing）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#c9bfa8",
+   "print_color": "#2e2e2e",
+   "graphic_desc": "blank front, structured oversized body",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-charcoal-squareline",
+  "name": "Charcoal Squareline",
+  "collection": "Street",
+  "category": "oversized",
+  "theme": "炭灰方线条极简大廓形",
+  "style": [
+   "boxy",
+   "charcoal",
+   "minimal"
+  ],
+  "price_usd": 63,
+  "evidence": "深色 boxy 仍是街头主力，结构感优先（printify streetwear）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#33322e",
+   "print_color": "#9ca894",
+   "graphic_desc": "small tonal square outline at chest",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-lavender-loose-tee",
+  "name": "Lavender Loose Tee",
+  "collection": "Street",
+  "category": "oversized",
+  "theme": "薰衣草紫的意外柔调大身型",
+  "style": [
+   "oversized",
+   "lavender",
+   "soft"
+  ],
+  "price_usd": 61,
+  "evidence": "soft lavender 为 2026 街头意外柔色（fredjoclothing）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#c6c0d6",
+   "print_color": "#3b2e24",
+   "graphic_desc": "minimal front, relaxed oversized drape",
+   "typography": "tiny brown mono 'lvndr'"
+  }
+ },
+ {
+  "id": "tf-acid-fade-tee",
+  "name": "Acid Fade Tee",
+  "collection": "Street",
+  "category": "washed",
+  "theme": "酸洗做旧的仿古穿着感",
+  "style": [
+   "acid-wash",
+   "vintage",
+   "distressed"
+  ],
+  "price_usd": 68,
+  "evidence": "acid wash/washed 处理为高端街头反复出现主题（Cole Buxton acid wash）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#7e8b78",
+   "print_color": "#3b2e24",
+   "graphic_desc": "uneven acid-wash mottling across body, small brown chest mark",
+   "typography": "faded brown serif 'FADE 26'"
+  }
+ },
+ {
+  "id": "tf-sunbleached-bone",
+  "name": "Sunbleached Bone",
+  "collection": "Street",
+  "category": "washed",
+  "theme": "日晒褪色的自然做旧骨白",
+  "style": [
+   "washed",
+   "sunbleached",
+   "lived-in"
+  ],
+  "price_usd": 64,
+  "evidence": "faded washes 给 2026 复古款真实穿旧感（tapstitch/firedtf）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#ede8dc",
+   "print_color": "#b08968",
+   "graphic_desc": "subtle sun-faded gradient at shoulders, tonal print",
+   "typography": "distressed clay serif 'SUN WORN'"
+  }
+ },
+ {
+  "id": "tf-washed-espresso-tee",
+  "name": "Washed Espresso Tee",
+  "collection": "Street",
+  "category": "washed",
+  "theme": "水洗浓咖色的层次褪染",
+  "style": [
+   "washed",
+   "brown",
+   "faded"
+  ],
+  "price_usd": 66,
+  "evidence": "garment-dye washed 深棕契合 2026 earth tone 做旧潮（dtfil/refinery29）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#4a3728",
+   "print_color": "#c9bfa8",
+   "graphic_desc": "pigment-washed uneven tone, small cream flag hem",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-overdye-olive",
+  "name": "Overdye Olive",
+  "collection": "Street",
+  "category": "washed",
+  "theme": "套染橄榄的粗粝做旧质感",
+  "style": [
+   "washed",
+   "overdye",
+   "rugged"
+  ],
+  "price_usd": 65,
+  "evidence": "garment overdye 强化 vintage lived-in 观感（firedtf）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#575135",
+   "print_color": "#ede8dc",
+   "graphic_desc": "tonal overdye variance, small back-neck stamp",
+   "typography": "small cream stencil 'OD.OLV'"
+  }
+ },
+ {
+  "id": "tf-mineral-wash-slate",
+  "name": "Mineral Wash Slate",
+  "collection": "Street",
+  "category": "washed",
+  "theme": "矿物水洗的斑驳石板灰",
+  "style": [
+   "washed",
+   "mineral",
+   "mottled"
+  ],
+  "price_usd": 67,
+  "evidence": "mineral/acid wash 斑驳纹为 2026 做旧标志（tapstitch）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#585955",
+   "print_color": "#c6c0d6",
+   "graphic_desc": "cloudy mineral-wash texture, tonal print only",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-trash-glam-wash",
+  "name": "Trash-Glam Wash",
+  "collection": "Street",
+  "category": "washed",
+  "theme": "Y2K trash-glam 破旧质感",
+  "style": [
+   "washed",
+   "y2k",
+   "distressed"
+  ],
+  "price_usd": 70,
+  "evidence": "'Y2K trash-glam' 破旧水洗为 2026 复古方向（tapstitch）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#3a3a3a",
+   "print_color": "#edd98a",
+   "graphic_desc": "heavy distress at hems and collar, faded chrome chest star",
+   "typography": "distorted chrome-effect 'GLAM'"
+  }
+ },
+ {
+  "id": "tf-faded-sage-wash",
+  "name": "Faded Sage Wash",
+  "collection": "Street",
+  "category": "washed",
+  "theme": "褪色鼠尾草的柔和陈旧感",
+  "style": [
+   "washed",
+   "sage",
+   "soft-fade"
+  ],
+  "price_usd": 63,
+  "evidence": "washed sage 契合 muted 近中性色趋势（checkpointsystems）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#a7b0a0",
+   "print_color": "#4a3728",
+   "graphic_desc": "soft garment fade, small hand-drawn chest sprig",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-vintage-butter-wash",
+  "name": "Vintage Butter Wash",
+  "collection": "Street",
+  "category": "washed",
+  "theme": "复古黄油色的软化做旧",
+  "style": [
+   "washed",
+   "butter",
+   "retro"
+  ],
+  "price_usd": 66,
+  "evidence": "washed cream/butter 为 2026 refined 复古色（elle/fredjoclothing）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#edd98a",
+   "print_color": "#5c4433",
+   "graphic_desc": "pigment-dye fade, distressed vintage number",
+   "typography": "cracked serif '1994' faux-vintage"
+  }
+ },
+ {
+  "id": "tf-storm-wash-navy",
+  "name": "Storm Wash Navy",
+  "collection": "Street",
+  "category": "washed",
+  "theme": "暴风水洗的褪色海军蓝",
+  "style": [
+   "washed",
+   "navy",
+   "faded"
+  ],
+  "price_usd": 65,
+  "evidence": "faded 深色水洗延续 vintage 溢价观感（tapstitch buyers pay premium）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#3b4252",
+   "print_color": "#c9bfa8",
+   "graphic_desc": "salt-wash streaking, small tonal chest crest",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-rust-overdye-tee",
+  "name": "Rust Overdye Tee",
+  "collection": "Street",
+  "category": "washed",
+  "theme": "铁锈套染的暖旧色调",
+  "style": [
+   "washed",
+   "rust",
+   "earthy"
+  ],
+  "price_usd": 64,
+  "evidence": "clay/rust earth tone 做旧为 2026 暖色主力（refinery29）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#9e5c42",
+   "print_color": "#ede8dc",
+   "graphic_desc": "uneven rust overdye, small cream back-neck tab",
+   "typography": "small cream mono 'RST'"
+  }
+ },
+ {
+  "id": "tf-nightbloom-back",
+  "name": "Nightbloom Back",
+  "collection": "Street",
+  "category": "back-print",
+  "theme": "quiet front, loud back 的哥特植物大印花",
+  "style": [
+   "back-print",
+   "gothic",
+   "botanical"
+  ],
+  "price_usd": 74,
+  "evidence": "gothic botanical（夜开花+解剖心）为 2026 强势细分（live.ink/kittl）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#2e2e2e",
+   "print_color": "#a7b0a0",
+   "graphic_desc": "large back print of an anatomical heart wrapped in night-blooming flowers, small front sprig",
+   "typography": "Victorian blackletter arc reading 'NIGHTBLOOM'"
+  }
+ },
+ {
+  "id": "tf-coordinate-souvenir",
+  "name": "Coordinate Souvenir",
+  "collection": "Street",
+  "category": "back-print",
+  "theme": "GPS 坐标可穿戴纪念品大印花",
+  "style": [
+   "back-print",
+   "souvenir",
+   "hyper-local"
+  ],
+  "price_usd": 68,
+  "evidence": "坐标/地图 hyper-local 'wearable souvenir' 需求强（rokulus/kittl）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#ede8dc",
+   "print_color": "#3b2e24",
+   "graphic_desc": "small front area-code mark, large back GPS coordinate grid over faded map lines",
+   "typography": "mono coordinates '34.05N / 118.24W', small serif place-tag front"
+  }
+ },
+ {
+  "id": "tf-souvenir-park-badge",
+  "name": "Souvenir Park Badge",
+  "collection": "Street",
+  "category": "back-print",
+  "theme": "复古国家公园徽章式做旧背印",
+  "style": [
+   "back-print",
+   "souvenir",
+   "vintage-badge"
+  ],
+  "price_usd": 70,
+  "evidence": "复古 national park badge 做旧背印为 2026 纪念品方向（kittl）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#575135",
+   "print_color": "#edd98a",
+   "graphic_desc": "large distressed 1960s-style park badge on back, small chest patch",
+   "typography": "faded slab-serif badge lettering 'RIDGE / EST 26'"
+  }
+ },
+ {
+  "id": "tf-ivy-skull-study",
+  "name": "Ivy Skull Study",
+  "collection": "Street",
+  "category": "back-print",
+  "theme": "藤蔓缠绕骷髅的暗黑手绘背印",
+  "style": [
+   "back-print",
+   "gothic",
+   "hand-drawn"
+  ],
+  "price_usd": 76,
+  "evidence": "skull overgrown with ivy 为 2026 gothic 招牌母题（live.ink）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#33322e",
+   "print_color": "#9ca894",
+   "graphic_desc": "large hand-inked skull overgrown with ivy on back, tiny front cross mark",
+   "typography": "engraved-style label 'MEMENTO'"
+  }
+ },
+ {
+  "id": "tf-chrome-glitch-2026",
+  "name": "Chrome Glitch 2026",
+  "collection": "Street",
+  "category": "back-print",
+  "theme": "Y2K 铬色故障年份大背印",
+  "style": [
+   "back-print",
+   "y2k",
+   "glitch"
+  ],
+  "price_usd": 72,
+  "evidence": "retro year graphic + glitch/RGB split 为 2026 融合趋势（kittl/merchbanao）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#2e2e2e",
+   "print_color": "#c6c0d6",
+   "graphic_desc": "large glitched chrome '2026' with RGB split on back, small front star",
+   "typography": "distorted chrome gradient numerals, pixel front tag"
+  }
+ },
+ {
+  "id": "tf-brutalist-grid-back",
+  "name": "Brutalist Grid Back",
+  "collection": "Street",
+  "category": "back-print",
+  "theme": "极简前 + 粗野主义网格背印",
+  "style": [
+   "back-print",
+   "brutalist",
+   "minimal-front"
+  ],
+  "price_usd": 71,
+  "evidence": "brutalist/Bauhaus 图形为 2026 强势卖款（live.ink）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#ede8dc",
+   "print_color": "#2e2e2e",
+   "graphic_desc": "tiny front dot, large brutalist black grid of stacked type on back",
+   "typography": "heavy grotesk block 'FORM / FUNCTION / 2026'"
+  }
+ },
+ {
+  "id": "tf-faded-photo-back",
+  "name": "Faded Photo Back",
+  "collection": "Street",
+  "category": "back-print",
+  "theme": "复古照片效果的大幅背印",
+  "style": [
+   "back-print",
+   "photo",
+   "vintage"
+  ],
+  "price_usd": 73,
+  "evidence": "vintage photo effect 大背印为 2026 layout 惯例（eassonapparel）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#bfb49a",
+   "print_color": "#3b2e24",
+   "graphic_desc": "large halftone faded photo of a desert highway on back, small chest wordmark",
+   "typography": "condensed sans 'NO EXIT' beneath photo"
+  }
+ },
+ {
+  "id": "tf-solarpunk-sun-back",
+  "name": "Solarpunk Sun Back",
+  "collection": "Street",
+  "category": "back-print",
+  "theme": "太阳朋克绿能主题背印",
+  "style": [
+   "back-print",
+   "solarpunk",
+   "optimistic"
+  ],
+  "price_usd": 69,
+  "evidence": "solarpunk 为 2026 top-performing 图形风格（live.ink）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#9ca894",
+   "print_color": "#f2e2a6",
+   "graphic_desc": "large radiant sun over stylized foliage on back, small front leaf",
+   "typography": "rounded humanist 'GROW FORWARD'"
+  }
+ },
+ {
+  "id": "tf-graffiti-hand-back",
+  "name": "Graffiti Hand Back",
+  "collection": "Street",
+  "category": "back-print",
+  "theme": "手绘涂鸦式反 AI 背印",
+  "style": [
+   "back-print",
+   "graffiti",
+   "hand-drawn"
+  ],
+  "price_usd": 72,
+  "evidence": "'perfectly imperfect' 手绘反 AI 为 2026 反向趋势（kittl/merchbanao）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#2e2e2e",
+   "print_color": "#edd98a",
+   "graphic_desc": "large loose hand-drawn graffiti scrawl on back, small front tag",
+   "typography": "raw marker script 'BY HAND'"
+  }
+ },
+ {
+  "id": "tf-varsity-faded-back",
+  "name": "Varsity Faded Back",
+  "collection": "Street",
+  "category": "back-print",
+  "theme": "复古校园运动褪色背号",
+  "style": [
+   "back-print",
+   "varsity",
+   "retro-sport"
+  ],
+  "price_usd": 70,
+  "evidence": "retro collegiate/varsity 褪色为 2026 常青畅销（rokulus/mynamet）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#5c2e32",
+   "print_color": "#ede8dc",
+   "graphic_desc": "large faded varsity number on back, small chest crest",
+   "typography": "cracked college block '26', serif front crest"
+  }
+ },
+ {
+  "id": "tf-motel-key-souvenir",
+  "name": "Motel Key Souvenir",
+  "collection": "Street",
+  "category": "back-print",
+  "theme": "复古汽车旅馆钥匙牌背印",
+  "style": [
+   "back-print",
+   "souvenir",
+   "retro"
+  ],
+  "price_usd": 71,
+  "evidence": "1960s motel key tag 造型纪念品为 2026 方向（rokulus）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#ede8dc",
+   "print_color": "#9e5c42",
+   "graphic_desc": "large oval motel key-tag graphic on back, small front room number",
+   "typography": "retro script 'ROOM 26' on key tag"
+  }
+ },
+ {
+  "id": "tf-anatomical-rose-back",
+  "name": "Anatomical Rose Back",
+  "collection": "Street",
+  "category": "back-print",
+  "theme": "解剖玫瑰的暗学院背印",
+  "style": [
+   "back-print",
+   "dark-academia",
+   "gothic"
+  ],
+  "price_usd": 75,
+  "evidence": "dark academia/gothic 解剖式插画为 2026 强势（live.ink）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#3b2e24",
+   "print_color": "#c9bfa8",
+   "graphic_desc": "large fine-line anatomical rose diagram on back, tiny front dot",
+   "typography": "latin botanical label 'ROSA / NOCTIS'"
+  }
+ },
+ {
+  "id": "tf-micromark-chest",
+  "name": "Micromark Chest",
+  "collection": "Street",
+  "category": "embroidered",
+  "theme": "左胸微刺绣的克制高级信号",
+  "style": [
+   "embroidered",
+   "micrologo",
+   "quiet"
+  ],
+  "price_usd": 66,
+  "evidence": "left-chest 小刺绣 micrologo 为 2026 高级信号（inhousemade/printful）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#e8e2d5",
+   "print_color": "#2e2e2e",
+   "graphic_desc": "3cm tonal embroidered abstract mark at left chest, blank body",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-tonal-monogram-tee",
+  "name": "Tonal Monogram Tee",
+  "collection": "Street",
+  "category": "embroidered",
+  "theme": "同色系单字母刺绣的隐性品牌",
+  "style": [
+   "embroidered",
+   "tonal",
+   "monogram"
+  ],
+  "price_usd": 64,
+  "evidence": "tonal 刺绣低调却耐洗，restraint 读作 premium（printful）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#575135",
+   "print_color": "#6b6b4e",
+   "graphic_desc": "tonal single-letter monogram embroidered left chest",
+   "typography": "small embroidered serif 'M'"
+  }
+ },
+ {
+  "id": "tf-stitch-crest-bone",
+  "name": "Stitch Crest Bone",
+  "collection": "Street",
+  "category": "embroidered",
+  "theme": "骨白胸口小徽章刺绣",
+  "style": [
+   "embroidered",
+   "crest",
+   "premium"
+  ],
+  "price_usd": 68,
+  "evidence": "小刺绣徽章耐洗、显精致不张扬（rokulus）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#ede8dc",
+   "print_color": "#3b2e24",
+   "graphic_desc": "small embroidered laurel crest at left chest",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-sage-sprig-stitch",
+  "name": "Sage Sprig Stitch",
+  "collection": "Street",
+  "category": "embroidered",
+  "theme": "鼠尾草枝叶手感刺绣",
+  "style": [
+   "embroidered",
+   "botanical",
+   "muted"
+  ],
+  "price_usd": 65,
+  "evidence": "minimal 刺绣植物母题契合 quiet streetwear（printify）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#9ca894",
+   "print_color": "#ede8dc",
+   "graphic_desc": "tiny off-white embroidered sprig at left chest",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-coordinate-stitch-tee",
+  "name": "Coordinate Stitch Tee",
+  "collection": "Street",
+  "category": "embroidered",
+  "theme": "坐标数字胸口刺绣纪念感",
+  "style": [
+   "embroidered",
+   "souvenir",
+   "hyper-local"
+  ],
+  "price_usd": 67,
+  "evidence": "坐标 hyper-local 结合小刺绣 premium 手法（rokulus/printful）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#bfb49a",
+   "print_color": "#3b2e24",
+   "graphic_desc": "small embroidered coordinate string at left chest",
+   "typography": "embroidered mono '40.71N'"
+  }
+ },
+ {
+  "id": "tf-butter-initial-tee",
+  "name": "Butter Initial Tee",
+  "collection": "Street",
+  "category": "embroidered",
+  "theme": "黄油色胸口首字母刺绣",
+  "style": [
+   "embroidered",
+   "butter",
+   "clean"
+  ],
+  "price_usd": 63,
+  "evidence": "single-color 刺绣 logo 持续主导 2026（swag42）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#f2e2a6",
+   "print_color": "#5c4433",
+   "graphic_desc": "small brown embroidered initial at left chest",
+   "typography": "embroidered rounded 'b'"
+  }
+ },
+ {
+  "id": "tf-charcoal-line-stitch",
+  "name": "Charcoal Line Stitch",
+  "collection": "Street",
+  "category": "embroidered",
+  "theme": "炭灰单线抽象刺绣",
+  "style": [
+   "embroidered",
+   "abstract",
+   "minimal"
+  ],
+  "price_usd": 66,
+  "evidence": "typography/线条刺绣紧排间距 2026 显考究（printful）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#33322e",
+   "print_color": "#9a9a94",
+   "graphic_desc": "single continuous-line embroidered abstract face at chest",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-espresso-wordmark-stitch",
+  "name": "Espresso Wordmark Stitch",
+  "collection": "Street",
+  "category": "embroidered",
+  "theme": "咖啡棕紧排字标刺绣",
+  "style": [
+   "embroidered",
+   "typographic",
+   "premium"
+  ],
+  "price_usd": 67,
+  "evidence": "typography 字标间距紧凑时刺绣最佳（printful）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#4a3728",
+   "print_color": "#ede8dc",
+   "graphic_desc": "small tight-spaced embroidered wordmark at chest",
+   "typography": "embroidered condensed sans 'ATELIER'"
+  }
+ },
+ {
+  "id": "tf-sleeve-tab-stitch-tee",
+  "name": "Sleeve Tab Stitch Tee",
+  "collection": "Street",
+  "category": "embroidered",
+  "theme": "袖口隐藏小刺绣的细节控",
+  "style": [
+   "embroidered",
+   "subtle",
+   "detail"
+  ],
+  "price_usd": 64,
+  "evidence": "隐性刺绣位置成 2026 高级细节信号（inhousemade）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#c9bfa8",
+   "print_color": "#2e2e2e",
+   "graphic_desc": "tiny embroidered mark on left sleeve cuff, blank front",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-area-code-stitch-tee",
+  "name": "Area Code Stitch Tee",
+  "collection": "Street",
+  "category": "embroidered",
+  "theme": "区号刺绣的本地身份认同",
+  "style": [
+   "embroidered",
+   "hyper-local",
+   "identity"
+  ],
+  "price_usd": 66,
+  "evidence": "area code hyper-local 情感连接为 2026 需求（rokulus）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#33322e",
+   "print_color": "#edd98a",
+   "graphic_desc": "small embroidered area-code numerals at left chest",
+   "typography": "embroidered mono '213'"
+  }
+ },
+ {
+  "id": "tf-silent-bone-tee",
+  "name": "Silent Bone Tee",
+  "collection": "Premium",
+  "category": "luxury-minimal",
+  "theme": "骨白无标的极致克制",
+  "style": [
+   "luxury-minimal",
+   "quiet",
+   "no-logo"
+  ],
+  "price_usd": 78,
+  "evidence": "quiet streetwear 无 logo、靠面料剪裁传递品质（printify streetwear 2026）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#ede8dc",
+   "print_color": "#ede8dc",
+   "graphic_desc": "completely blank premium body, tonal woven neck label only",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-monochrome-study-tee",
+  "name": "Monochrome Study Tee",
+  "collection": "Premium",
+  "category": "luxury-minimal",
+  "theme": "单色系精工基本款",
+  "style": [
+   "luxury-minimal",
+   "monochrome",
+   "refined"
+  ],
+  "price_usd": 80,
+  "evidence": "monochromatic 极简为 quiet streetwear 核心（printify）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#2e2e2e",
+   "print_color": "#2e2e2e",
+   "graphic_desc": "blank body, tonal-on-tonal seam detailing",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-fine-jersey-essential",
+  "name": "Fine Jersey Essential",
+  "collection": "Premium",
+  "category": "luxury-minimal",
+  "theme": "细密针织的高级基础表达",
+  "style": [
+   "luxury-minimal",
+   "fine-knit",
+   "essential"
+  ],
+  "price_usd": 75,
+  "evidence": "fine jersey/organic cotton 材质驱动奢华观感（printful）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#f0ebde",
+   "print_color": "#c9bfa8",
+   "graphic_desc": "blank front, faint tonal hem stitch",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-sand-restraint-tee",
+  "name": "Sand Restraint Tee",
+  "collection": "Premium",
+  "category": "luxury-minimal",
+  "theme": "沙色留白的高级中性",
+  "style": [
+   "luxury-minimal",
+   "neutral",
+   "restrained"
+  ],
+  "price_usd": 76,
+  "evidence": "restraint 读作 premium，中性色更显考究（inhousemade）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#c9bfa8",
+   "print_color": "#c9bfa8",
+   "graphic_desc": "unbranded body, tonal ribbed collar",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-olive-quiet-tee",
+  "name": "Olive Quiet Tee",
+  "collection": "Premium",
+  "category": "luxury-minimal",
+  "theme": "橄榄绿静奢基本款",
+  "style": [
+   "luxury-minimal",
+   "olive",
+   "quiet-luxury"
+  ],
+  "price_usd": 79,
+  "evidence": "olive/dusty olive 近中性、契合 quiet luxury（nodotstudios）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#575135",
+   "print_color": "#575135",
+   "graphic_desc": "blank body, single tonal seam-flag at hem",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-ecru-precision-tee",
+  "name": "Ecru Precision Tee",
+  "collection": "Premium",
+  "category": "luxury-minimal",
+  "theme": "本白精准剪裁的静奢款",
+  "style": [
+   "luxury-minimal",
+   "ecru",
+   "precise"
+  ],
+  "price_usd": 82,
+  "evidence": "精准剪裁+缝制细节区隔奢华定制款（printful）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#ede8dc",
+   "print_color": "#bfb49a",
+   "graphic_desc": "blank front, precise tonal double-stitch throughout",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-cocoa-minimal-tee",
+  "name": "Cocoa Minimal Tee",
+  "collection": "Premium",
+  "category": "luxury-minimal",
+  "theme": "可可棕静奢暖调",
+  "style": [
+   "luxury-minimal",
+   "brown",
+   "warm"
+  ],
+  "price_usd": 77,
+  "evidence": "brown/espresso 成熟不失锋利，契合 quiet luxury（refinery29）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#5c4433",
+   "print_color": "#5c4433",
+   "graphic_desc": "blank body, tonal woven care tab at side seam",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-greige-line-tee",
+  "name": "Greige Line Tee",
+  "collection": "Premium",
+  "category": "luxury-minimal",
+  "theme": "灰米色极简线条留白",
+  "style": [
+   "luxury-minimal",
+   "greige",
+   "clean"
+  ],
+  "price_usd": 75,
+  "evidence": "tonal 极简为 2026 premium 感来源（inhousemade muted minimal）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#bfb49a",
+   "print_color": "#9a9a94",
+   "graphic_desc": "blank front, single faint tonal line at chest",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-noir-essential-tee",
+  "name": "Noir Essential Tee",
+  "collection": "Premium",
+  "category": "luxury-minimal",
+  "theme": "纯黑无饰的静奢终极款",
+  "style": [
+   "luxury-minimal",
+   "black",
+   "timeless"
+  ],
+  "price_usd": 85,
+  "evidence": "面料与剪裁而非图案定义 2026 奢感（printful/printify）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#1f1f1f",
+   "print_color": "#1f1f1f",
+   "graphic_desc": "blank premium body, tonal neck bind, no external branding",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-puff-sun-motif-tee",
+  "name": "Puff Sun Motif Tee",
+  "collection": "Street",
+  "category": "back-print",
+  "theme": "发泡印太阳纹的厚感 3D 触觉",
+  "style": [
+   "back-print",
+   "puff-print",
+   "tactile"
+  ],
+  "price_usd": 69,
+  "evidence": "puff print 3D 质感契合厚重面料为 2026 印法（eassonapparel）",
+  "source": "streetwear",
+  "design": {
+   "base_color": "#ede8dc",
+   "print_color": "#edd98a",
+   "graphic_desc": "small puff-print sun on chest, large tonal puff rays on back",
+   "typography": "none"
+  }
+ },
+ {
+  "id": "tf-root-of-4489-tee",
+  "name": "Root of 4489 Tee",
+  "collection": "Statement",
+  "category": "meme",
+  "theme": "Gen Alpha number-meme joke rendered as a math equation",
+  "style": [
+   "minimalist",
+   "typography",
+   "brainrot"
+  ],
+  "price_usd": 24,
+  "evidence": "TikTok 2025-2026 breakout '67' number meme; minimalist typography variants top TikTok Shop",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#111111",
+   "print_color": "#f5f5f5",
+   "graphic_desc": "A clean centered square-root radical symbol enclosing 4489, with a tiny equals sign resolving to a blurred-out answer",
+   "typography": "'√4489 = ...' set in a crisp geometric sans like Helvetica Now, single line centered"
+  }
+ },
+ {
+  "id": "tf-certified-brainrot-zone",
+  "name": "Certified Brainrot Zone",
+  "collection": "Statement",
+  "category": "meme",
+  "theme": "Self-aware badge for the chronically online",
+  "style": [
+   "ironic",
+   "badge",
+   "bold-type"
+  ],
+  "price_usd": 25,
+  "evidence": "'Brainrot' is a dominant 2025 meme category across TeePublic/Etsy",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#1b1b3a",
+   "print_color": "#39ff14",
+   "graphic_desc": "A parody hazard-diamond warning badge with a melting brain silhouette in the center",
+   "typography": "'CERTIFIED BRAINROT ZONE' arced around the badge in a chunky condensed sans"
+  }
+ },
+ {
+  "id": "tf-absurd-creature-committee",
+  "name": "Absurd Creature Committee",
+  "collection": "Statement",
+  "category": "meme",
+  "theme": "Original surreal hybrid-animal mascot in the Italian-brainrot spirit",
+  "style": [
+   "absurdist",
+   "illustrated",
+   "weirdcore"
+  ],
+  "price_usd": 26,
+  "evidence": "AI-hybrid 'brainrot creature' collages trending on TeePublic/Redbubble 2025",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#f2e9dc",
+   "print_color": "#2a2a2a",
+   "graphic_desc": "An original hand-drawn creature that is half teapot half flamingo standing on tiny boots, mock-heraldic pose",
+   "typography": "'THE ABSURD CREATURE COMMITTEE' in a warped serif beneath the illustration"
+  }
+ },
+ {
+  "id": "tf-movement-at-your-front-door",
+  "name": "Movement At Your Front Door",
+  "collection": "Statement",
+  "category": "meme",
+  "theme": "Deadpan ominous one-liner in absurdist format",
+  "style": [
+   "deadpan",
+   "typography",
+   "ironic"
+  ],
+  "price_usd": 24,
+  "evidence": "Absurdist ominous-phrase tees viral on TikTok 2025",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#0e0e0e",
+   "print_color": "#e8c34a",
+   "graphic_desc": "A single doorway outline glitching at the edges, text stacked above and below",
+   "typography": "'THERE IS MOVEMENT / AT YOUR FRONT DOOR' in a distressed stencil face, centered"
+  }
+ },
+ {
+  "id": "tf-npc-walking-simulator",
+  "name": "NPC Walking Simulator",
+  "collection": "Statement",
+  "category": "meme",
+  "theme": "Poking fun at going through the motions IRL",
+  "style": [
+   "retro-tech",
+   "pixel",
+   "ironic"
+  ],
+  "price_usd": 25,
+  "evidence": "'NPC walker' / chronically-online humor a recurring 2025 tee theme",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#101820",
+   "print_color": "#00e5ff",
+   "graphic_desc": "A low-poly pixel figure mid-stride with a floating dialogue box reading '...'",
+   "typography": "'NPC WALKING SIMULATOR v1.0' in a pixelated bitmap font under the figure"
+  }
+ },
+ {
+  "id": "tf-let-him-cook-nobody-ate",
+  "name": "Let Him Cook (Nobody Ate)",
+  "collection": "Statement",
+  "category": "meme",
+  "theme": "Ironic twist on the 'let him cook' encouragement slang",
+  "style": [
+   "ironic",
+   "typography",
+   "flame"
+  ],
+  "price_usd": 23,
+  "evidence": "'Let me cook' slang a top-listed Gen Z tee phrase 2025",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#7a1e1e",
+   "print_color": "#ffd9b3",
+   "graphic_desc": "A single cartoon flame under an empty frying pan, small crossed-out plate icon",
+   "typography": "'LET HIM COOK' large, with tiny '(nobody ate)' below in parentheses"
+  }
+ },
+ {
+  "id": "tf-what-the-sigma",
+  "name": "What The Sigma",
+  "collection": "Statement",
+  "category": "meme",
+  "theme": "Nonsense Gen Alpha exclamation as bold graphic",
+  "style": [
+   "bold-type",
+   "gradient",
+   "brainrot"
+  ],
+  "price_usd": 23,
+  "evidence": "'What the sigma' ironic brainrot quote shirts trending TikTok Shop",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#161616",
+   "print_color": "#b14eff",
+   "graphic_desc": "The Greek sigma glyph oversized behind the phrase, subtle sparkle accents",
+   "typography": "'WHAT THE Σ' in a heavy italic display sans with a purple-to-blue gradient fill"
+  }
+ },
+ {
+  "id": "tf-overstimulated-online",
+  "name": "Overstimulated & Online",
+  "collection": "Statement",
+  "category": "meme",
+  "theme": "Relatable overstimulation as a mock-membership club",
+  "style": [
+   "club",
+   "streetwear",
+   "ironic"
+  ],
+  "price_usd": 26,
+  "evidence": "'[X] Club' relatable identity tees remain POD bestsellers 2025",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#ede6da",
+   "print_color": "#3b2f2f",
+   "graphic_desc": "A collegiate crest with tangled headphone cords instead of laurels",
+   "typography": "'OVERSTIMULATED & ONLINE CLUB · EST. NOW' in a vintage varsity serif"
+  }
+ },
+ {
+  "id": "tf-error-404-motivation",
+  "name": "Error 404 Motivation",
+  "collection": "Statement",
+  "category": "meme",
+  "theme": "Tech-error humor about lacking drive",
+  "style": [
+   "retro-tech",
+   "glitch",
+   "minimalist"
+  ],
+  "price_usd": 24,
+  "evidence": "'404: Motivation Not Found' cited as constant tech-worker POD buy",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#f4f4f4",
+   "print_color": "#1a1a1a",
+   "graphic_desc": "A retro browser error window with a broken-image icon, one red accent line",
+   "typography": "'ERROR 404: MOTIVATION NOT FOUND' in a monospace terminal font"
+  }
+ },
+ {
+  "id": "tf-too-silly-to-function",
+  "name": "Too Silly To Function",
+  "collection": "Statement",
+  "category": "meme",
+  "theme": "Wholesome-unhinged 'silly' self-label",
+  "style": [
+   "cute",
+   "bubbly-type",
+   "ironic"
+  ],
+  "price_usd": 23,
+  "evidence": "'Got too silly' Comfort Colors slang tees listed as Gen Z bestsellers",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#f7c6d9",
+   "print_color": "#5a2a6b",
+   "graphic_desc": "A wobbly hand-drawn smiley with crossed eyes and a party-hat doodle",
+   "typography": "'TOO SILLY TO FUNCTION' in a bouncy hand-lettered bubble font"
+  }
+ },
+ {
+  "id": "tf-i-heart-my-hometown-allegedly",
+  "name": "I Heart My Hometown (Allegedly)",
+  "collection": "Statement",
+  "category": "i-heart",
+  "theme": "Ironic tourist-tee twist with skeptical parenthetical",
+  "style": [
+   "tourist-tee",
+   "ironic",
+   "bold-color"
+  ],
+  "price_usd": 25,
+  "evidence": "Tourist / 'I heart [place]' tee revival driven by Chanel runway 2025-26",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#ffffff",
+   "print_color": "#e4002b",
+   "graphic_desc": "Classic block layout with an original rounded heart glyph, blank fill-in-feeling city word",
+   "typography": "'I ❤ MY HOMETOWN' bold slab, small italic '(allegedly)' beneath"
+  }
+ },
+ {
+  "id": "tf-someone-who-tolerates-me-went-away",
+  "name": "Someone Who Tolerates Me Went Away",
+  "collection": "Statement",
+  "category": "i-heart",
+  "theme": "Self-deprecating gift-shop souvenir parody",
+  "style": [
+   "tourist-tee",
+   "self-deprecating",
+   "vintage"
+  ],
+  "price_usd": 26,
+  "evidence": "'Someone who loves me went to X...' souvenir-tee irony revived 2025",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#f2d34e",
+   "print_color": "#2b2b2b",
+   "graphic_desc": "A faux airbrushed sunset arc with palm-tree silhouette, mock souvenir framing",
+   "typography": "'SOMEONE WHO TOLERATES ME WENT ON VACATION AND ALL I GOT WAS THIS TEE' in mixed condensed caps"
+  }
+ },
+ {
+  "id": "tf-i-heart-touch-grass",
+  "name": "I Heart Touch Grass",
+  "collection": "Statement",
+  "category": "i-heart",
+  "theme": "Internet 'touch grass' advice as an ironic love-tee",
+  "style": [
+   "tourist-tee",
+   "ironic",
+   "bright"
+  ],
+  "price_usd": 24,
+  "evidence": "I-heart format + chronically-online humor both peaking 2025",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#ffffff",
+   "print_color": "#1e8a3b",
+   "graphic_desc": "The heart glyph filled with a tuft of illustrated grass blades",
+   "typography": "'I ❤ TOUCH GRASS' in a rounded bold sans, single centered line"
+  }
+ },
+ {
+  "id": "tf-i-heart-being-left-alone",
+  "name": "I Heart Being Left Alone",
+  "collection": "Statement",
+  "category": "i-heart",
+  "theme": "Introvert manifesto in tourist-tee clothing",
+  "style": [
+   "tourist-tee",
+   "introvert",
+   "minimalist"
+  ],
+  "price_usd": 24,
+  "evidence": "I-heart revival + introvert humor niche both strong 2025",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#111111",
+   "print_color": "#ff5ca8",
+   "graphic_desc": "A small pink heart with a 'do not disturb' door-hanger looped through it",
+   "typography": "'I ❤ BEING LEFT ALONE' in clean bold caps, pink on black"
+  }
+ },
+ {
+  "id": "tf-i-heart-nowhere-in-particular",
+  "name": "I Heart Nowhere In Particular",
+  "collection": "Statement",
+  "category": "i-heart",
+  "theme": "Anti-tourist tee for a fictional non-place",
+  "style": [
+   "tourist-tee",
+   "absurdist",
+   "bold-color"
+  ],
+  "price_usd": 25,
+  "evidence": "Fictional/parody place branding converts better than generic quotes (POD 2025)",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#0057b8",
+   "print_color": "#ffffff",
+   "graphic_desc": "A blank map-pin dropped into an empty coordinate grid beside the heart",
+   "typography": "'I ❤ NOWHERE IN PARTICULAR' in a jaunty italic display face"
+  }
+ },
+ {
+  "id": "tf-greetings-from-the-group-chat",
+  "name": "Greetings From The Group Chat",
+  "collection": "Statement",
+  "category": "i-heart",
+  "theme": "Postcard-style souvenir tee for online life",
+  "style": [
+   "tourist-tee",
+   "postcard",
+   "retro"
+  ],
+  "price_usd": 26,
+  "evidence": "Souvenir/postcard tee revival + online-culture humor 2025",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#f4ead5",
+   "print_color": "#c0392b",
+   "graphic_desc": "Vintage 'Greetings From' postcard lettering where each big letter is filled with a phone-chat bubble scene",
+   "typography": "'GREETINGS FROM THE GROUP CHAT' in classic postcard fill-letters"
+  }
+ },
+ {
+  "id": "tf-tourist-in-my-own-life",
+  "name": "Tourist In My Own Life",
+  "collection": "Statement",
+  "category": "i-heart",
+  "theme": "Wistful ironic souvenir slogan",
+  "style": [
+   "tourist-tee",
+   "vintage-wash",
+   "ironic"
+  ],
+  "price_usd": 26,
+  "evidence": "Tourist-tee sincerity/irony blend a documented 2025 fashion moment",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#d9cbb2",
+   "print_color": "#3e5c76",
+   "graphic_desc": "A faded luggage-tag graphic with a doodled camera dangling from it",
+   "typography": "'TOURIST IN MY OWN LIFE' in a washed vintage serif, distressed texture"
+  }
+ },
+ {
+  "id": "tf-i-heart-loud-colors",
+  "name": "I Heart Loud Colors",
+  "collection": "Statement",
+  "category": "i-heart",
+  "theme": "Playful maximalist tourist-tee in bright palette",
+  "style": [
+   "tourist-tee",
+   "maximalist",
+   "bright"
+  ],
+  "price_usd": 24,
+  "evidence": "Editors advise bright-color tourist tees to lean into ironic playfulness 2025",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#ff7a00",
+   "print_color": "#ffffff",
+   "graphic_desc": "The heart glyph splattered like a paint blob with confetti dots around it",
+   "typography": "'I ❤ LOUD COLORS' in a fat rounded display font, white on orange"
+  }
+ },
+ {
+  "id": "tf-fresh-off-the-millennium",
+  "name": "Fresh Off The Millennium",
+  "collection": "Graphic",
+  "category": "nostalgia",
+  "theme": "Y2K rebirth badge for early-2000s kids",
+  "style": [
+   "y2k",
+   "chrome-type",
+   "retro"
+  ],
+  "price_usd": 27,
+  "evidence": "Y2K aesthetic dominant POD tee trend 2025; 'vintage Y2K' searches +40% YoY",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#c0c0c0",
+   "print_color": "#ff3ea5",
+   "graphic_desc": "A chrome bubble emblem with a shooting-star swoosh in the background",
+   "typography": "'FRESH OFF THE MILLENNIUM · 2000' in a liquid-chrome bubble font"
+  }
+ },
+ {
+  "id": "tf-dial-up-kid",
+  "name": "Dial-Up Kid",
+  "collection": "Graphic",
+  "category": "nostalgia",
+  "theme": "Badge of honor for the dial-up-internet generation",
+  "style": [
+   "retro-tech",
+   "pixel",
+   "nostalgia"
+  ],
+  "price_usd": 25,
+  "evidence": "90s/2000s retro-tech and nostalgia-core a top emerging 2025 POD trend",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#101820",
+   "print_color": "#7fe7ff",
+   "graphic_desc": "A pixel-art computer tower with sound-wave lines and a tiny loading bar",
+   "typography": "'DIAL-UP KID · PLEASE WAIT...' in a chunky bitmap font"
+  }
+ },
+ {
+  "id": "tf-saturday-morning-rerun",
+  "name": "Saturday Morning Rerun",
+  "collection": "Graphic",
+  "category": "nostalgia",
+  "theme": "Childhood-core homage to 2000s Saturday cartoons",
+  "style": [
+   "cartoon",
+   "nostalgia",
+   "pastel"
+  ],
+  "price_usd": 26,
+  "evidence": "Retro-cartoon childhood-core tees a core Etsy nostalgia niche 2025",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#fbe7a1",
+   "print_color": "#5a3e2b",
+   "graphic_desc": "An original chunky cartoon TV set with squiggle antennas showing a bowl of cereal on screen",
+   "typography": "'SATURDAY MORNING RERUN' in a wobbly retro cartoon font"
+  }
+ },
+ {
+  "id": "tf-powered-by-nostalgia",
+  "name": "Powered By Nostalgia",
+  "collection": "Graphic",
+  "category": "nostalgia",
+  "theme": "Tongue-in-cheek 'energy source' label",
+  "style": [
+   "y2k",
+   "sticker-collage",
+   "bold-type"
+  ],
+  "price_usd": 25,
+  "evidence": "Nostalgia + bold typography combos strong POD 2025",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#ffffff",
+   "print_color": "#2d2dff",
+   "graphic_desc": "A battery icon at 100% charge with tiny nostalgic doodles (gel pen, cassette) around it",
+   "typography": "'POWERED BY NOSTALGIA' in a blocky retro sans, primary-color accents"
+  }
+ },
+ {
+  "id": "tf-muted-y2k-baby-tee",
+  "name": "Muted Y2K Baby Tee",
+  "collection": "Graphic",
+  "category": "nostalgia",
+  "theme": "Refined, washed-out take on the Y2K baby tee",
+  "style": [
+   "y2k",
+   "muted",
+   "minimalist"
+  ],
+  "price_usd": 26,
+  "evidence": "2025 shift toward muted-tone, vintage-wash minimalist Y2K designs",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#d6c7be",
+   "print_color": "#8a6a57",
+   "graphic_desc": "A small centered butterfly outline with a subtle sparkle trail, understated",
+   "typography": "'y2k, but tired' in a lowercase thin rounded font, centered small"
+  }
+ },
+ {
+  "id": "tf-cyber-daydream",
+  "name": "Cyber Daydream",
+  "collection": "Graphic",
+  "category": "nostalgia",
+  "theme": "Cyber-Y2K futuristic glitch aesthetic",
+  "style": [
+   "cyber-y2k",
+   "glitch",
+   "sci-fi"
+  ],
+  "price_usd": 27,
+  "evidence": "'Cyber Y2K' glitchy sci-fi pixel graphics a 2025 sub-current",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#0b0b1f",
+   "print_color": "#00ffc6",
+   "graphic_desc": "A glitched wireframe orb with scan-lines and floating pixel fragments",
+   "typography": "'CYBER DAYDREAM' in a stretched sci-fi techno font with RGB-split edges"
+  }
+ },
+ {
+  "id": "tf-gel-pen-doodle-club",
+  "name": "Gel Pen Doodle Club",
+  "collection": "Graphic",
+  "category": "nostalgia",
+  "theme": "2000s notebook-doodle nostalgia",
+  "style": [
+   "childhood-core",
+   "doodle",
+   "pastel"
+  ],
+  "price_usd": 24,
+  "evidence": "Childhood-core / gel-pen 2000s doodle nostalgia trending Etsy 2025",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#eaf3ff",
+   "print_color": "#ff66c4",
+   "graphic_desc": "A scatter of gel-pen style doodles: stars, hearts, a smiley sun, connected by loops",
+   "typography": "'GEL PEN DOODLE CLUB' in a glittery cursive scrawl"
+  }
+ },
+ {
+  "id": "tf-rewind-please",
+  "name": "Rewind Please",
+  "collection": "Graphic",
+  "category": "nostalgia",
+  "theme": "VHS-era homage with rewind gag",
+  "style": [
+   "retro",
+   "vhs",
+   "distressed"
+  ],
+  "price_usd": 25,
+  "evidence": "Vintage/retro nostalgia motifs consistently top POD 2025",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#1c1c1c",
+   "print_color": "#f25c05",
+   "graphic_desc": "A distressed VHS cassette with a 'BE KIND REWIND' sticker peeling off",
+   "typography": "'REWIND PLEASE' in a warped retro marquee font with tracking-glitch lines"
+  }
+ },
+ {
+  "id": "tf-snack-break-enthusiast",
+  "name": "Snack Break Enthusiast",
+  "collection": "Statement",
+  "category": "ironic-text",
+  "theme": "Relatable snack-obsession humor",
+  "style": [
+   "cozy",
+   "embroidered-look",
+   "cute"
+  ],
+  "price_usd": 25,
+  "evidence": "Relatable animal/snack humor tees (e.g. raccoon 'I require snacks') bestselling Etsy 2025",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#c7b299",
+   "print_color": "#3e2f23",
+   "graphic_desc": "A small chubby raccoon clutching a cracker, embroidered-patch style rendering",
+   "typography": "'SNACK BREAK ENTHUSIAST' in a cozy rounded serif under the raccoon"
+  }
+ },
+ {
+  "id": "tf-keep-mansplaining-i-m-not-listening",
+  "name": "Keep Mansplaining I'm Not Listening",
+  "collection": "Statement",
+  "category": "ironic-text",
+  "theme": "Deadpan feminist clapback one-liner",
+  "style": [
+   "deadpan",
+   "typography",
+   "bold"
+  ],
+  "price_usd": 24,
+  "evidence": "'Keep mansplaining I'm not listening' cited among trending slang tees 2025",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#111111",
+   "print_color": "#f5f5f5",
+   "graphic_desc": "A small muted speaker icon with a slash through it beside the text block",
+   "typography": "'KEEP MANSPLAINING, I'M NOT LISTENING' in a tight condensed sans, left-aligned"
+  }
+ },
+ {
+  "id": "tf-emotionally-unavailable-til-coffee",
+  "name": "Emotionally Unavailable Til Coffee",
+  "collection": "Statement",
+  "category": "ironic-text",
+  "theme": "Pre-caffeine mood humor",
+  "style": [
+   "deadpan",
+   "minimalist",
+   "typography"
+  ],
+  "price_usd": 23,
+  "evidence": "'Relatable exhaustion + dry wit' formula tops Etsy funny-tee sales 2025",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#efeae2",
+   "print_color": "#4a2c2a",
+   "graphic_desc": "A single steaming coffee cup outline with a flatline heart-monitor line above it",
+   "typography": "'EMOTIONALLY UNAVAILABLE UNTIL COFFEE' stacked in a plain bold sans"
+  }
+ },
+ {
+  "id": "tf-i-don-t-get-enough-credit",
+  "name": "I Don't Get Enough Credit",
+  "collection": "Statement",
+  "category": "ironic-text",
+  "theme": "Dry wit about restraint",
+  "style": [
+   "deadpan",
+   "typography",
+   "minimal"
+  ],
+  "price_usd": 24,
+  "evidence": "'I don't get enough credit for the things I manage not to say' a bestselling snark tee 2025",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#2e2e2e",
+   "print_color": "#e8e8e8",
+   "graphic_desc": "A zipped-mouth doodle small in the corner, mostly clean text layout",
+   "typography": "'I DON'T GET ENOUGH CREDIT FOR THE THINGS I MANAGE NOT TO SAY' in a serif, centered multi-line"
+  }
+ },
+ {
+  "id": "tf-wake-up-idiots-happen",
+  "name": "Wake Up, Idiots Happen",
+  "collection": "Statement",
+  "category": "ironic-text",
+  "theme": "Sarcastic take on toxic positivity",
+  "style": [
+   "sarcastic",
+   "typography",
+   "bold"
+  ],
+  "price_usd": 24,
+  "evidence": "'Wake up with a good attitude and then idiots happen' listed bestseller Etsy 2025",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#f4d35e",
+   "print_color": "#1a1a1a",
+   "graphic_desc": "A cheery sun with a slightly cracked frown drawn over it",
+   "typography": "'WAKE UP WITH A GOOD ATTITUDE / AND THEN IDIOTS HAPPEN' in a bouncy caps sans"
+  }
+ },
+ {
+  "id": "tf-running-on-snacks-and-spite",
+  "name": "Running On Snacks And Spite",
+  "collection": "Statement",
+  "category": "ironic-text",
+  "theme": "Fuel-source joke about petty motivation",
+  "style": [
+   "ironic",
+   "typography",
+   "grunge"
+  ],
+  "price_usd": 24,
+  "evidence": "Dry-wit fuel-source one-liners a staple of relatable POD tees 2025",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#3a2e39",
+   "print_color": "#f0a6ca",
+   "graphic_desc": "A jagged energy-bolt icon splitting a tiny cookie, grunge texture overlay",
+   "typography": "'RUNNING ON SNACKS & SPITE' in a rough hand-inked display font"
+  }
+ },
+ {
+  "id": "tf-my-brain-has-too-many-tabs",
+  "name": "My Brain Has Too Many Tabs",
+  "collection": "Statement",
+  "category": "ironic-text",
+  "theme": "Overwhelmed-mind tech metaphor",
+  "style": [
+   "retro-tech",
+   "minimalist",
+   "relatable"
+  ],
+  "price_usd": 24,
+  "evidence": "'My brain has too many tabs open' a constantly-bought tech-humor tee 2025",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#f4f4f4",
+   "print_color": "#1a73e8",
+   "graphic_desc": "A row of overloaded browser tabs cascading off the edge, one with a spinning loader",
+   "typography": "'TOO MANY TABS OPEN' in a clean UI-style sans, small caption 'send help'"
+  }
+ },
+ {
+  "id": "tf-professional-overthinker",
+  "name": "Professional Overthinker",
+  "collection": "Statement",
+  "category": "ironic-text",
+  "theme": "Mock job title for anxious minds",
+  "style": [
+   "mental-health",
+   "typography",
+   "clean"
+  ],
+  "price_usd": 25,
+  "evidence": "Mental-health humor niche grew 200%+ over 3 years (POD reports 2025)",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#e7ecef",
+   "print_color": "#2f3e46",
+   "graphic_desc": "A tangled single-line scribble forming a loose brain shape",
+   "typography": "'PROFESSIONAL OVERTHINKER · DEPT. OF WHAT-IFS' in a tidy modern serif"
+  }
+ },
+ {
+  "id": "tf-it-s-okay-to-log-off",
+  "name": "It's Okay To Log Off",
+  "collection": "Statement",
+  "category": "ironic-text",
+  "theme": "Gentle mental-health boundary message",
+  "style": [
+   "mental-health",
+   "soft",
+   "minimal"
+  ],
+  "price_usd": 25,
+  "evidence": "Boundary-setting / 'it's okay' mental-health phrases a fast-growing POD niche 2025",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#dde7c7",
+   "print_color": "#40531b",
+   "graphic_desc": "A soft rounded power-button symbol with a tiny sprout growing from it",
+   "typography": "'IT'S OKAY TO LOG OFF' in a calm humanist sans, lowercase"
+  }
+ },
+ {
+  "id": "tf-boundaries-are-my-cardio",
+  "name": "Boundaries Are My Cardio",
+  "collection": "Statement",
+  "category": "ironic-text",
+  "theme": "Wellness-meets-sass mental-health humor",
+  "style": [
+   "mental-health",
+   "wellness",
+   "bold"
+  ],
+  "price_usd": 25,
+  "evidence": "Boundary + wellness humor mash-up a documented POD growth niche 2025",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#f7ece1",
+   "print_color": "#b5651d",
+   "graphic_desc": "A small stop-hand icon inside a running-track oval",
+   "typography": "'BOUNDARIES ARE MY CARDIO' in a confident rounded bold sans"
+  }
+ },
+ {
+  "id": "tf-night-shift-survivor",
+  "name": "Night Shift Survivor",
+  "collection": "Graphic",
+  "category": "pod-bestseller",
+  "theme": "Occupation-pride tee for nurses and night workers",
+  "style": [
+   "occupation",
+   "bold-type",
+   "badge"
+  ],
+  "price_usd": 26,
+  "evidence": "Occupation niches (nurses/paramedics) among highest-earning POD categories 2025",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#0d1b2a",
+   "print_color": "#4cc9f0",
+   "graphic_desc": "A crescent moon cradling a flatline-to-heartbeat EKG line, small coffee cup accent",
+   "typography": "'NIGHT SHIFT SURVIVOR' in a strong condensed sans, badge arc below"
+  }
+ },
+ {
+  "id": "tf-teacher-off-duty",
+  "name": "Teacher Off Duty",
+  "collection": "Graphic",
+  "category": "pod-bestseller",
+  "theme": "Occupation inside-joke for burned-out teachers",
+  "style": [
+   "occupation",
+   "playful",
+   "typography"
+  ],
+  "price_usd": 25,
+  "evidence": "Teacher occupation niche a perennial POD bestseller with inside-joke designs 2025",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#f6e8b1",
+   "print_color": "#7b2d26",
+   "graphic_desc": "A chalk-drawn 'do not disturb until September' apple with a tiny crown",
+   "typography": "'TEACHER · OFFICIALLY OFF DUTY' in a hand-chalk lettering style"
+  }
+ },
+ {
+  "id": "tf-corgi-ramen-society",
+  "name": "Corgi Ramen Society",
+  "collection": "Graphic",
+  "category": "pod-bestseller",
+  "theme": "Niche-intersection of dog-breed love and ramen fandom",
+  "style": [
+   "niche-intersection",
+   "illustrated",
+   "kawaii"
+  ],
+  "price_usd": 27,
+  "evidence": "'Corgi eating ramen' niche-intersection cited as ideal 2025 POD strategy",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#f3e5d0",
+   "print_color": "#c0392b",
+   "graphic_desc": "A round corgi happily lifting noodles from a steaming ramen bowl with chopsticks",
+   "typography": "'CORGI RAMEN SOCIETY' in a soft kawaii rounded font with a Japanese-brush accent stroke"
+  }
+ },
+ {
+  "id": "tf-my-cat-runs-this-house",
+  "name": "My Cat Runs This House",
+  "collection": "Graphic",
+  "category": "pod-bestseller",
+  "theme": "Pet-owner identity humor",
+  "style": [
+   "pet",
+   "cute",
+   "bold-type"
+  ],
+  "price_usd": 25,
+  "evidence": "Pet/animal niche a top POD earner; 95M US pet households pay premiums 2025",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#2b2b2b",
+   "print_color": "#f2a65a",
+   "graphic_desc": "A smug cat silhouette sitting on a tiny throne with a paw raised",
+   "typography": "'MY CAT RUNS THIS HOUSE · I JUST PAY RENT' in a friendly rounded caps"
+  }
+ },
+ {
+  "id": "tf-gym-now-feelings-later",
+  "name": "Gym Now, Feelings Later",
+  "collection": "Graphic",
+  "category": "pod-bestseller",
+  "theme": "Fitness-culture bravado with a wink",
+  "style": [
+   "fitness",
+   "bold",
+   "streetwear"
+  ],
+  "price_usd": 25,
+  "evidence": "Fitness/gym culture a dominating POD niche amid 2025 wellness boom",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#111111",
+   "print_color": "#efefef",
+   "graphic_desc": "A dumbbell where one weight plate is a tiny cracked heart",
+   "typography": "'GYM NOW · FEELINGS LATER' in a heavy athletic block font, slight italic"
+  }
+ },
+ {
+  "id": "tf-void-supply-co",
+  "name": "Void Supply Co.",
+  "collection": "Graphic",
+  "category": "pod-bestseller",
+  "theme": "Fake streetwear brand for an entity that sells nothing",
+  "style": [
+   "fake-brand",
+   "streetwear",
+   "minimalist"
+  ],
+  "price_usd": 28,
+  "evidence": "Fictional brands like 'Void Supply Co.' converting better than inspirational quotes (POD 2025)",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#0a0a0a",
+   "print_color": "#ededed",
+   "graphic_desc": "A minimalist circular seal wrapping around a solid black void-dot in the center",
+   "typography": "'VOID SUPPLY CO. — EST. null' in a spare high-fashion sans, wide letter-spacing"
+  }
+ },
+ {
+  "id": "tf-delulu-department",
+  "name": "Delulu Department",
+  "collection": "Graphic",
+  "category": "pod-bestseller",
+  "theme": "Parody corporate seal for the delusional-optimist crowd",
+  "style": [
+   "fake-brand",
+   "parody-seal",
+   "bold-type"
+  ],
+  "price_usd": 27,
+  "evidence": "'Delulu Department' fake-branding + 'delulu' slang both top POD/Etsy 2025",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#ede6da",
+   "print_color": "#8e2de2",
+   "graphic_desc": "A government-style parody seal with a rose-tinted glasses icon at center, mock ribbon banner",
+   "typography": "'OFFICIAL DELULU DEPARTMENT · MANIFESTING SINCE ALWAYS' arced around the seal"
+  }
+ },
+ {
+  "id": "tf-sad-mushroom-aesthetic",
+  "name": "Sad Mushroom Aesthetic",
+  "collection": "Graphic",
+  "category": "pod-bestseller",
+  "theme": "Melancholy goblincore mushroom micro-niche",
+  "style": [
+   "goblincore",
+   "cottagecore",
+   "illustrated"
+  ],
+  "price_usd": 26,
+  "evidence": "'Sad Mushroom Aesthetic' cited as a winning micro-niche keyword (POD 2025)",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#3b4a3f",
+   "print_color": "#d9a066",
+   "graphic_desc": "A hand-drawn slumped toadstool with a single dewdrop tear, mossy speckles around it",
+   "typography": "'sad mushroom aesthetic' in a delicate lowercase serif, botanical vibe"
+  }
+ },
+ {
+  "id": "tf-off-to-cause-a-kerfuffle",
+  "name": "Off To Cause A Kerfuffle",
+  "collection": "Graphic",
+  "category": "pod-bestseller",
+  "theme": "Mischievous frog goblincore meme",
+  "style": [
+   "goblincore",
+   "frog",
+   "whimsical"
+  ],
+  "price_usd": 26,
+  "evidence": "'Off to cause a kerfuffle' frog tees a bestselling goblincore Etsy niche 2025",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#e8e2cf",
+   "print_color": "#4e7a3a",
+   "graphic_desc": "A cheerful little frog wearing a tiny bindle sack over its shoulder, mid-hop",
+   "typography": "'OFF TO CAUSE A KERFUFFLE' in a whimsical storybook hand-letter"
+  }
+ },
+ {
+  "id": "tf-waiting-for-the-mushrooms-to-grow",
+  "name": "Waiting For The Mushrooms To Grow",
+  "collection": "Graphic",
+  "category": "pod-bestseller",
+  "theme": "Patient cottagecore frog-and-fungi scene",
+  "style": [
+   "cottagecore",
+   "frog",
+   "cozy"
+  ],
+  "price_usd": 26,
+  "evidence": "Frog 'waiting for mushrooms to grow' a representative goblincore bestseller (Redbubble 2025)",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#c9d6c0",
+   "print_color": "#5a4632",
+   "graphic_desc": "A frog sitting cross-legged beside sprouting mushrooms, tiny watering can nearby",
+   "typography": "'waiting for the mushrooms to grow' in a soft cottagecore script"
+  }
+ },
+ {
+  "id": "tf-chronically-cozy",
+  "name": "Chronically Cozy",
+  "collection": "Graphic",
+  "category": "pod-bestseller",
+  "theme": "Homebody comfort-core identity tee",
+  "style": [
+   "cozy",
+   "cute",
+   "minimalist"
+  ],
+  "price_usd": 24,
+  "evidence": "Cozy homebody + relatable comfort tees a steady POD niche 2025",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#ead9c7",
+   "print_color": "#6b4226",
+   "graphic_desc": "A steaming mug wrapped in a knit blanket doodle with tiny 'z z z' floating up",
+   "typography": "'CHRONICALLY COZY' in a warm rounded lowercase serif"
+  }
+ },
+ {
+  "id": "tf-local-cryptid",
+  "name": "Local Cryptid",
+  "collection": "Graphic",
+  "category": "pod-bestseller",
+  "theme": "Mysterious-loner humor via cryptid branding",
+  "style": [
+   "weirdcore",
+   "illustrated",
+   "ironic"
+  ],
+  "price_usd": 25,
+  "evidence": "Weirdcore/cryptid meme aesthetic a hot overlapping POD niche 2025",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#1f2421",
+   "print_color": "#a3b18a",
+   "graphic_desc": "A blurry 'caught on trail-cam' silhouette of a hooded figure with glowing eyes, timestamp overlay",
+   "typography": "'LOCAL CRYPTID · UNVERIFIED SIGHTING' in a spooky condensed serif"
+  }
+ },
+ {
+  "id": "tf-certified-plant-killer",
+  "name": "Certified Plant Killer",
+  "collection": "Graphic",
+  "category": "pod-bestseller",
+  "theme": "Self-aware houseplant-owner humor",
+  "style": [
+   "cottagecore",
+   "ironic",
+   "cute"
+  ],
+  "price_usd": 24,
+  "evidence": "Plant-parent humor a durable relatable POD niche 2025",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#f0ead6",
+   "print_color": "#556b2f",
+   "graphic_desc": "A drooping potted plant with an 'RIP' tag and one hopeful new leaf",
+   "typography": "'CERTIFIED PLANT KILLER · TRYING MY BEST' in a friendly serif"
+  }
+ },
+ {
+  "id": "tf-reading-is-my-cardio",
+  "name": "Reading Is My Cardio",
+  "collection": "Graphic",
+  "category": "pod-bestseller",
+  "theme": "Bookworm-fitness niche intersection",
+  "style": [
+   "niche-intersection",
+   "typography",
+   "cozy"
+  ],
+  "price_usd": 24,
+  "evidence": "Hobby niches (bookish + wellness) among growing POD micro-niches 2025",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#efe6da",
+   "print_color": "#5e2c04",
+   "graphic_desc": "A stack of books shaped like a dumbbell with a bookmark ribbon",
+   "typography": "'READING IS MY CARDIO' in a classic literary serif"
+  }
+ },
+ {
+  "id": "tf-feral-but-make-it-fashion",
+  "name": "Feral But Make It Fashion",
+  "collection": "Graphic",
+  "category": "pod-bestseller",
+  "theme": "Chaotic-girl streetwear energy",
+  "style": [
+   "streetwear",
+   "bold-type",
+   "ironic"
+  ],
+  "price_usd": 25,
+  "evidence": "'Feral girl' chaotic-humor tees a bestselling Gen Z streetwear vibe 2025",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#1a1a1a",
+   "print_color": "#ff2e63",
+   "graphic_desc": "A clawed scratch-mark slashing diagonally behind the text",
+   "typography": "'FERAL BUT MAKE IT FASHION' in a glam italic serif over the scratch marks"
+  }
+ },
+ {
+  "id": "tf-anti-social-social-club-reject",
+  "name": "Anti-Social Social Club Reject",
+  "collection": "Graphic",
+  "category": "pod-bestseller",
+  "theme": "Anti-design ironic membership parody",
+  "style": [
+   "anti-design",
+   "chaotic",
+   "ironic"
+  ],
+  "price_usd": 25,
+  "evidence": "Anti-design 'ugly' chaotic layouts a documented Gen Z POD shift 2025",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#ffffff",
+   "print_color": "#000000",
+   "graphic_desc": "Intentionally clashing MS-Paint doodles, mismatched fonts and a scribbled-out crest",
+   "typography": "'ANTISOCIAL club REJECT' in three deliberately mismatched typefaces, uneven baseline"
+  }
+ },
+ {
+  "id": "tf-powered-by-caffeine-and-deadlines",
+  "name": "Powered By Caffeine And Deadlines",
+  "collection": "Graphic",
+  "category": "pod-bestseller",
+  "theme": "Office/worker relatable fuel humor",
+  "style": [
+   "ironic",
+   "retro-tech",
+   "typography"
+  ],
+  "price_usd": 24,
+  "evidence": "Tech-worker/office relatable humor a constant POD seller 2025",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#2b2118",
+   "print_color": "#e9c46a",
+   "graphic_desc": "A coffee-cup icon fused with a ticking clock, tiny sweat-drop accents",
+   "typography": "'POWERED BY CAFFEINE & DEADLINES' in a monospace office-memo font"
+  }
+ },
+ {
+  "id": "tf-goblin-mode-activated",
+  "name": "Goblin Mode: Activated",
+  "collection": "Graphic",
+  "category": "pod-bestseller",
+  "theme": "Goblincore chaos-comfort mode toggle",
+  "style": [
+   "goblincore",
+   "weirdcore",
+   "bold-type"
+  ],
+  "price_usd": 25,
+  "evidence": "Goblincore + 'goblin mode' humor a hot overlapping POD niche 2025",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#3d2c1e",
+   "print_color": "#9acd32",
+   "graphic_desc": "A grinning little goblin curled in a nest of snack wrappers, toggle switch flipped to ON",
+   "typography": "'GOBLIN MODE: ACTIVATED' in a jagged playful display font"
+  }
+ },
+ {
+  "id": "tf-emotional-support-water-bottle",
+  "name": "Emotional Support Water Bottle",
+  "collection": "Graphic",
+  "category": "pod-bestseller",
+  "theme": "Wellness-culture accessory joke",
+  "style": [
+   "wellness",
+   "cute",
+   "ironic"
+  ],
+  "price_usd": 24,
+  "evidence": "Wellness/hydration humor riding the 2025 fitness-culture POD wave",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#dceef2",
+   "print_color": "#2a7f86",
+   "graphic_desc": "An oversized tumbler with a face and tiny arms hugging itself, hydration sparkles",
+   "typography": "'EMOTIONAL SUPPORT WATER BOTTLE' in a rounded cheerful sans"
+  }
+ },
+ {
+  "id": "tf-retired-under-achiever",
+  "name": "Retired Under Achiever",
+  "collection": "Statement",
+  "category": "ironic-text",
+  "theme": "Deadpan low-ambition humor",
+  "style": [
+   "deadpan",
+   "minimalist",
+   "typography"
+  ],
+  "price_usd": 23,
+  "evidence": "Dry low-effort humor one-liners a staple relatable POD category 2025",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#e8e8e8",
+   "print_color": "#333333",
+   "graphic_desc": "A tiny participation-ribbon icon hanging limply beside the text",
+   "typography": "'RETIRED PROFESSIONAL UNDERACHIEVER' in a plain typewriter font"
+  }
+ },
+ {
+  "id": "tf-main-character-energy-background-extra",
+  "name": "Main Character Energy (Background Extra)",
+  "collection": "Statement",
+  "category": "ironic-text",
+  "theme": "Self-aware twist on 'main character' slang",
+  "style": [
+   "ironic",
+   "typography",
+   "cinematic"
+  ],
+  "price_usd": 25,
+  "evidence": "'Main character energy' slang + self-deprecating twist trending Gen Z tees 2025",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#111111",
+   "print_color": "#f5c518",
+   "graphic_desc": "A film clapperboard with a spotlight, plus a tiny arrow pointing offstage",
+   "typography": "'MAIN CHARACTER ENERGY' large, '(background extra)' small below, cinematic serif"
+  }
+ },
+ {
+  "id": "tf-bet-you-won-t",
+  "name": "Bet You Won't",
+  "collection": "Statement",
+  "category": "meme",
+  "theme": "Gen Z 'bet' slang as a dare graphic",
+  "style": [
+   "bold-type",
+   "streetwear",
+   "brainrot"
+  ],
+  "price_usd": 23,
+  "evidence": "'Bet' among top-listed Gen Z slang tee phrases 2025",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#151515",
+   "print_color": "#ff9e00",
+   "graphic_desc": "Two dice mid-roll with a raised-eyebrow emoji-style face between them",
+   "typography": "'BET YOU WON'T' in an oversized graffiti-influenced bold sans"
+  }
+ },
+ {
+  "id": "tf-sleepy-but-make-it-a-personality",
+  "name": "Sleepy But Make It A Personality",
+  "collection": "Statement",
+  "category": "ironic-text",
+  "theme": "Chronic tiredness as identity",
+  "style": [
+   "cozy",
+   "minimalist",
+   "ironic"
+  ],
+  "price_usd": 24,
+  "evidence": "Relatable exhaustion humor tops Etsy funny-tee sales 2025",
+  "source": "viral-pod",
+  "design": {
+   "base_color": "#d8d2e0",
+   "print_color": "#3c3168",
+   "graphic_desc": "A crescent moon wearing tiny slippers, with 'zzz' trailing off",
+   "typography": "'SLEEPY, BUT MAKE IT A PERSONALITY' in a soft lowercase rounded serif"
+  }
+ }
+]
